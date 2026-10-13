@@ -1,9 +1,10 @@
 {
+  "id": "/endocrinology-course/",
   "name": "غدد درون‌ریز — دوره آموزشی",
   "short_name": "غدد",
   "description": "دوره آموزشی غدد درون‌ریز",
-  "start_url": "/hematology-course/",
-  "scope": "/hematology-course/",
+  "start_url": "/endocrinology-course/",
+  "scope": "/endocrinology-course/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f8fafc",
@@ -12,13 +13,13 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "/hematology-course/assets/favicon.svg",
+      "src": "/endocrinology-course/assets/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/hematology-course/assets/favicon.svg",
+      "src": "/endocrinology-course/assets/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "maskable"

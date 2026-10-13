@@ -1,0 +1,506 @@
+{
+  "session": {
+    "id": "session-03",
+    "title": "چاقی و سندرم متابولیک",
+    "shortTitle": "دکتر عباسی",
+    "description": "مرور جامع تعریف، پاتوفیزیولوژی، علل، عوارض، ارزیابی و درمان چاقی و سندرم متابولیک بر اساس منبع",
+    "sections": [
+      {
+        "id": "session-03-section-01",
+        "title": "تعریف، اندازه‌گیری و طبقه‌بندی چاقی",
+        "description": "BMI، دور کمر، محدودیت‌های قومیتی و خطر بیماری",
+        "cards": [
+          {
+            "id": "session-03-section-01-card-01",
+            "type": "info",
+            "title": "تعریف چاقی و محدودیت‌های اندازه‌گیری چربی بدن",
+            "content": "==چاقی== یک بیماری مزمن است که با افزایش ذخیره انرژی به صورت بافت چربی مشخص می‌شود. تعریف عملی چاقی بر اساس ++BMI++ است: وزن (kg) تقسیم بر مربع قد (m²). روش‌های دقیق‌تر مانند وزن‌سنجی زیر آب، **DEXA**، **CT** و **MRI** برای اندازه‌گیری توده چربی و توزیع آن در عمل کاربردی نیستند.\n\nBMI برای طبقه‌بندی وضعیت وزن و خطر بیماری استفاده می‌شود."
+          },
+          {
+            "id": "session-03-section-01-card-02",
+            "type": "key_point",
+            "title": "دور کمر؛ شاخص چربی احشایی",
+            "content": "اندازه‌گیری دور کمر یا نسبت دور کمر به باسن به‌طور مستقل با خطر بالاتر ==سندرم متابولیک==، ==دیابت ملیتوس== و بیماری قلبی‌عروقی مرتبط است.\n\nدور کمر جایگزین چربی احشایی است و باید در صفحه افقی بالای کرست ایلیاک در افراد با ++BMI ≤35 kg/m²++ اندازه‌گیری شود."
+          },
+          {
+            "id": "session-03-section-01-card-03",
+            "type": "table",
+            "title": "طبقه‌بندی وزن بر اساس BMI",
+            "columns": ["طبقه‌بندی وزن", "کلاس چاقی", "BMI اروپایی (kg/m²)", "BMI آسیایی (kg/m²)", "خطر بیماری‌های مرتبط با چاقی"],
+            "rows": [
+              ["کم‌وزن", "", "<18.5", "<17.5", "افزایش"],
+              ["وزن نرمال", "", "18.5–24.9", "17.5–22.9", "نرمال"],
+              ["اضافه وزن", "", "25.0–29.9", "23.0–27.4", "افزایش"],
+              ["چاقی", "I", "30.0–34.9", "27.5–32.4", "بالا"],
+              ["چاقی", "II", "35.0–39.9", "32.5–37.5", "بسیار بالا"],
+              ["چاقی شدید", "III", "≥40.0", "≥37.5", "بسیار بسیار بالا"]
+            ]
+          },
+          {
+            "id": "session-03-section-01-card-04",
+            "type": "key_point",
+            "title": "آستانه‌های دور کمر",
+            "content": "آستانه‌های دور کمر برای افزایش خطر cardiometabolic: ++40 اینچ (102 cm)++ در مردان سفیدپوست و ++35 اینچ (88 cm)++ در زنان.\n\n**WHO** برای جمعیت آسیایی: ++35.4 اینچ (90 cm)++ برای مردان و ++31.5 اینچ (80 cm)++ برای زنان. در **Japan** و **China** مقادیر پیشنهادی: ++33.5 اینچ (85 cm)++ برای مردان و ++31.5 اینچ (80 cm)++ برای زنان؛ در هند مقادیر کمی پایین‌تر."
+          },
+          {
+            "id": "session-03-section-01-card-05",
+            "type": "info",
+            "title": "تأثیر قومیت و آمادگی هوازی بر خطر",
+            "content": "رابطه BMI با خطر سلامت مطلق نیست و تحت تأثیر توزیع چربی بدن، سن، بیماری همراه، افزایش وزن، آمادگی هوازی و قومیت است.\n\nافراد سیاه‌پوست در BMI پایین‌تری نسبت به افراد اروپایی‌تبار خطر بیماری دارند؛ برای مثال BMI معادل خطر دیابت در زنان سفیدپوست ++30 kg/m²++ و در زنان سیاه‌پوست ++26 kg/m²++ است. خطر در مردان در سراسر قومیت‌ها بالاتر از زنان است."
+          },
+          {
+            "id": "session-03-section-01-card-06",
+            "type": "flashcard",
+            "question": "چرا چربی احشایی خطرناک‌تر از چربی زیرجلدی است؟",
+            "answer": "چربی احشایی با خطر بالاتر comorbidities همراه است. دور کمر با توده چربی شکمی همبستگی دارد و پیش‌بینی‌کننده پیامدهای سلامت در مردان و زنان بزرگسال مستقل از سن و قومیت است؛ قوی‌ترین ارتباط آن با خطر ==دیابت نوع 2== است و پیش‌بینی‌کننده مستقل و بهتر دیابت نوع 2 نسبت به BMI است."
+          },
+          {
+            "id": "session-03-section-01-card-07",
+            "type": "quiz",
+            "question": "کدام محدوده BMI برای چاقی کلاس I در جمعیت اروپایی تعریف شده است؟",
+            "options": ["25.0–29.9", "30.0–34.9", "35.0–39.9", "≥40.0"],
+            "correctAnswer": 1,
+            "explanation": "چاقی کلاس I در اروپایی‌ها با BMI ++30.0–34.9 kg/m²++ تعریف می‌شود. اضافه وزن 25.0–29.9، چاقی کلاس II 35.0–39.9 و چاقی شدید ≥40.0 است."
+          },
+          {
+            "id": "session-03-section-01-card-08",
+            "type": "key_point",
+            "title": "نکته مهم",
+            "content": "افزایش خطر بیماری با BMI در محدوده ++>35 kg/m²++ به‌ویژه در مردان جهش واضح‌تری پیدا می‌کند. خطر حتی در BMI نسبتاً پایین نیز شروع به افزایش می‌کند."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-02",
+        "title": "تنظیم وزن و اشتها",
+        "description": "هیپوتالاموس، لپتین، هورمون‌های گوارشی و مسیر ملانوکورتین",
+        "cards": [
+          {
+            "id": "session-03-section-02-card-01",
+            "type": "info",
+            "title": "هیپوتالاموس و مدار اشتها",
+            "content": "==هیپوتالاموس== برای یکپارچه‌سازی سیگنال‌های پیچیده governing food ingestion ضروری است. **Arcuate nucleus** در هیپوتالاموس mediolabial قرار دارد و نورون‌های مهم میانجی سیری و گرسنگی را جای می‌دهد.\n\nدو مجموعه نورون: نورون‌های پرواورکسیژنیک که **NPY** و **AgRP** بیان می‌کنند، و نورون‌های مهارکننده اشتها که ژن **POMC** را بیان می‌کنند."
+          },
+          {
+            "id": "session-03-section-02-card-02",
+            "type": "info",
+            "title": "مسیر POMC و MC4R",
+            "content": "پپتیدهای مشتق از **POMC** شامل **α-MSH** و **β-MSH** روی گیرنده **MC4R** عمل می‌کنند و مصرف غذا و جنبه‌هایی از مصرف انرژی تحت تأثیر سیستم عصبی سمپاتیک را تنظیم می‌کنند.\n\n**γ-MSH** عمدتاً از طریق گیرنده **MC3R** در کنترل رشد خطی و توزیع مواد مغذی به بافت چربی در مقابل بافت بدون چربی نقش دارد. **AGRP** گیرنده‌های ملانوکورتین را فعالانه خاموش می‌کند."
+          },
+          {
+            "id": "session-03-section-02-card-03",
+            "type": "key_point",
+            "title": "نقش لپتین در تنظیم وزن",
+            "content": "**لپتین** توسط سلول‌های چربی تولید می‌شود؛ با افزایش ذخایر چربی افزایش و با تخلیه ذخایر کاهش می‌یابد. در محدودیت کالری، سطح لپتین سریع‌تر از ناپدید شدن چربی افت می‌کند.\n\nکاهش لپتین به زیر سطح نرمال یک محرک قوی برای مصرف غذا است. لپتین هم‌زمان نورون‌های **POMC** را تحریک و نورون‌های **NPY/AGRP** را مهار می‌کند."
+          },
+          {
+            "id": "session-03-section-02-card-04",
+            "type": "info",
+            "title": "هورمون‌های محیطی سیری و گرسنگی",
+            "content": "هورمون‌های محیطی مانند **CCK** از معده، **GLP-1** و **GIP** از سلول‌های enteroendocrine روده کوچک، و **PYY** و **oxyntomodulin** از روده بزرگ در پاسخ به غذا و/یا حضور مواد مغذی در لومن روده ترشح می‌شوند.\n\nترشح آن‌ها همراه با سیگنال‌های عصبی **vagus** و سیستم عصبی enteric به سیری کمک می‌کند و اغلب به‌طور غیرمستقیم از طریق projections از brainstem روی هیپوتالاموس اثر می‌گذارند. **انسولین** و **آمیلین** از پانکراس در پاسخ به وعده‌های غنی از کربوهیدرات و پروتئین؛ **گرلین** از معده در حالت ناشتا افزایش و اشتها را القا می‌کند."
+          },
+          {
+            "id": "session-03-section-02-card-05",
+            "type": "table",
+            "title": "سیگنال‌های کلیدی تنظیم اشتها",
+            "columns": ["سیگنال", "منبع", "اثر اصلی"],
+            "rows": [
+              ["**لپتین**", "بافت چربی", "مهار اشتها، افزایش مصرف انرژی، حساسیت به انسولین"],
+              ["**گرلین**", "معده", "افزایش اشتها در حالت ناشتا"],
+              ["**GLP-1**", "روده کوچک", "سیری، ترشح انسولین"],
+              ["**GIP**", "روده کوچک", "سیری/تنظیم انسولین"],
+              ["**PYY**", "روده بزرگ", "سیری"],
+              ["**CCK**", "معده", "سیری"],
+              ["**انسولین/آمیلین**", "پانکراس", "سیری، تنظیم قند"],
+              ["**NPY/AgRP**", "هیپوتالاموس", "تحریک اشتها"],
+              ["**POMC**", "هیپوتالاموس", "مهار اشتها"]
+            ]
+          },
+          {
+            "id": "session-03-section-02-card-06",
+            "type": "key_point",
+            "title": "جهش MC4R؛ شایع‌ترین علت مونوژنیک چاقی",
+            "content": "جهش‌های هتروزیگوت که عملکرد **MC4R** را مختل می‌کنند در ++5-6%++ بیماران با چاقی شدید زودرس و با فراوانی حدود ++1 در 300++ در جمعیت عمومی یافت می‌شوند؛ بنابراین شایع‌ترین ژنی است که واریانت‌های آن به چاقی کمک می‌کنند.\n\nوراثت co-dominant با نفوذ و بیان متغیر در ناقلان هتروزیگوت؛ هموزیگوت‌ها به‌شدت چاق هستند. بیماران اغلب از اوایل کودکی hyperphagic، hyperinsulinemic و دارای توده بدون چربی و رشد خطی افزایش‌یافته‌اند."
+          },
+          {
+            "id": "session-03-section-02-card-07",
+            "type": "flashcard",
+            "question": "عواقب نقص مادرزادی لپتین چیست و درمان آن؟",
+            "answer": "نوزادان بدون لپتین یا گیرنده لپتین عملکردی، اگرچه در بدو تولد وزن طبیعی دارند، از سنین پایین چاقی شدید پیدا می‌کنند که عمدتاً ناشی از drive شدید به غذا خوردن (hyperphagia) است. نقص مادرزادی لپتین با تزریق زیرجلدی **لپتین نوترکیب** درمان می‌شود؛ اما نقص گیرنده لپتین به لپتین پاسخ نمی‌دهد و **setmelanotide** (آگونیست MC4R) برای آن مجاز است."
+          },
+          {
+            "id": "session-03-section-02-card-08",
+            "type": "quiz",
+            "question": "کدام نورون‌ها در هسته arcuate اشتها را تحریک می‌کنند؟",
+            "options": ["نورون‌های POMC", "نورون‌های NPY/AgRP", "نورون‌های MC4R", "نورون‌های GLP-1"],
+            "correctAnswer": 1,
+            "explanation": "نورون‌های **NPY/AgRP** پرواورکسیژنیک هستند و اشتها را تحریک می‌کنند. نورون‌های **POMC** مهارکننده اشتها هستند."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-03",
+        "title": "علل ژنتیکی و سندرمی چاقی",
+        "description": "سندرم‌های کلاسیک و اختلالات لپتین-ملانوکورتین",
+        "cards": [
+          {
+            "id": "session-03-section-03-card-01",
+            "type": "info",
+            "title": "سندرم Prader-Willi",
+            "content": "==سندرم Prader-Willi (PWS)== شایع‌ترین علت سندرومی چاقی است با شیوع تخمینی ++~1 در 25,000++. یک اختلال اتوزومال غالب ناشی از حذف ناحیه imprinted روی کروموزوم 15 پدری است.\n\nویژگی‌های بالینی: hypotonia، مشکلات تغذیه در شیرخوارگی، تأخیر رشد، hypogonadotropic hypogonadism، hyperphagia و چاقی. توده بدون چربی کاهش و توده چربی افزایش می‌یابد؛ شبیه کمبود **GH**. درمان **GH** چربی بدن را کاهش و رشد خطی و توده عضلانی را افزایش می‌دهد و استاندارد مراقبت است."
+          },
+          {
+            "id": "session-03-section-03-card-02",
+            "type": "table",
+            "title": "سندرم‌های ژنتیکی کلاسیک چاقی",
+            "columns": ["سندرم", "وراثت", "ویژگی‌های بالینی"],
+            "rows": [
+              ["Prader-Willi", "اتوزومال غالب", "Hypotonia، عدم رشد در شیرخوارگی، تأخیر رشد، قد کوتاه، hypogonadotropic hypogonadism، اختلال خواب، رفتار وسواسی"],
+              ["Albright hereditary osteodystrophy / pseudohypoparathyroidism", "اتوزومال غالب", "قد کوتاه در برخی، نقص اسکلتی، تأخیر رشد، متاکارپ کوتاه؛ مقاومت هورمونی در صورت جهش روی آلل مادری"],
+              ["Bardet-Biedl", "اتوزومال مغلوب", "Syndactyly/brachydactyly/polydactyly، تأخیر رشد، دیستروفی شبکیه یا رتینوپاتی پیگمانته، hypogonadism، ناهنجاری کلیوی"],
+              ["Cohen", "اتوزومال مغلوب", "دیسمورفیسم صورت، میکروسفالی، hypotonia، تأخیر رشد، رتینوپاتی"],
+              ["Carpenter", "اتوزومال مغلوب", "Acrocephaly، brachydactyly، تأخیر رشد، نقص قلبی مادرزادی، تأخیر رشد، hypogonadism"],
+              ["Alström", "اتوزومال مغلوب", "دیستروفی پیشرونده cone-rod، کم‌شنوایی حسی‌عصبی، hyperinsulinemia، دیابت نوع 2 زودرس، کاردیومیوپاتی اتساعی، فیبروز ریوی/کبدی/کلیوی"],
+              ["Tubby", "اتوزومال مغلوب", "دیستروفی پیشرونده cone-rod، کم‌شنوایی"]
+            ]
+          },
+          {
+            "id": "session-03-section-03-card-03",
+            "type": "info",
+            "title": "Bardet-Biedl و Albright",
+            "content": "==سندرم Bardet-Biedl (BBS)== یک بیماری نادر اتوزومال مغلوب است که با چاقی، تأخیر رشد، polydactyly، دیستروفی شبکیه یا رتینوپاتی پیگمانته، hypogonadism و ناهنجاری‌ها مشخص می‌شود. آگونیست‌های گیرنده ملانوکورتین ممکن است در درمان hyperphagia و چاقی در BBS مفید باشند.\n\n==Albright hereditary osteodystrophy (AHO)== یا **pseudohypoparathyroidism (PHP)** ناشی از جهش‌های ارثی یا de novo در ژن imprinted **GNAS1** است که پروتئین **Gαs** را کد می‌کند. انتقال مادری جهش GNAS1 منجر به قد کوتاه، چاقی، نقص اسکلتی و مقاومت به چند هورمون (مانند PTH) می‌شود؛ انتقال پدری فقط فنوتیپ AHO را ایجاد می‌کند."
+          },
+          {
+            "id": "session-03-section-03-card-04",
+            "type": "info",
+            "title": "اختلالات سیگنالینگ لپتین-ملانوکورتین",
+            "content": "جهش‌های هموزیگوت که تولید یا عملکرد **لپتین** را مختل می‌کنند نادرند اما قابل درمان‌اند. کودکان با جهش loss-of-function هموزیگوت لپتین در ماه‌های اول زندگی افزایش وزن سریع و چاقی شدید به دلیل drive شدید به غذا خوردن (hyperphagia) و اختلال سیری با رفتار food-seeking دارند.\n\nویژگی‌های مشابه در جهش هموزیگوت گیرنده لپتین دیده می‌شود اما به درمان لپتین پاسخ نمی‌دهند. رشد بلوغ طبیعی در بزرگسالان با نقص لپتین یا گیرنده آن به‌ندرت رخ می‌دهد و شواهد بیوشیمیایی hypogonadotropic hypogonadism وجود دارد. درمان لپتین پیشرفت بلوغ را ممکن می‌کند و نشان می‌دهد لپتین یک فاکتور permissive برای بلوغ است."
+          },
+          {
+            "id": "session-03-section-03-card-05",
+            "type": "key_point",
+            "title": "نقص POMC",
+            "content": "جهش‌های هموزیگوت یا compound heterozygous در **POMC** منجر به hyperphagia و چاقی زودرس می‌شود. بیماران همچنین دچار نقص isolated **ACTH** (هیپوگلیسمی نوزادی و یرقان کلستاتیک) می‌شوند.\n\nفقدان پپتیدهای مشتق از POMC در بیماران چاق با نقص POMC باعث hypopigmentation پوست و مو می‌شود که در افراد Caucasian با موی قرمز بیشتر قابل توجه است."
+          },
+          {
+            "id": "session-03-section-03-card-06",
+            "type": "flashcard",
+            "question": "درمان خاص نقص لپتین و نقص گیرنده لپتین چیست؟",
+            "answer": "نقص لپتین: تزریق زیرجلدی **لپتین نوترکیب** باعث کاهش گرسنگی، افزایش سیری و کاهش وزن می‌شود. نقص گیرنده لپتین: به لپتین پاسخ نمی‌دهد؛ **setmelanotide** (آگونیست MC4R) برای مدیریت وزن مزمن در نقص گیرنده لپتین مجاز شده است."
+          },
+          {
+            "id": "session-03-section-03-card-07",
+            "type": "quiz",
+            "question": "کدام سندرم شایع‌ترین علت سندرومی چاقی است؟",
+            "options": ["Bardet-Biedl", "Prader-Willi", "Cohen", "Alström"],
+            "correctAnswer": 1,
+            "explanation": "==سندرم Prader-Willi== شایع‌ترین علت سندرومی چاقی با شیوع حدود ++1 در 25,000++ است."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-04",
+        "title": "علل ثانویه چاقی",
+        "description": "اختلالات اندوکرین، هیپوتالاموس و داروها",
+        "cards": [
+          {
+            "id": "session-03-section-04-card-01",
+            "type": "info",
+            "title": "علل اندوکرین چاقی",
+            "content": "بیماران با ==hypothyroidism== ممکن است وزن اضافه کنند و چاق شوند، اگرچه به‌ندرت تنها علت چاقی شدید است. اندازه‌گیری **TSH** بیماری اولیه قابل توجه تیروئید را تشخیص می‌دهد؛ برای hypothyroidism ثانویه نادر، اندازه‌گیری **free thyroxine** اضافی لازم است.\n\nافزایش وزن می‌تواند تظاهر ==سندرم Cushing== باشد. وجود spontaneous bruising، livid striae، myopathy و توزیع centripetal چربی به افتراق hypercortisolism endogenous از چاقی شایع کمک می‌کند. تشخیص با ++24-h urine free cortisol++ یا مهار کورتیزول سرم با **dexamethasone**."
+          },
+          {
+            "id": "session-03-section-04-card-02",
+            "type": "key_point",
+            "title": "انسولینوما و آسیب هیپوتالاموس",
+            "content": "افزایش وزن می‌تواند تظاهر ==insulinoma== باشد که عمدتاً ناشی از نیاز به غذا خوردن مکرر برای اجتناب از هیپوگلیسمی است.\n\nآسیب هیپوتالاموس (تومورهایی مانند **craniopharyngioma**، توده‌های التهابی، یا پس از آسیب شدید سر) می‌تواند باعث چاقی شود. در چنین مواردی اغلب شواهدی از اختلال عملکرد هورمونی anterior یا posterior pituitary وجود دارد، هرچند ممکن است ظریف باشد و سابقه hyperphagia و افزایش وزن اغلب کوتاه است."
+          },
+          {
+            "id": "session-03-section-04-card-03",
+            "type": "key_point",
+            "title": "داروهای ایجادکننده افزایش وزن",
+            "content": "داروهای ضد دیابت: **insulin**، **sulfonylureas**، **thiazolidinediones**. هورمون‌های استروئیدی. آنتی‌سایکوتیک‌ها: **clozapine**، **olanzapine**، **risperidone**؛ mood stabilizers مانند **lithium**؛ antidepressants مانند **tricyclics**، **MAOIs**، **paroxetine**، **mirtazapine**؛ antiepileptic drugs مانند **valproate**، **gabapentin**، **carbamazepine**.\n\n@@داروهای دیگر مانند NSAIDs و calcium channel blockers ممکن است ادم محیطی ایجاد کنند اما بافت چربی را افزایش نمی‌دهند.@@"
+          },
+          {
+            "id": "session-03-section-04-card-04",
+            "type": "flashcard",
+            "question": "چه یافته‌هایی در معاینه به نفع Cushing به‌جای چاقی ساده است؟",
+            "answer": "Spontaneous bruising، livid striae، myopathy و توزیع centripetal بارز چربی بدن. این‌ها به افتراق true endogenous hypercortisolism از چاقی شایع کمک می‌کنند."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-05",
+        "title": "عوارض چاقی",
+        "description": "قلبی‌عروقی، تنفسی، گوارشی، پوستی، اسکلتی و سرطان",
+        "cards": [
+          {
+            "id": "session-03-section-05-card-01",
+            "type": "info",
+            "title": "عوارض قلبی‌عروقی و متابولیک",
+            "content": "چاقی با افزایش morbidity و mortality از بیماری عروق آتروترومبوتیک شامل ==coronary artery disease== و ==stroke== همراه است. شیوع **hypertension**، **dyslipidemia** و **insulin resistance/hyperinsulinemia** افزایش می‌یابد.\n\nخطر ==heart failure== به‌ویژه با dysfunction diastolic و ==atrial fibrillation== (شایع‌ترین آریتمی) افزایش می‌یابد. ==Thrombotic thrombocytopenic purpura== نادر، که باعث microvascular platelet thrombosis، thrombocytopenia و hemolytic anemia می‌شود، به‌شدت با چاقی مرتبط است."
+          },
+          {
+            "id": "session-03-section-05-card-02",
+            "type": "info",
+            "title": "عوارض تنفسی و گوارشی",
+            "content": "**Exertional dyspnea** در چاقی به دلیل جابه‌جایی توده بیشتر و اثرات فشار روی دیافراگم و قفسه سینه بر compliance دیواره قفسه سینه رخ می‌دهد. بزرگ‌شدن بافت نرم دهان و گلو و depots چربی اطراف راه‌های هوایی به شیوع بالای ==sleep apnea== کمک می‌کند.\n\n**Reflux esophagitis** شایع‌ترین عارضه گوارشی چاقی است، به‌ویژه در افراد با فشار داخل شکمی بالا. **Gallstones** نیز شایع‌تر است و خطر biliary colic، cholecystitis، pancreatitis و gallbladder cancer را افزایش می‌دهد."
+          },
+          {
+            "id": "session-03-section-05-card-03",
+            "type": "info",
+            "title": "عوارض پوستی، روماتولوژیک و سرطان",
+            "content": "چاقی می‌تواند با چین‌های پوستی اضافی باعث تحریک مکانیکی و عفونت قارچی شود. **Insulin resistance/hyperinsulinemia** با ==acanthosis nigricans== (hyperpigmentation مخملی در axilla، groin و پشت گردن) مرتبط است. ==Hidradenitis suppurativa== یک بیماری پوستی ناتوان‌کننده با جوش‌های عودکننده و sinus tracts در نواحی دارای غدد عرق apocrine است.\n\n**Osteoarthritis** زانو و **gout** دو بیماری روماتولوژیک شایع مرتبط با چاقی هستند. برخلاف ماهیت proinflammatory چاقی، شواهدی برای افزایش **rheumatoid arthritis** یا seronegative arthritis وجود ندارد. چاقی از سیگار به‌عنوان بزرگ‌ترین عامل خطر سرطان پیشی گرفته است؛ با افزایش ++5 kg/m²++ در BMI، mortality سرطان ++10%++ افزایش می‌یابد. بزرگ‌ترین اثرات روی **colorectal**, **kidney**, **pancreatic** cancer، adenocarcinoma esophagus و در زنان **endometrial carcinoma** است."
+          },
+          {
+            "id": "session-03-section-05-card-04",
+            "type": "table",
+            "title": "مرور سیستم‌های درگیر در چاقی",
+            "columns": ["سیستم", "شرایط مرتبط"],
+            "rows": [
+              ["قلبی‌عروقی", "Hypertension، Dyspnea، Congestive heart failure، Varicose veins، Pulmonary embolism، Coronary artery disease"],
+              ["تنفسی", "Obstructive sleep apnea، Cor pulmonale، Hypoventilation syndrome، Pickwickian syndrome، Asthma"],
+              ["گوارشی", "Gastroesophageal reflux disease، Nonalcoholic fatty liver disease، Cholelithiasis، Hernias، Colon cancer"],
+              ["اندوکرین/متابولیک", "Metabolic syndrome، Type 2 diabetes، Dyslipidemia، Polycystic ovarian syndrome"],
+              ["اسکلتی‌عضلانی", "Hyperuricemia and gout، Immobility، Osteoarthritis (knees and hips)، Low back pain، Carpal tunnel syndrome"],
+              ["ادراری‌تناسلی", "Urinary stress incontinence، Obesity-related glomerulopathy، Hypogonadism (male)، Pregnancy complications"],
+              ["پوستی", "Striae distensae، Stasis pigmentation of legs، Lymphedema، Cellulitis، Intertrigo، Carbuncles، Acanthosis nigricans، Acrochordons، Hidradenitis suppurativa"],
+              ["عصبی/روانی", "Depression/low self-esteem، Stroke، Body image disturbance، Social stigmatization، Idiopathic intracranial hypertension، Meralgia paresthetica، Dementia"]
+            ]
+          },
+          {
+            "id": "session-03-section-05-card-05",
+            "type": "key_point",
+            "title": "PCOS و هیپوگنادیسم مردانه",
+            "content": "در زنان چاق، **insulin resistance/hyperinsulinemia** با ==PCOS== همراه است که با قاعدگی نامنظم، ناباروری آنوولاتوری و hirsutism به دلیل hyperandrogenism مشخص می‌شود.\n\nدر مردان، چاقی بیشتر با درجه‌ای از **central hypogonadism** همراه است؛ سطح پایین تستوسترون با سطوح **LH** و **FSH** که به‌طور مناسب برای جبران حالت کمبود تستوسترون افزایش نمی‌یابند، همراه است."
+          },
+          {
+            "id": "session-03-section-05-card-06",
+            "type": "flashcard",
+            "question": "چاقی چگونه بر outcome عفونت تأثیر می‌گذارد؟",
+            "answer": "بیماران چاق در صورت عفونت با **SARS-CoV-2** outcome به‌طور قابل‌توجهی بدتری دارند. آن‌ها همچنین به عفونت‌های باکتریال زخم و sepsis پس از عمل مستعدتر به نظر می‌رسند."
+          },
+          {
+            "id": "session-03-section-05-card-07",
+            "type": "quiz",
+            "question": "کدام عارضه گوارشی شایع‌ترین عارضه چاقی است؟",
+            "options": ["Gallstones", "Reflux esophagitis", "Pancreatitis", "Colon cancer"],
+            "correctAnswer": 1,
+            "explanation": "**Reflux esophagitis** شایع‌ترین عارضه گوارشی چاقی است، به‌ویژه در افراد با فشار داخل شکمی بالا."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-06",
+        "title": "سندرم متابولیک: تعریف و پاتوفیزیولوژی",
+        "description": "مقاومت به انسولین، دیس‌لیپیدمی، التهاب و معیارهای تشخیصی",
+        "cards": [
+          {
+            "id": "session-03-section-06-card-01",
+            "type": "info",
+            "title": "تعریف سندرم متابولیک",
+            "content": "==سندرم متابولیک== (سندرم X، سندرم مقاومت به انسولین) شامل ناهنجاری‌های متابولیکی است که خطر بیماری قلبی‌عروقی (CVD) و دیابت ملیتوس را افزایش می‌دهد.\n\nعوامل زمینه‌ای: اضافه وزن/چاقی، سبک زندگی کم‌تحرک، ژنتیک، پیری، دیابت ملیتوس، بیماری قلبی‌عروقی و lipodystrophy."
+          },
+          {
+            "id": "session-03-section-06-card-02",
+            "type": "info",
+            "title": "مقاومت به انسولین: مسیر شروع",
+            "content": "**Insulin resistance** توسط یک نقص ناقص‌فهمیده در عملکرد انسولین ایجاد می‌شود. شروع آن با **postprandial hyperinsulinemia** heralded می‌شود، سپس **fasting hyperinsulinemia** و در نهایت **hyperglycemia**.\n\nیک عامل اولیه مهم در ایجاد مقاومت به انسولین، فراوانی بیش‌ازحد اسیدهای چرب در گردش است. اسیدهای چرب آزاد متصل به آلبومین عمدتاً از ذخایر تری‌گلیسرید بافت چربی توسط آنزیم‌های لیپولیتیک داخل‌سلولی آزاد می‌شوند. انسولین هم anti-lipolysis و همstimulation of lipoprotein lipase در بافت چربی را میانجی‌گری می‌کند؛ با ایجاد مقاومت، لیپولیز افزایش یافته اسیدهای چرب بیشتری تولید می‌کند که اثر anti-lipolytic انسولین را بیشتر کاهش می‌دهد."
+          },
+          {
+            "id": "session-03-section-06-card-03",
+            "type": "key_point",
+            "title": "اثرات اسیدهای چرب آزاد",
+            "content": "اسیدهای چرب، جذب گلوکز با واسطه انسولین را مختل می‌کنند و با تجمع تری‌گلیسرید در عضله اسکلتی و قلبی همراه‌اند. افزایش flux اسید چرب تولید endogenous گلوکز و تولید، تجمع و ترشح تری‌گلیسرید در کبد را افزایش می‌دهد."
+          },
+          {
+            "id": "session-03-section-06-card-04",
+            "type": "table",
+            "title": "معیارهای سندرم متابولیک",
+            "columns": ["معیار", "NCEP-ATPIII 2001", "تعریف هماهنگ‌شده"],
+            "rows": [
+              ["چاقی مرکزی", "دور کمر >102 cm مردان، >88 cm زنان", "دور کمر: مردان/زنان — Europid, sub-Saharan African, Eastern and Middle Eastern: ≥94/≥80؛ South Asian, Chinese, South/Central American: ≥90/≥80؛ Japanese: ≥85/≥90 cm"],
+              ["Hypertriglyceridemia", "تری‌گلیسرید ≥150 mg/dL یا داروی خاص", "تری‌گلیسرید ≥150 mg/dL یا داروی خاص"],
+              ["Low HDL", "<40 mg/dL مردان و <50 mg/dL زنان یا داروی خاص", "<40 mg/dL مردان و <50 mg/dL زنان یا داروی خاص"],
+              ["Hypertension", "BP ≥130 mmHg سیستولیک یا ≥85 mmHg دیاستولیک یا دارو", "BP ≥130/≥85 mmHg یا تشخیص قبلی یا داروی خاص"],
+              ["Fasting glucose", "≥100 mg/dL یا دارو یا تشخیص قبلی دیابت نوع 2", "≥100 mg/dL یا درمان دارویی گلوکز بالا"]
+            ]
+          },
+          {
+            "id": "session-03-section-06-card-05",
+            "type": "info",
+            "title": "دیس‌لیپیدمی در سندرم متابولیک",
+            "content": "افزایش flux اسیدهای چرب آزاد از بافت چربی به کبد تولید **apoB-containing, triglyceride-rich VLDL** را افزایش می‌دهد. بیماران با سندرم متابولیک سطوح بالای **apoC-III** دارند. این افزایش apoC-III inhibitory to lipoprotein lipase است، removal remnant لیپوپروتئین‌های غنی از تری‌گلیسرید را کاهش می‌دهد، بیشتر به hypertriglyceridemia کمک می‌کند و خطر **ASCVD** را افزایش می‌دهد.\n\nکاهش HDL در حضور hypertriglyceridemia ناشی از کاهش محتوای cholesteryl ester core همراه با تغییرات **CETP**-mediated در تری‌گلیسریدها است که HDL را کوچک و dense می‌کند. با تری‌گلیسرید ناشتای ++>2.0 mM (~180 mg/dL)++ معمولاً **small dense LDL** غالب است که آتروژنیک‌تر در نظر گرفته می‌شود."
+          },
+          {
+            "id": "session-03-section-06-card-06",
+            "type": "info",
+            "title": "سیتوکین‌های پیش‌التهابی و آدیپونکتین",
+            "content": "افزایش سیتوکین‌های پیش‌التهابی شامل **interleukins 1, 6, 18**، **resistin**، **TNF-α** و biomarker سیستمیک **C-reactive protein** نشان‌دهنده تولید بیش‌ازحد توسط توده چربی expanded است. ماکروفاژهای مشتق از بافت چربی ممکن است منبع اولیه سیتوکین‌های پیش‌التهابی به‌صورت موضعی و در گردش سیستمیک باشند.\n\n**Adiponectin** یک سیتوکین ضدالتهابی است که منحصراً توسط آدیپوسیت‌ها تولید می‌شود. Adiponectin حساسیت به انسولین را افزایش و بسیاری از مراحل فرایند التهابی را مهار می‌کند. کاهش سطوح adiponectin در سندرم متابولیک شایع است."
+          },
+          {
+            "id": "session-03-section-06-card-07",
+            "type": "key_point",
+            "title": "میکروبیوم روده",
+            "content": "**Gut microbiome** به‌عنوان یک عامل مهم در ایجاد چاقی و اختلالات متابولیک مرتبط، شامل التهاب و اجزای سندرم متابولیک، ظهور کرده است.\n\nافزایش نسبت **Firmicutes/Bacteroidetes** همراه با استعداد ژنتیکی، رژیم غذایی و متابولیسم اسیدهای صفراوی با سندرم متابولیک مرتبط است و ممکن است نقش اتیولوژیک داشته باشد."
+          },
+          {
+            "id": "session-03-section-06-card-08",
+            "type": "info",
+            "title": "تظاهرات بالینی و بیماری‌های همراه",
+            "content": "سندرم متابولیک معمولاً با علامتی همراه نیست. در معاینه، دور کمر و فشار خون اغلب بالا هستند. وجود هر یک یا هر دو نشانه باید پزشک را به جستجوی سایر ناهنجاری‌های بیوشیمیایی مرتبط وادار کند. به‌ندرت lipoatrophy یا acanthosis nigricans در معاینه وجود دارد؛ چون این یافته‌ها مشخصه مقاومت شدید به انسولین هستند، سایر اجزای سندرم متابولیک بسیار شایع‌ترند.\n\nخطر نسبی CVD جدید در بیماران با سندرم متابولیک بدون دیابت به‌طور میانگین ++1.5- تا 3- برابر++ است. دیابت ملیتوس (OR ++2.72++) و hypertension (OR ++2.60++) قوی‌تر از سایر عوامل خطر هستند. سندرم متابولیک با افزایش خطر stroke، peripheral vascular disease و Alzheimer نیز همراه است. خطر دیابت نوع 2 به‌طور کلی ++3- تا 5- برابر++ افزایش می‌یابد."
+          },
+          {
+            "id": "session-03-section-06-card-09",
+            "type": "info",
+            "title": "بیماری کبد چرب متابولیک",
+            "content": "**MAFLD** شایع‌ترین بیماری کبدی است، تا حدی پیامد مقاومت به انسولین سندرم متابولیک. افزایش flux اسید چرب آزاد و کاهش اکسیداسیون اسید چرب داخل کبدی با افزایش بیوسنتز تری‌گلیسرید و تجمع هپاتوسلولار، همراه با التهاب و استرس اکسیداتیو متغیر، رخ می‌دهد.\n\n**MASH** جدی‌تر، پیامد MAFLD در برخی بیماران و پیش‌درآمد cirrhosis و end-stage liver disease است. MAFLD حدود ++10%++ جمعیت غیرچاق و تا ++65%++ بیماران با سندرم متابولیک را مبتلا می‌کند؛ بیش از نیمی از این بیماران MASH دارند."
+          },
+          {
+            "id": "session-03-section-06-card-10",
+            "type": "flashcard",
+            "question": "معیارهای تشخیص سندرم متابولیک بر اساس NCEP-ATPIII 2001 چیست؟",
+            "answer": "وجود سه یا بیشتر از: چاقی مرکزی (دور کمر >102 cm مردان، >88 cm زنان)، hypertriglyceridemia ≥150 mg/dL یا دارو، HDL <40 mg/dL مردان و <50 mg/dL زنان یا دارو، فشار خون ≥130/85 mmHg یا دارو، fasting glucose ≥100 mg/dL یا دارو یا دیابت نوع 2 قبلی."
+          },
+          {
+            "id": "session-03-section-06-card-11",
+            "type": "quiz",
+            "question": "کدام ترکیب برای تشخیص سندرم متابولیک بر اساس NCEP-ATPIII لازم است؟",
+            "options": ["دو معیار", "سه معیار یا بیشتر", "چهار معیار", "همه پنج معیار"],
+            "correctAnswer": 1,
+            "explanation": "تشخیص سندرم متابولیک با وجود ++سه یا بیشتر++ از پنج معیار NCEP-ATPIII گذاشته می‌شود."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-07",
+        "title": "ارزیابی و درمان چاقی",
+        "description": "سبک زندگی، دارودرمانی و جراحی چاقی",
+        "cards": [
+          {
+            "id": "session-03-section-07-card-01",
+            "type": "info",
+            "title": "چهار مرحله ارزیابی چاقی",
+            "content": "چهار مرحله اصلی ارزیابی چاقی: (1) تاریخچه متمرکز مرتبط با چاقی شامل سؤالات سبک زندگی درباره رژیم، فعالیت بدنی، خواب و استرس؛ (2) معاینه فیزیکی برای تعیین درجه و نوع چاقی؛ (3) ارزیابی عوارض و بیماری‌های همراه؛ (4) ارزیابی آمادگی بیمار برای ورود به مدیریت وزن.\n\nبیماران ترجیح می‌دهند پزشکان از کلمات خنثی‌تر مانند weight، excess weight، **BMI** یا unhealthy weight استفاده کنند تا اصطلاحات stigmatizing مانند obesity، morbid obesity یا fatness."
+          },
+          {
+            "id": "session-03-section-07-card-02",
+            "type": "key_point",
+            "title": "ارزیابی آزمایشگاهی اولیه",
+            "content": "برای همه بیماران: **fasting lipid profile** (total, LDL, HDL cholesterol and triglyceride)، **chemistry panel**، **glycated hemoglobin** و اندازه‌گیری فشار خون.\n\nاختلالات قابل بررسی: **PCOS**، hypothyroidism، **Cushing's syndrome**، hypothalamic disease و چاقی دارویی."
+          },
+          {
+            "id": "session-03-section-07-card-03",
+            "type": "key_point",
+            "title": "هدف اولیه درمان چاقی",
+            "content": "هدف اولیه کاهش وزن ++8-10%++ در طول ++6 ماه++ یک هدف واقع‌گرایانه و عملی است."
+          },
+          {
+            "id": "session-03-section-07-card-04",
+            "type": "info",
+            "title": "درمان رژیمی",
+            "content": "درمان چاقی همیشه با مدیریت سبک زندگی شروع می‌شود و ممکن است شامل دارودرمانی یا جراحی bariatric بسته به طبقه خطر BMI باشد.\n\nراهنماهای **AHA/ACC/TOS** توصیه می‌کنند درمان با کسری کالری ++500-750 kcal/d++ نسبت به رژیم معمول بیمار شروع شود. به‌طور جایگزین، رژیم ++1200-1500 kcal/d++ برای زنان و ++1500-1800 kcal/d++ برای مردان (تنظیم‌شده برای وزن بدن) قابل تجویز است. این کاهش با هدف کاهش حدود ++1-2 lb/week++ سازگار است."
+          },
+          {
+            "id": "session-03-section-07-card-05",
+            "type": "info",
+            "title": "فعالیت بدنی",
+            "content": "اگرچه ورزش به‌تنهایی فقط تا حدی برای کاهش وزن مؤثر است، ترکیب اصلاح رژیم و ورزش مؤثرترین رویکرد رفتاری برای درمان چاقی است.\n\n++150 min++ فعالیت هوازی با شدت متوسط یا ++75 min++ در هفته فعالیت هوازی با شدت شدید، ترجیحاً در طول هفته پخش شود. تمرکز بر راه‌های ساده برای افزودن فعالیت بدنی به روال روزانه از طریق leisure، travel و کارهای خانه. کاهش رفتار کم‌تحرک. استفاده از wearable activity tracker برای پایش گام‌ها یا kcal. سطح بالای فعالیت بدنی (++>300 min++ فعالیت متوسط در هفته) اغلب برای کاهش وزن و حفظ آن لازم است."
+          },
+          {
+            "id": "session-03-section-07-card-06",
+            "type": "info",
+            "title": "درمان رفتاری",
+            "content": "**Behavioral therapy** شامل تکنیک‌های self-monitoring (journaling، weighing، measuring food and activity)، مدیریت استرس، stimulus control (استفاده از بشقاب کوچک‌تر، عدم غذا خوردن جلوی تلویزیون یا در ماشین) است. بیمار باید رکورد تغییر رفتاری مورد انتظار را نگه دارد."
+          },
+          {
+            "id": "session-03-section-07-card-07",
+            "type": "key_point",
+            "title": "اندیکاسیون‌های دارودرمانی چاقی",
+            "content": "دارودرمانی می‌تواند برای بیماران با **BMI ≥30 kg/m²** یا **BMI ≥27 kg/m²** که بیماری‌های مرتبط با چاقی دارند و رژیم و فعالیت بدنی موفق نبوده، در نظر گرفته شود. بیماران باید فعالانه در یک برنامه سبک زندگی شرکت کنند."
+          },
+          {
+            "id": "session-03-section-07-card-08",
+            "type": "info",
+            "title": "دسته‌های داروهای ضدچاقی",
+            "content": "دو دسته اصلی: داروهایی که اشتها را تحت تأثیر قرار می‌دهند یا جذب چربی گوارشی را مهار می‌کنند. داروهای ضدچاقی مورد تأیید **FDA**. **Phentermine** و سایر sympathomimetics فقط برای مصرف کوتاه‌مدت تأیید شده‌اند. داروهای مرکزی فعال بیولوژیک اشتها را سرکوب می‌کنند و بر hunger، satiety و پاسخ به غذاهای بسیار rewarding اثر می‌گذارند.\n\n**Liraglutide** اولین آگونیست گیرنده **GLP-1** با ++97%++ homology به GLP-1 انسانی بود که درمان هورمونی nutrient-stimulated برای چاقی را معرفی کرد؛ کاهش وزن ++4-6%++. **Orlistat** تنها داروی نسل اول محیطی است؛ مهارکننده potent و slowly reversible لیپازهای pancreatic، gastric و carboxysterol و phospholipase A2؛ کاهش وزن 1 ساله ++2.7-4.1%++. **Semaglutide** نسل دوم؛ در **STEP TEENS** نوجوانان با semaglutide ++2.4 mg++ کاهش ++16.1%++ در BMI در مقابل افزایش ++0.6%++ با placebo داشتند. **Tirzepatide** اولین آنالوگ پپتیدی dual GLP-1/GIP با تزریق هفتگی؛ در **SURMOUNT 1-4** با دوز ++15 mg++ کاهش وزن placebo-subtracted از ++11.6% تا 21.4%++."
+          },
+          {
+            "id": "session-03-section-07-card-09",
+            "type": "table",
+            "title": "داروهای ضدچاقی: مقایسه",
+            "columns": ["دارو", "مکانیسم", "مسیر و دوز", "کاهش وزن (placebo-subtracted)", "عوارض شایع", "منع مصرف"],
+            "rows": [
+              ["**Phentermine**", "Sympathomimetic، افزایش release نوراپی‌نفرین در CNS", "Oral، 1-3 بار در روز، دوزهای 8, 15, 30, 37.5 mg", "++4.4%++", "Dry mouth، Insomnia، Constipation، Headache، Dizziness", "Uncontrolled hypertension، untreated hyperthyroidism، within 14 d of MAOI"],
+              ["**Orlistat**", "مهارکننده لیپاز گوارشی", "Oral، 3 بار در روز، within 1 h of fat-containing meals", "++4.1%++", "Steatorrhea، Increased defecation، Oily spotting، Liquid stool، Fecal urgency", "Chronic malabsorption"],
+              ["**Phen/TPM**", "Phen: sympathomimetic در CNS؛ TPM: modulator گیرنده GABA", "Oral، once daily، شروع 3.75/23 mg/d × 2 weeks، سپس 6.5/46 mg/d؛ حداکثر 15/2 mg/d", "++8.0%++", "Paresthesia، Dry mouth، Constipation، Headache، Insomnia، Dizziness", "Uncontrolled hypertension، untreated hyperthyroidism، history of glaucoma، calcium oxalate nephrolithiasis، within 14 d of MAOI"],
+              ["**Naltrexone/Bupropion**", "Nal: blocks opioid-mediated POMC autoinhibition؛ Bup: activates POMC in hypothalamus", "Oral، 1 tablet (8 mg/90 mg) qAM × 1 week؛ سپس افزایش تدریجی", "++5.1%++", "Nausea، Constipation، Headache، Vomiting، Dizziness، Insomnia", "Uncontrolled hypertension، history of seizures، bulimia or anorexia nervosa، within 14 d of MAOI، long-term opioid use"],
+              ["**Liraglutide**", "GLP-1 receptor agonist", "Subcutaneous، once daily، شروع 0.6 mg/d × 1 week؛ افزایش 0.6 mg/week تا 3 mg/d", "++5.4%++", "Nausea، Diarrhea، Constipation، Dyspepsia، Vomiting", "Personal or family history of medullary thyroid cancer، MEN type 2؛ pancreatitis caution"],
+              ["**Semaglutide**", "GLP-1 receptor agonist", "Subcutaneous، once weekly؛ افزایش تدریجی تا 2.4 mg qW", "++12.5%++", "Nausea، Diarrhea، Constipation، Dyspepsia، Vomiting", "Personal or family history of medullary thyroid cancer؛ MEN type 2؛ pancreatitis caution"],
+              ["**Tirzepatide**", "GLP-1/GIP dual receptor agonist", "Subcutaneous، once weekly؛ افزایش تدریجی تا 15 mg qW", "++17.8%++", "Nausea، Diarrhea، Constipation، Dyspepsia، Vomiting", "Personal or family history of medullary thyroid carcinoma، MEN type 2؛ pancreatitis caution"]
+            ]
+          },
+          {
+            "id": "session-03-section-07-card-10",
+            "type": "key_point",
+            "title": "Gelesis100",
+            "content": "**Gelesis100** یک ژل غیرسیستمیک و محلول در آب است که در سال 2019 توسط FDA تأیید شد. در معده، کپسول میکروژل سلولز را آزاد می‌کند که آب جذب کرده و ماتریکسی با قوام غذا تشکیل می‌دهد و حدود ++25%++ معده را اشغال می‌کند. در روده بزرگ توسط آنزیم‌ها تجزیه و سلولز دفع می‌شود. کاهش وزن در ++24 هفته: 2.1%++."
+          },
+          {
+            "id": "session-03-section-07-card-11",
+            "type": "info",
+            "title": "جراحی چاقی",
+            "content": "جراحی bariatric می‌تواند برای بیماران با چاقی شدید (**BMI ≥40 kg/m²**) یا چاقی متوسط (**BMI ≥35 kg/m²**) همراه با تعدادی بیماری همراه در نظر گرفته شود.\n\n**Laparoscopic adjustable gastric banding** نمونه این دسته است؛ total body weight lost در 5 سال تخمین ++20-25%++. **Laparoscopic sleeve gastrectomy**: معده با stapling و تقسیم عمودی محدود می‌شود و حدود ++80%++ از greater curvature برداشته می‌شود. روش‌های restrictive-malabsorption bypass شامل **Roux-en-Y gastric bypass**، **biliopancreatic diversion** و **biliopancreatic diversion with duodenal switch** هستند؛ ++28-33%++ میانگین total body weight loss در 12-18 ماه و سپس recurrence متغیر وزن. بهبود قابل‌توجه در دیابت نوع 2، hypertension، dyslipidemia، obstructive sleep apnea، کیفیت زندگی و long-term cardiovascular events گزارش شده است."
+          },
+          {
+            "id": "session-03-section-07-card-12",
+            "type": "quiz",
+            "question": "هدف اولیه کاهش وزن در درمان چاقی چیست؟",
+            "options": ["5% در 3 ماه", "8-10% در 6 ماه", "15% در 1 سال", "20% در 2 سال"],
+            "correctAnswer": 1,
+            "explanation": "هدف اولیه کاهش وزن ++8-10%++ در طول ++6 ماه++ واقع‌گرایانه و عملی است."
+          }
+        ]
+      },
+      {
+        "id": "session-03-section-08",
+        "title": "درمان سندرم متابولیک",
+        "description": "سبک زندگی، داروهای حساسیت به انسولین و کنترل اجزا",
+        "cards": [
+          {
+            "id": "session-03-section-08-card-01",
+            "type": "info",
+            "title": "درمان سبک زندگی در سندرم متابولیک",
+            "content": "درمان سندرم متابولیک با کاهش وزن شروع می‌شود. با کاهش وزن ++5%++ و بیشتر با ++10%++، بهبود حساسیت به انسولین منجر به تغییرات مطلوب در بسیاری از اجزای سندرم متابولیک می‌شود.\n\nترکیب محدودیت کالری، افزایش فعالیت بدنی و اصلاح رفتار. داروهای کاهش وزن دو دسته اصلی: سرکوب‌کننده‌های اشتها و مهارکننده‌های جذب. جراحی متابولیک یا bariatric گزینه مهمی برای بیماران با **BMI >40 kg/m²** یا **>35 kg/m²** همراه با comorbidities است."
+          },
+          {
+            "id": "session-03-section-08-card-02",
+            "type": "key_point",
+            "title": "درمان HDL و فشار خون",
+            "content": "**Nicotinic acid** می‌تواند HDL cholesterol را تا ++30%++ بالاتر از baseline افزایش دهد. اما پس از چندین کارآزمایی nicotinic acid در مقابل placebo، هیچ شواهدی وجود ندارد که بالا بردن HDL با nicotinic acid به‌طور مفید بر ASCVD events در بیماران با یا بدون سندرم متابولیک اثر بگذارد.\n\nرابطه مستقیم بین فشار خون و all-cause mortality در مطالعات مقایسه بیماران با hypertension (++>140/90 mmHg++) به‌خوبی established شده است."
+          },
+          {
+            "id": "session-03-section-08-card-03",
+            "type": "key_point",
+            "title": "درمان impaired fasting glucose و مقاومت به انسولین",
+            "content": "در بیماران با سندرم متابولیک و دیابت نوع 2، کنترل قند خون aggressive ممکن است سطوح fasting تری‌گلیسرید و/یا HDL cholesterol را به‌طور مطلوب تغییر دهد.\n\nچندین کلاس دارویی (**biguanides**, **thiazolidinediones [TZDs]**) حساسیت به انسولین را افزایش می‌دهند. چون مقاومت به انسولین مکانیسم پاتوفیزیولوژیک اولیه سندرم متابولیک است، داروهای این کلاس‌ها شیوع آن را کاهش می‌دهند. **Metformin** و **TZDs** هر دو عملکرد انسولین در کبد را تقویت و تولید endogenous گلوکز را سرکوب می‌کنند."
+          },
+          {
+            "id": "session-03-section-08-card-04",
+            "type": "flashcard",
+            "question": "در درمان سندرم متابولیک، کاهش وزن چگونه بر اجزا اثر می‌گذارد؟",
+            "answer": "کاهش وزن ++5%++ و بیشتر با ++10%++ بهبود حساسیت به انسولین ایجاد می‌کند و منجر به تغییرات مطلوب در بسیاری از اجزای سندرم متابولیک می‌شود. ترکیب محدودیت کالری، افزایش فعالیت بدنی و اصلاح رفتار توصیه می‌شود."
+          },
+          {
+            "id": "session-03-section-08-card-05",
+            "type": "quiz",
+            "question": "کدام داروها حساسیت به انسولین را افزایش می‌دهند؟",
+            "options": ["Biguanides و TZDs", "Nicotinic acid", "Orlistat", "Phentermine"],
+            "correctAnswer": 0,
+            "explanation": "**Biguanides** (مانند metformin) و **thiazolidinediones (TZDs)** حساسیت به انسولین را افزایش می‌دهند و در سندرم متابولیک استفاده می‌شوند."
+          }
+        ]
+      }
+    ]
+  }
+}

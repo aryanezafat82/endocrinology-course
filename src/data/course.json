@@ -1,0 +1,37 @@
+{
+  "title": "بیماری های غدد و متابولیسم",
+  "description": "دوره آموزشی بیماری های غدد و متابولیسم",
+  "sessions": [
+    {
+      "id": "session-01",
+      "title": "مقدمات",
+      "file": "session-01.json"
+    },
+    {
+      "id": "session-02",
+      "title": "APS-MEN",
+      "file": "session-02.json"
+    },
+    {
+      "id": "session-03",
+      "title": "چاقی",
+      "file": "session-03.json"
+    },
+    {
+      "id": "session-04",
+      "title": "گناد",
+      "file": "session-04.json"
+    },
+    {
+      "id": "session-05",
+      "title": "دیابت",
+      "file": "session-05.json"
+    },
+    {
+      "id": "session-06",
+      "title": "هیپوتالاموس-هیپوفیز",
+      "file": "session-06.json"
+    }
+    
+  ]
+}

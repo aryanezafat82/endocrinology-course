@@ -1,0 +1,666 @@
+{
+  "session": {
+    "id": "session-06",
+    "title": "محور هیپوتالاموس-هیپوفیز",
+    "title": "دکتر مهرداد",
+    "description": "مرور High-Yield آناتومی، تومورها و اختلالات هورمون‌های هیپوفیز بر اساس منبع",
+    "sections": [
+      {
+        "id": "section-01",
+        "title": "آناتومی و فیزیولوژی هیپوفیز",
+        "description": "ساختار، ارتباطات و هورمون‌های هیپوفیز",
+        "cards": [
+          {
+            "id": "session-06-section-01-card-01",
+            "type": "info",
+            "title": "محل و ساختار هیپوفیز",
+            "content": "هیپوفیز در **sella turcica** قرار دارد و حدود ++600 mg++ وزن دارد.\nاز سه لوب تشکیل شده: **adenohypophysis** (لوب قدامی)، **neurohypophysis** (لوب خلفی) و لوب میانی.\nلوب میانی در انسان حدود ++15 هفته++ جنینی تحلیل می‌رود و در بالغ وجود ندارد."
+          },
+          {
+            "id": "session-06-section-01-card-02",
+            "type": "info",
+            "title": "ارتباط و ساختارهای مجاور",
+            "content": "**infundibular stalk** حاوی **portal plexus** هیپوتالاموس را به هیپوفیز وصل می‌کند.\nساختارهای مجاور مهم: **optic chiasm** در بالا و **cavernous sinuses** در دو طرف.\nهر **cavernous sinus** شامل **internal carotid artery** و اعصاب جمجمه‌ای **III**, **IV**, **V1**, **V2**, **VI** است."
+          },
+          {
+            "id": "session-06-section-01-card-03",
+            "type": "info",
+            "title": "هورمون‌های لوب قدامی",
+            "content": "لوب قدامی شش هورمون می‌سازد: **ACTH**, **FSH**, **LH**, **GH**, **PRL**, **TSH**.\nتولید آن‌ها توسط پپتیدهای تحریکی و مهاری هیپوتالاموس تنظیم و از طریق **infundibular portal system** منتقل می‌شود."
+          },
+          {
+            "id": "session-06-section-01-card-04",
+            "type": "key_point",
+            "title": "لوب خلفی",
+            "content": "لوب خلفی حدود ++20%++ توده هیپوفیز است.\nدو هورمون **vasopressin (AVP)** و **oxytocin** را ذخیره و ترشح می‌کند.\nاین هورمون‌ها در **supraoptic** و **paraventricular nuclei** هیپوتالاموس ساخته و از طریق **supraopticohypophyseal tract** منتقل می‌شوند."
+          },
+          {
+            "id": "session-06-section-01-card-05",
+            "type": "info",
+            "title": "تصویربرداری طبیعی",
+            "content": "در **MRI**، هیپوفیز بالغ حدود ++8-10 mm++ ارتفاع دارد و مرز فوقانی صاف دارد.\nلوب قدامی همگن و پس از کنتراست به‌طور همگن تقویت می‌شود.\nلوب خلفی در **T1-weighted MRI** به شکل یک نقطه روشن در نمای **sagittal** دیده می‌شود."
+          },
+          {
+            "id": "session-06-section-01-card-06",
+            "type": "quiz",
+            "question": "کدام هورمون در لوب خلفی هیپوفیز ذخیره می‌شود؟",
+            "options": [
+              "**ACTH**",
+              "**TSH**",
+              "**AVP**",
+              "**FSH**"
+            ],
+            "correctAnswer": 2,
+            "explanation": "لوب خلفی **AVP** و **oxytocin** را ذخیره و ترشح می‌کند."
+          }
+        ]
+      },
+      {
+        "id": "section-02",
+        "title": "تومورهای هیپوفیز",
+        "description": "اپیدمیولوژی، طبقه‌بندی، تظاهرات و غربالگری",
+        "cards": [
+          {
+            "id": "session-06-section-02-card-01",
+            "type": "info",
+            "title": "اپیدمیولوژی و طبقه‌بندی",
+            "content": "تومورهای هیپوفیز ++10-15%++ تومورهای داخل جمجمه هستند و بیش از ++90%++ توده‌های ناحیه **sella** را می‌سازند؛ معمولاً خوش‌خیم‌اند.\n**Microadenoma**: قطر کمتر از ++10 mm++. **Macroadenoma**: ++10 mm++ یا بیشتر.\n**Secretory adenoma** هورمون می‌سازد؛ **nonsecretory adenoma** نمی‌سازد.\n**Pituitary carcinoma** بسیار نادر است و با متاستاز غیرممتد یا انتشار در **CSF** تعریف می‌شود."
+          },
+          {
+            "id": "session-06-section-02-card-02",
+            "type": "table",
+            "title": "شیوع انواع تومورهای هیپوفیز",
+            "columns": [
+              "نوع تومور",
+              "شیوع (%)"
+            ],
+            "rows": [
+              [
+                "**Prolactin-secreting adenoma**",
+                "++40-45++"
+              ],
+              [
+                "**Gonadotropin-secreting adenoma**",
+                "++20++"
+              ],
+              [
+                "**GH-secreting adenoma**",
+                "++10-15++"
+              ],
+              [
+                "**ACTH-secreting adenoma**",
+                "++10-15++"
+              ],
+              [
+                "**Null cell adenoma**",
+                "++5-10++"
+              ],
+              [
+                "**TSH-secreting adenoma**",
+                "++1-2++"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-02-card-03",
+            "type": "info",
+            "title": "تظاهرات بالینی",
+            "content": "علائم ناشی از پرکاری، کم‌کاری هورمون یا **mass effect** است.\n**Mass effect**: سردرد، نقص میدان بینایی و فلج اعصاب جمجمه‌ای.\nگسترش فوقانی و فشار روی **optic chiasm** باعث **bitemporal hemianopsia** می‌شود.\nگسترش جانبی به **cavernous sinuses** باعث **ophthalmoplegia**، **diplopia**، **ptosis** یا درد صورت می‌شود."
+          },
+          {
+            "id": "session-06-section-02-card-04",
+            "type": "key_point",
+            "title": "فشار تومور بر اعصاب",
+            "content": "اعصاب درگیر در **cavernous sinus**: **III**, **IV**, **VI** → علائم چشمی؛ **V1/V2** → درد صورت.\nفشار روی بافت طبیعی هیپوفیز → **hypopituitarism**."
+          },
+          {
+            "id": "session-06-section-02-card-05",
+            "type": "table",
+            "title": "غربالگری بیوشیمیایی تومور هیپوفیز",
+            "columns": [
+              "تومور",
+              "تست‌ها"
+            ],
+            "rows": [
+              [
+                "**GH-secreting**",
+                "**IGF-I**"
+              ],
+              [
+                "**PRL-secreting**",
+                "**Prolactin**"
+              ],
+              [
+                "**ACTH-secreting**",
+                "**24-hr urine free cortisol**، **1-mg overnight dexamethasone suppression**، **11 PM salivary cortisol**، **ACTH**"
+              ],
+              [
+                "**TSH-secreting**",
+                "**TSH**، **Free T4**، **Free T3**، **alpha subunit**"
+              ],
+              [
+                "**Gonadotropin-secreting**",
+                "**FSH**، **LH**، **alpha subunit**، **estradiol** (زنان)، **testosterone** (مردان)"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-02-card-06",
+            "type": "quiz",
+            "question": "شایع‌ترین تومور ترشح‌کننده هیپوفیز کدام است؟",
+            "options": [
+              "**GH-secreting**",
+              "**ACTH-secreting**",
+              "**Prolactin-secreting**",
+              "**TSH-secreting**"
+            ],
+            "correctAnswer": 2,
+            "explanation": "**Prolactin-secreting adenoma** با ++40-45%++ شایع‌ترین است."
+          }
+        ]
+      },
+      {
+        "id": "section-03",
+        "title": "پرولاکتین و پرولاکتینوما",
+        "description": "تنظیم، تظاهرات، تشخیص و درمان",
+        "cards": [
+          {
+            "id": "session-06-section-03-card-01",
+            "type": "info",
+            "title": "سنتز و تنظیم پرولاکتین",
+            "content": "**Prolactin** بالغ ++199++ اسید آمینه دارد و پس از جدا شدن پپتید سیگنال ++28++ اسید آمینه‌ای از **pre-prolactin** ساخته می‌شود.\nترشح آن از **lactotrophs** تحت کنترل مهاری تونیک **dopamine** هیپوتالاموس است.\nعوامل تحریک‌کننده: **TRH**، **estrogen**، **VIP**، **AVP**، **oxytocin**، **EGF**."
+          },
+          {
+            "id": "session-06-section-03-card-02",
+            "type": "info",
+            "title": "تظاهرات بالینی پرولاکتینوما",
+            "content": "در زنان جوان: بی‌نظمی قاعدگی، **galactorrhea** و ناباروری؛ **galactorrhea** در ++50-80%++ زنان.\nدر مردان: کاهش **libido** و **erectile dysfunction** به دلیل **hypogonadism**؛ معمولاً دیرتر با علائم فشاری تشخیص داده می‌شود.\n**Microprolactinoma** در زنان و **macroprolactinoma** در مردان و زنان یائسه شایع‌تر است."
+          },
+          {
+            "id": "session-06-section-03-card-03",
+            "type": "key_point",
+            "title": "تشخیص هایپرپرولاکتینمی",
+            "content": "**Prolactin** سرم بالاتر از حد طبیعی، در هر ساعت روز قابل اندازه‌گیری است.\nسطح **prolactin** معمولاً با اندازه تومور موازی است.\n**Prolactin** بیشتر از ++250 ng/mL++ معمولاً تشخیص **prolactinoma** است؛ تومورهای کوچک‌تر ممکن است سطح کمتری داشته باشند.\n@@تست دینامیک برای تشخیص لازم نیست@@."
+          },
+          {
+            "id": "session-06-section-03-card-04",
+            "type": "info",
+            "title": "آرتیفکت‌های اندازه‌گیری",
+            "content": "**Macroprolactin**: فرم پلیمری غیرفعال بیولوژیک؛ بسیاری از سنجش‌ها آن را تشخیص نمی‌دهند و با **polyethylene glycol precipitation** قابل تشخیص است. در ++10-20%++ هایپرپرولاکتینمی نقش دارد.\n**Hook effect**: در توده بسیار بزرگ با افزایش خفیف **prolactin**؛ غلظت بسیار بالا آنتی‌بادی‌های سنجش **two-site immunoradiometric assay** را اشباع می‌کند و سطح کاذب پایین می‌دهد. با رقت ++1:100++ تکرار شود."
+          },
+          {
+            "id": "session-06-section-03-card-05",
+            "type": "table",
+            "title": "علل هایپرپرولاکتینمی",
+            "columns": [
+              "دسته",
+              "مثال‌ها"
+            ],
+            "rows": [
+              [
+                "داروها",
+                "**Methyldopa**، **Estrogens**، **Metoclopramide**، **Domperidone**، **Neuroleptics** و **Antipsychotics**"
+              ],
+              [
+                "آسیب هیپوتالاموس-اینفاندیبولوم",
+                "اختلالات انفیلتراتیو مثل **Sarcoidosis**، **Brain irradiation**، **Trauma**، **Surgery**، **Tumors**"
+              ],
+              [
+                "هیپوفیز",
+                "**Prolactinomas**، **Non-PRL-secreting macroadenomas** با فشردن **stalk**"
+              ],
+              [
+                "پزشکی",
+                "**Renal failure**، **Primary hypothyroidism**"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-03-card-06",
+            "type": "info",
+            "title": "درمان پرولاکتینوما",
+            "content": "درمان دارویی با **dopamine agonist**: **Bromocriptine** یا **Cabergoline**.\nدر بیش از ++80%++ بیماران **prolactin** را نرمال، تومور را کوچک و عملکرد گناد را برمی‌گرداند.\nبرای **macroprolactinoma** با علائم فشاری، اختلال بینایی، نقص نورولوژیک یا اختلال هیپوفیز، درمان اولیه است."
+          },
+          {
+            "id": "session-06-section-03-card-07",
+            "type": "key_point",
+            "title": "داروی انتخابی و عوارض",
+            "content": "**Cabergoline** ترجیح داده می‌شود: اثربخشی بیشتر و عوارض کمتر.\nعوارض شایع: تهوع، استفراغ، سرگیجه وضعیتی، سبکی سر و گرفتگی بینی.\n@@نگرانی از **cardiac valvulopathy** با دوزهای بالاتر@@؛ در دوز بیش از ++2 mg/week++ **baseline echocardiogram** و سمع قلب منظم توصیه می‌شود."
+          },
+          {
+            "id": "session-06-section-03-card-08",
+            "type": "key_point",
+            "title": "قطع دارو",
+            "content": "در بیمارانی که ++2 سال++ **prolactin** نرمال و تومور نامرئی با دوز کم داشته‌اند، قطع **dopamine agonist** بی‌خطر است.\nپس از قطع، هر ++3 ماه++ برای ++1 سال++ و سپس سالانه **prolactin** چک شود.\n**MRI** فقط اگر **prolactin** دوباره بالا رفت.\nریسک عود ++26-69%++ و وابسته به **prolactin** اولیه و اندازه تومور است."
+          },
+          {
+            "id": "session-06-section-03-card-09",
+            "type": "quiz",
+            "question": "در بیمار با توده بزرگ هیپوفیز و پرولاکتین فقط خفیف بالا، کدام آرتیفکت را باید در نظر گرفت؟",
+            "options": [
+              "**Macroprolactin**",
+              "**Hook effect**",
+              "**PEG precipitation**",
+              "**Dopamine agonist**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "**Hook effect** در توده بزرگ با افزایش خفیف **prolactin** دیده می‌شود و با رقت ++1:100++ رفع می‌شود."
+          }
+        ]
+      },
+      {
+        "id": "section-04",
+        "title": "کمبود هورمون رشد",
+        "description": "فیزیولوژی، تشخیص و درمان",
+        "cards": [
+          {
+            "id": "session-06-section-04-card-01",
+            "type": "info",
+            "title": "فیزیولوژی GH",
+            "content": "**GH** پلی‌پپتید تک‌زنجیره‌ای ++191++ اسید آمینه‌ای است که توسط **somatotrophs** ساخته می‌شود.\n**GHRH** تحریک و **somatostatin** مهار می‌کند.\n**GH** ترشح **IGF-I** از کبد را تحریک می‌کند؛ بیش از ++80%++ **IGF-I** به **IGFBP3** متصل است.\nدر کودکی و بلوغ: رشد طولی استخوان، بلوغ اسکلتی و توده استخوانی؛ در بزرگسال: حفظ معماری استخوان و متابولیسم کربوهیدرات، چربی و پروتئین."
+          },
+          {
+            "id": "session-06-section-04-card-02",
+            "type": "info",
+            "title": "علل و تظاهرات کمبود GH",
+            "content": "کمبود **GH** در کودکی بیشتر **idiopathic** است؛ می‌تواند ژنتیکی یا همراه با ناهنجاری‌های مادرزادی باشد.\nشایع‌ترین علت در بزرگسالان: **pituitary macroadenoma** و درمان آن؛ کمبود یک یا چند هورمون در ++30-60%++ موارد.\n**Hypopituitarism** ++10 سال++ پس از رادیوتراپی ناحیه **sella** حدود ++50%++ است.\nکودکان: رشد تأخیری، کوتاهی قد، **hypoglycemia** ناشتا.\nبزرگسالان: کاهش تراکم استخوان، ضعف عضلانی، افزایش چربی شکمی، **insulin resistance**، اختلال چربی، افسردگی."
+          },
+          {
+            "id": "session-06-section-04-card-03",
+            "type": "key_point",
+            "title": "تشخیص کمبود GH",
+            "content": "اندازه‌گیری تصادفی **GH** به دلیل ترشح پالسیتیک مفید نیست.\nدر بزرگسالان با تومور هیپوفیز و کمبود هر ++3++ هورمون دیگر هیپوفیز، **IGF-I** پایین برای تشخیص کافی است و تست تحریکی لازم نیست.\n**IGF-I** کاذب پایین در سوءتغذیه، بیماری حاد، **celiac disease**، دیابت کنترل‌نشده و بیماری کبدی دیده می‌شود.\nدر کودکان تنوع **IGF-I** زیاد است و تست تحریکی لازم است."
+          },
+          {
+            "id": "session-06-section-04-card-04",
+            "type": "info",
+            "title": "تست تحریکی و درمان",
+            "content": "**Insulin tolerance test (ITT)** استاندارد تاریخی: **hypoglycemia** سمپتوماتیک با گلوکز کمتر از ++45 mg/dL++؛ پاسخ نرمال **GH** بیشتر از ++10 ng/mL++ در کودکان و بیشتر از ++5 ng/mL++ در بزرگسالان.\n**Glucagon stimulation** جایگزین است؛ پاسخ نرمال بزرگسال با وزن نرمال: **GH** بیشتر از ++3 ng/mL++؛ در چاقی cutoff ++1 ng/mL++.\nدرمان: **recombinant human GH** روزانه زیرجلدی در بزرگسالان از ++0.1-0.3 mg++ با افزایش هر ++6 هفته++.\n@@موارد منع مطلق: نئوپلاسم فعال، **intracranial hypertension**، **proliferative diabetic retinopathy**@@."
+          },
+          {
+            "id": "session-06-section-04-card-05",
+            "type": "quiz",
+            "question": "در بزرگسال با تومور هیپوفیز و کمبود سه هورمون دیگر، کدام تست برای تشخیص کمبود GH کافی است؟",
+            "options": [
+              "**ITT**",
+              "**IGF-I** پایین",
+              "**Glucagon stimulation**",
+              "**GH** تصادفی"
+            ],
+            "correctAnswer": 1,
+            "explanation": "در این شرایط **IGF-I** پایین کافی است و تست تحریکی لازم نیست."
+          }
+        ]
+      },
+      {
+        "id": "section-05",
+        "title": "آکرومگالی",
+        "description": "هایپرسکرسیون GH در بزرگسالان",
+        "cards": [
+          {
+            "id": "session-06-section-05-card-01",
+            "type": "info",
+            "title": "تعریف و اپیدمیولوژی",
+            "content": "**Acromegaly** از هایپرسکرسیون **GH** در بزرگسالی ناشی می‌شود؛ در کودکان قبل از بسته شدن صفحه رشد → **gigantism**.\nعلت تقریباً همیشه **GH-secreting pituitary tumor** است. حدود ++30%++ بی‌هورمونال و **prolactin** نیز ترشح می‌کنند.\nبروز ++2-4 per million++؛ میانگین سن تشخیص ++40-50 سال++.\nژنتیک: **McCune-Albright syndrome**، **MEN1** و **MEN4**، **Carney complex**، **familial isolated pituitary adenoma**."
+          },
+          {
+            "id": "session-06-section-05-card-02",
+            "type": "table",
+            "title": "یافته‌های بالینی آکرومگالی",
+            "columns": [
+              "دسته",
+              "تظاهرات"
+            ],
+            "rows": [
+              [
+                "اسکلتی",
+                "دست و پای بزرگ، **arthralgias**، **prognathism**، **malocclusion**، **carpal tunnel syndrome**"
+              ],
+              [
+                "پوست",
+                "تعریق، **skin tags**، **nevi**"
+              ],
+              [
+                "کولون",
+                "**Polyps**، **Carcinoma**"
+              ],
+              [
+                "قلبی-عروقی",
+                "**Cardiomegaly**، **Hypertension**"
+              ],
+              [
+                "احشایی",
+                "بزرگی زبان، تیروئید، کبد"
+              ],
+              [
+                "متابولیک",
+                "**Impaired glucose tolerance**، **Diabetes mellitus**، **Insulin resistance**، **Hypertriglyceridemia**"
+              ],
+              [
+                "تولیدمثل",
+                "بی‌نظمی قاعدگی، **Galactorrhea**، کاهش **libido**"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-05-card-03",
+            "type": "key_point",
+            "title": "تشخیص آکرومگالی",
+            "content": "**IGF-I** سرم در بیشتر بیماران تشخیصی است.\n**OGTT** با ++75 g++ گلوکز: در نرمال **GH** پس از ++2 ساعت++ به کمتر از ++1 ng/mL++ سرکوب می‌شود.\nدر **acromegaly** **GH** ممکن است پارادوکس بالا رود، تغییر نکند یا کاهش یابد اما زیر ++1 ng/mL++ نرود.\nحدود ++70%++ موارد **macroadenoma** دارند."
+          },
+          {
+            "id": "session-06-section-05-card-04",
+            "type": "info",
+            "title": "درمان آکرومگالی",
+            "content": "هدف: درمان تومور و نرمال‌سازی **GH** و **IGF-I** و کنترل عوارض.\nدرمان اولیه تقریباً همیشه **transsphenoidal surgery**؛ میزان درمان با اندازه تومور نسبت معکوس دارد.\n**Microadenoma** داخل سلا: ++75-95%++ درمان.\n**Macroadenoma** غیرتهاجمی: نرمال‌سازی **GH/IGF-I** در ++40-68%++.\n++40-60%++ با جراحی تنها کنترل نمی‌شوند؛ گزینه‌ها: درمان دارویی اولیه، debulking + دارو و/یا رادیوتراپی."
+          },
+          {
+            "id": "session-06-section-05-card-05",
+            "type": "info",
+            "title": "داروها در آکرومگالی",
+            "content": "**Somatostatin receptor ligands (SRLs)**: **Octreotide**، **Lanreotide**، **Pasireotide**؛ از طریق گیرنده‌های **SST2** و **SST5** (pasireotide: 1,2,3,5) ترشح **GH** را کم می‌کنند.\n**SRLs** در ++40-65%++ **GH/IGF-I** را نرمال و در حدود ++50%++ تومور را کوچک می‌کنند. عوارض: اسهال، کرامپ شکمی، نفخ، **cholelithiasis** در ++15%++.\n**Pegvisomant** تنها آنتاگونیست گیرنده **GH** است؛ **IGF-I** را در ++97%++ نرمال می‌کند. عوارض: افزایش گذرای آنزیم‌های کبدی در ++25%++، رشد تومور در کمتر از ++2%++.\n**Cabergoline** در کمتر از ++10%++ مؤثر است، بهترین پاسخ در تومورهای بی‌هورمونال **PRL/GH**."
+          },
+          {
+            "id": "session-06-section-05-card-06",
+            "type": "quiz",
+            "question": "در تست تحمل گلوکز، سرکوب نرمال GH پس از ۲ ساعت چقدر است؟",
+            "options": [
+              "کمتر از ++1 ng/mL++",
+              "کمتر از ++5 ng/mL++",
+              "بیشتر از ++10 ng/mL++",
+              "بدون تغییر"
+            ],
+            "correctAnswer": 0,
+            "explanation": "در نرمال، گلوکز **GH** را پس از ++2 ساعت++ به کمتر از ++1 ng/mL++ می‌رساند."
+          }
+        ]
+      },
+      {
+        "id": "section-06",
+        "title": "TSH و اختلالات آن",
+        "description": "کمبود TSH و تومور TSH-secreting",
+        "cards": [
+          {
+            "id": "session-06-section-06-card-01",
+            "type": "info",
+            "title": "فیزیولوژی TSH",
+            "content": "**TSH** گلیکوپروتئین از **thyrotrophs** لوب قدامی است؛ از زیرواحد **alpha** و **beta** ساخته می‌شود و **beta** فعالیت بیولوژیک اختصاصی می‌دهد.\n**TRH** تحریک و **somatostatin** مهار می‌کند؛ هورمون‌های تیروئید بازخورد منفی دارند.\nارزیابی محور نیاز به **TSH** و **T4** و **T3** دارد."
+          },
+          {
+            "id": "session-06-section-06-card-02",
+            "type": "info",
+            "title": "کمبود TSH",
+            "content": "کمبود **TSH** → **secondary hypothyroidism**؛ شیوع حدود ++1 in 80,000-120,000++.\nعلائم: افزایش وزن، خستگی، عدم تحمل سرما، یبوست؛ ممکن است علائم فشاری تومور نیز باشد.\nتشخیص: **free T4** پایین همراه با **TSH** پایین یا نامتناسب نرمال.\nافتراق: **euthyroid sick syndrome** که با بهبود بیماری حاد نرمال می‌شود."
+          },
+          {
+            "id": "session-06-section-06-card-03",
+            "type": "key_point",
+            "title": "درمان کمبود TSH",
+            "content": "درمان جایگزینی هورمون تیروئید است.\nبرای تنظیم درمان، **free T4** اندازه‌گیری شود نه **TSH**.\n@@قبل از درمان کمبود TSH، نارسایی آدرنال باید رد و درمان شود تا **adrenal crisis** رخ ندهد@@."
+          },
+          {
+            "id": "session-06-section-06-card-04",
+            "type": "info",
+            "title": "تومور TSH-secreting",
+            "content": "نادر؛ ترشح نامناسب **TSH** مقاوم به بازخورد منفی تیروئید.\nشیوع ++1-2 per million++؛ پاتوژنز ناشناخته.\nشایع‌ترین سن: اوایل دهه پنجم؛ بدون ترجیح جنسی.\nعلائم: توده یا **hyperthyroidism** (کاهش وزن، لرزش، عدم تحمل گرما، اسهال)؛ **diffuse goiter** در تا ++80%++.\nممکن است با **primary hyperthyroidism** اشتباه و با **radioactive iodine** درمان شود."
+          },
+          {
+            "id": "session-06-section-06-card-05",
+            "type": "key_point",
+            "title": "تشخیص و درمان تومور TSH",
+            "content": "تشخیص: **TSH** بالا یا نامتناسب نرمال + **alpha subunit** بالا + هورمون‌های تیروئید بالا (**free/total T4** و **T3**).\nافتراق: **genetic resistance to thyroid hormone**، **euthyroid hyperthyroxinemia** (TSH نرمال، total T4 بالا، free T4 نرمال، TBG بالا).\n**MRI** فقط بعد از تأیید بیوشیمیایی.\nدرمان خط اول: **transsphenoidal surgery**؛ **SRLs** مثل **octreotide** و **lanreotide** برای هایپرتیروئیدیسم پایدار پس از جراحی."
+          },
+          {
+            "id": "session-06-section-06-card-06",
+            "type": "quiz",
+            "question": "در تومور TSH-secreting، درمان خط اول چیست؟",
+            "options": [
+              "**Radioactive iodine**",
+              "**Transsphenoidal surgery**",
+              "**Levothyroxine**",
+              "**Cabergoline**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "جراحی **transsphenoidal** خط اول است؛ **radioactive iodine** اشتباه رایج در تشخیص نادرست است."
+          }
+        ]
+      },
+      {
+        "id": "section-07",
+        "title": "ACTH و بیماری کوشینگ",
+        "description": "کمبود ACTH و تومور ACTH-secreting",
+        "cards": [
+          {
+            "id": "session-06-section-07-card-01",
+            "type": "info",
+            "title": "فیزیولوژی ACTH و کمبود",
+            "content": "**ACTH** پپتید ++39++ اسید آمینه‌ای از **POMC** است که توسط **corticotrophs** ساخته می‌شود.\n**CRH** هیپوتالاموس آن را تحریک می‌کند؛ **ACTH** ترشح گلوکوکورتیکوئیدها و آندروژن‌های آدرنال را تحریک می‌کند.\nکمبود **ACTH** → **secondary adrenal insufficiency** با کاهش **cortisol** و آندروژن آدرنال؛ **aldosterone** به دلیل محور **renin-angiotensin** مختل نمی‌شود.\nشایع‌ترین علت مرکزی: مصرف استروئید به دلایل دیگر (iatrogenic)."
+          },
+          {
+            "id": "session-06-section-07-card-02",
+            "type": "info",
+            "title": "تظاهرات و تشخیص کمبود ACTH",
+            "content": "علائم: کاهش وزن، خستگی، ضعف عضلانی، علائم وضعیتی، تهوع، استفراغ، اسهال، درد شکم.\nبیوشیمی: **hyponatremia**، **hypoglycemia**، **eosinophilia**، **anemia**.\n@@هیپرپیگمانتاسیون و **hyperkalemia** فقط در نارسایی اولیه آدرنال دیده می‌شود، نه کمبود ACTH@@.\n**Cortisol** ناشتای ۸ صبح بیشتر از ++10 mg/dL++ علیه نارسایی؛ کمتر از ++3 mg/dL++ قویاً به نفع نارسایی.\n**ACTH stimulation test** با **cosyntropin**: پاسخ نرمال **cortisol** پیک بیشتر از ++14 mg/dL++ با **LC-MS/MS**."
+          },
+          {
+            "id": "session-06-section-07-card-03",
+            "type": "key_point",
+            "title": "نکته مهم در تست ACTH",
+            "content": "در نارسایی آدرنال ثانویه اخیر، آدرنال‌ها ممکن است ابتدا به **cosyntropin** پاسخ دهند چون هنوز آتروفی نکرده‌اند.\nدرمان: **Hydrocortisone** ++10 mg++ صبح و ++5 mg++ عصر یا **Prednisone** ++5-7.5 mg/day++.\nآموزش **stress dosing** ضروری است؛ **mineralocorticoid** معمولاً لازم نیست."
+          },
+          {
+            "id": "session-06-section-07-card-04",
+            "type": "info",
+            "title": "بیماری کوشینگ",
+            "content": "تومورهای **ACTH-secreting** هیپوفیز (بیماری کوشینگ) حدود ++80%++ سندرم کوشینگ را می‌سازند؛ معمولاً **microadenoma**.\n**Cushing's syndrome** هر هایپرکورتیزولیسم با هر علت است.\nترجیح جنسی زنانه حدود ++3:1++.\n**ACTH** مزمن باعث هیپرپلازی منتشر یا چندندولار آدرنال و تولید زیاد **cortisol** می‌شود."
+          },
+          {
+            "id": "session-06-section-07-card-05",
+            "type": "table",
+            "title": "تست‌های تشخیص هایپرکورتیزولیسم",
+            "columns": [
+              "تست",
+              "یافته/نکته"
+            ],
+            "rows": [
+              [
+                "**24-hr urine cortisol**",
+                "افزایش؛ در اختلال کلیوی قابل اعتماد نیست"
+              ],
+              [
+                "**1-mg dexamethasone suppression**",
+                "**Cortisol** ۸ صبح پس از ++1 mg++ دکسامتازون ساعت ۱۱ شب؛ سرکوب نرمال کمتر از ++1.8 µg/dL++"
+              ],
+              [
+                "**Late-night salivary cortisol**",
+                "نمونه ساعت ۱۱ شب در دو شب متوالی؛ نیازمند چرخه خواب نرمال؛ استروئید استنشاقی/موضعی باعث مثبت کاذب"
+              ],
+              [
+                "تأیید",
+                "یک یافته مثبت کافی نیست؛ تکرار و تست‌های بیشتر لازم است"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-07-card-06",
+            "type": "info",
+            "title": "افتراق کوشینگ",
+            "content": "**Pseudo-Cushing**: فعال‌سازی فیزیولوژیک محور **HPA** در بیماری بحرانی، اختلال خوردن، الکلیسم، بارداری، بیماری نوروسایکیاتریک شدید و دیابت کنترل‌نشده.\n**DDAVP stimulation test** ممکن است بیماری کوشینگ را از **pseudo-Cushing** افتراق دهد.\nپس از اثبات وابستگی به **ACTH**، **MRI** هیپوفیز برای **corticotroph adenoma**؛ اما ++40-45%++ تومورها در **MRI** دیده نمی‌شوند.\nدر این موارد **inferior petrosal sinus sampling (IPSS)** با تحریک **CRH** گرادیان **ACTH** هیپوفیز به محیط را نشان می‌دهد."
+          },
+          {
+            "id": "session-06-section-07-card-07",
+            "type": "info",
+            "title": "درمان کوشینگ",
+            "content": "درمان: برداشتن تومور هیپوفیز توسط جراح مغز و اعصاب مجرب.\nپس از شکست: جراحی مجدد، **bilateral adrenalectomy**، رادیوتراپی یا دارو.\nداروها: **Ketoconazole**، **Metyrapone**، **Mitotane**، **Cabergoline**، **Pasireotide**، **Mifepristone**.\nدر موارد شدید **IV etomidate** برای تثبیت قبل از جراحی.\nبهبود طولانی‌مدت پس از برداشتن **microadenoma**: ++69-98%++؛ عود ++3-19%++."
+          },
+          {
+            "id": "session-06-section-07-card-08",
+            "type": "quiz",
+            "question": "کدام یافته در کمبود ACTH دیده نمی‌شود؟",
+            "options": [
+              "**Hyponatremia**",
+              "**Hyperkalemia**",
+              "**Hypoglycemia**",
+              "**Eosinophilia**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "**Hyperkalemia** فقط در نارسایی اولیه آدرنال دیده می‌شود، نه کمبود **ACTH**."
+          }
+        ]
+      },
+      {
+        "id": "section-08",
+        "title": "گنادوتروپین‌ها",
+        "description": "کمبود گنادوتروپین و تومورهای گنادوتروپین‌سکرت",
+        "cards": [
+          {
+            "id": "session-06-section-08-card-01",
+            "type": "info",
+            "title": "فیزیولوژی و کمبود گنادوتروپین",
+            "content": "**LH** و **FSH** گلیکوپروتئین‌های **gonadotrophs** لوب قدامی هستند؛ زیرواحد **beta** عملکرد اختصاصی می‌دهد.\nبه گیرنده‌های گناد متصل و عملکرد گناد را تنظیم می‌کنند؛ **GnRH** تحریک و استروئیدهای جنسی بازخورد می‌دهند.\n**Hypogonadotropic hypogonadism**: استروئید جنسی پایین + **FSH/LH** پایین یا نامتناسب نرمال."
+          },
+          {
+            "id": "session-06-section-08-card-02",
+            "type": "info",
+            "title": "تظاهرات و درمان کمبود گنادوتروپین",
+            "content": "زمان شروع مهم است: جنینی → **ambiguous genitalia**؛ بعد از تولد تا بلوغ → تأخیر/عدم بلوغ جنسی؛ بعد از بلوغ → اختلال قاعدگی در زنان، اختلال جنسی و **gynecomastia** در مردان.\n**Osteoporosis** و ناباروری در هر دو جنس.\nعلل مادرزادی: **Kallman syndrome**، **Prader-Willi**، **septo-optic dysplasia**؛ اکتسابی: **hemochromatosis**، **hyperprolactinemia**، تومورهای سلا، رادیوتراپی جمجمه، اختلالات التهابی/انفیلتراتیو.\nدرمان زنان: استروژن خوراکی/ترانس‌درمال تا یائسگی طبیعی؛ در رحم سالم **progesterone** برای پیشگیری از هیپرپلازی آندومتر.\nمردان: تستوسترون (تزریق، pellet، ژل، patch)؛ تستوسترون اگزوژن باروری را برنمی‌گرداند و اسپرماتوژنز را مهار می‌کند؛ برای باروری **gonadotropin therapy** لازم است."
+          },
+          {
+            "id": "session-06-section-08-card-03",
+            "type": "info",
+            "title": "تومورهای گنادوتروپین‌سکرت",
+            "content": "این تومورها غیرعملکردی در نظر گرفته می‌شوند؛ معمولاً بزرگ و شایع‌ترین **macroadenoma** هستند.\nمی‌توانند **FSH**، **LH** و/یا **alpha subunit** ترشح کنند.\n**Nonfunctioning pituitary adenoma** دومین آدنوم شایع پس از **prolactinoma** است؛ شیوع ++7-22 per 100,000++.\nتشخیص: علائم فشاری، کمبود هورمون‌های هیپوفیز، **FSH/LH** و/یا **alpha subunit** بالا بدون استروژن/تستوسترون پایین. **Immunoperoxidase staining** لازم است، به‌ویژه در زنان یائسه.\nدرمان: **transsphenoidal surgery** خط اول و معمولاً موفق؛ رادیوتراپی adjunct؛ درمان دارویی مؤثر وجود ندارد."
+          },
+          {
+            "id": "session-06-section-08-card-04",
+            "type": "quiz",
+            "question": "درمان اصلی تومور گنادوتروپین‌سکرت هیپوفیز چیست؟",
+            "options": [
+              "**Dopamine agonist**",
+              "**Transsphenoidal surgery**",
+              "**SRLs**",
+              "**Radioactive iodine**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "درمان اولیه **transsphenoidal surgery** است؛ درمان دارویی مؤثری وجود ندارد."
+          }
+        ]
+      },
+      {
+        "id": "section-09",
+        "title": "هورمون‌های لوب خلفی و دیابت بی‌مزه",
+        "description": "AVP، دیابت بی‌مزه و افتراق آن",
+        "cards": [
+          {
+            "id": "session-06-section-09-card-01",
+            "type": "info",
+            "title": "دیابت بی‌مزه",
+            "content": "**Diabetes insipidus (DI)** = کمبود **AVP** و دفع حجم زیاد ادرار رقیق.\n**Central DI**: خانوادگی با جهش اتوزومال غالب در ژن **vasopressin** که عملکرد نورون‌های تولید **AVP** را مختل می‌کند؛ اکتسابی: تومورهای داخل/بالای سلا، انفیلتراسیون هیپوتالاموس و هیپوفیز خلفی، عفونت، تروما/جراحی، خودایمن.\n**Nephrogenic DI**: مقاومت به **AVP**."
+          },
+          {
+            "id": "session-06-section-09-card-02",
+            "type": "table",
+            "title": "علل دیابت بی‌مزه",
+            "columns": [
+              "**Central DI**",
+              "**Nephrogenic DI**"
+            ],
+            "rows": [
+              [
+                "**Idiopathic**، **Familial**، **Hypophysectomy**، انفیلتراسیون هیپوتالاموس/هیپوفیز خلفی، **Langerhans cell histiocytosis**، **Granulomas**، عفونت، تومورها، خودایمن",
+                "**Idiopathic**، **Familial**، جهش **V2 receptor gene**، جهش **Aquaporin-2 gene**، بیماری مزمن کلیه، **Hypokalemia**، **Hypercalcemia**، **Sickle cell anemia**، داروها: **Lithium**، **Fluoride**، **Demeclocycline**، **Colchicine**"
+              ]
+            ]
+          },
+          {
+            "id": "session-06-section-09-card-03",
+            "type": "info",
+            "title": "تظاهرات و تشخیص",
+            "content": "**Polyuria** (بیش از ++3 L ادرار در روز) و **polydipsia** تظاهرات اصلی هستند.\nاگر دسترسی به آب آزاد و مکانیسم تشنگی سالم باشد، سدیم و اسمولالیته سرم معمولاً نرمال می‌ماند.\n**Water deprivation test** تست اصلی برای تشخیص و افتراق علت است: در **DI** سدیم و اسمولالیته بالا می‌رود.\nپاسخ به آنالوگ مصنوعی **vasopressin**: **Central DI** → افزایش اسمولالیته ادرار و کاهش حجم؛ **Nephrogenic DI** → بدون پاسخ؛ **Partial central DI** → پاسخ محدود؛ **Primary polydipsia** → بدون نیاز به **vasopressin** ادرار را تغلیظ می‌کند."
+          },
+          {
+            "id": "session-06-section-09-card-04",
+            "type": "key_point",
+            "title": "Copeptin",
+            "content": "**Copeptin** از **arginine vasopressin prohormone** مشتق می‌شود و به‌عنوان جانشین **AVP** بررسی شده است.\nاندازه‌گیری مستقیم **copeptin** پلاسما پس از تحریک با **hypertonic saline** می‌تواند **central DI**، **nephrogenic DI** و **primary polydipsia** را افتراق دهد."
+          },
+          {
+            "id": "session-06-section-09-card-05",
+            "type": "info",
+            "title": "درمان DI",
+            "content": "**DDAVP** آنالوگ **AVP** است و به شکل خوراکی (**desmopressin**)، تزریقی و داخل بینی موجود است.\n**Aqueous vasopressin** آنالوگ کوتاه‌اثرتر است که در دوره پس از جراحی به‌صورت زیرجلدی داده می‌شود.\n@@به دلیل گذرا بودن **DI** و احتمال تغییر به فاز **SIADH** پس از جراحی هیپوفیز، **AVP** با احتیاط و نه به‌صورت برنامه‌ریزی‌شده داده می‌شود تا **hyponatremia** رخ ندهد@@."
+          },
+          {
+            "id": "session-06-section-09-card-06",
+            "type": "quiz",
+            "question": "در water deprivation test، کدام اختلال به vasopressin مصنوعی پاسخ نمی‌دهد؟",
+            "options": [
+              "**Central DI**",
+              "**Nephrogenic DI**",
+              "**Partial central DI**",
+              "**Primary polydipsia**"
+            ],
+            "correctAnswer": 1,
+            "explanation": "**Nephrogenic DI** مقاومت به **AVP** دارد و به **vasopressin** مصنوعی پاسخ نمی‌دهد."
+          }
+        ]
+      },
+      {
+        "id": "section-10",
+        "title": "مرور سریع",
+        "description": "جمع‌بندی نکات High-Yield",
+        "cards": [
+          {
+            "id": "session-06-section-10-card-01",
+            "type": "key_point",
+            "title": "اعداد کلیدی",
+            "content": "**Prolactinoma** شایع‌ترین تومور هیپوفیز: ++40-45%++.\n**Microadenoma** < ++10 mm++؛ **Macroadenoma** ≥ ++10 mm++.\n**Prolactin** > ++250 ng/mL++ معمولاً **prolactinoma**.\n**IGF-I** برای **acromegaly**؛ **OGTT** سرکوب **GH** < ++1 ng/mL++.\n**1-mg dexamethasone** سرکوب **cortisol** < ++1.8 µg/dL++."
+          },
+          {
+            "id": "session-06-section-10-card-02",
+            "type": "key_point",
+            "title": "افتراق‌های مهم",
+            "content": "**Hyperkalemia** و هیپرپیگمانتاسیون → نارسایی اولیه آدرنال، نه کمبود **ACTH**.\n**Hook effect** → توده بزرگ + **prolactin** خفیف بالا.\n**Macroprolactin** → **prolactin** بالا بدون علائم بالینی.\n**Bitemporal hemianopsia** → فشار روی **optic chiasm**.\n**Ophthalmoplegia/diplopia/ptosis** → تهاجم به **cavernous sinus**."
+          },
+          {
+            "id": "session-06-section-10-card-03",
+            "type": "flashcard",
+            "question": "کدام هورمون‌ها در لوب خلفی هیپوفیز ذخیره می‌شوند؟",
+            "answer": "**AVP** و **oxytocin**."
+          },
+          {
+            "id": "session-06-section-10-card-04",
+            "type": "flashcard",
+            "question": "درمان اولیه **prolactinoma** چیست؟",
+            "answer": "**Dopamine agonist**؛ **Cabergoline** ترجیح داده می‌شود."
+          },
+          {
+            "id": "session-06-section-10-card-05",
+            "type": "flashcard",
+            "question": "تست غربالگری **GH-secreting adenoma** چیست؟",
+            "answer": "**IGF-I**."
+          },
+          {
+            "id": "session-06-section-10-card-06",
+            "type": "flashcard",
+            "question": "در **SIADH** پس از جراحی هیپوفیز چه خطری وجود دارد؟",
+            "answer": "@@**Hyponatremia**@@؛ بنابراین **AVP** با احتیاط و نه برنامه‌ریزی‌شده داده می‌شود."
+          },
+          {
+            "id": "session-06-section-10-card-07",
+            "type": "quiz",
+            "question": "کدام مورد در بیماری کوشینگ برای افتراق از ectopic ACTH استفاده می‌شود؟",
+            "options": [
+              "**IPSS** با **CRH**",
+              "**Water deprivation test**",
+              "**OGTT**",
+              "**PEG precipitation**"
+            ],
+            "correctAnswer": 0,
+            "explanation": "**Inferior petrosal sinus sampling (IPSS)** با تحریک **CRH** گرادیان هیپوفیز به محیط را نشان می‌دهد."
+          }
+        ]
+      }
+    ]
+  }
+}

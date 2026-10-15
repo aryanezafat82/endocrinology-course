@@ -3,6 +3,7 @@ import { ArrowRight, ChevronLeft, CheckCircle2, Circle } from 'lucide-react';
 import { getSessionData, getSessionMeta } from '../data/loaders.js';
 import EmptyState from '../components/common/EmptyState.jsx';
 import ProgressBar from '../components/common/ProgressBar.jsx';
+import RichText from '../components/common/RichText.jsx';
 import { useProgress } from '../context/ProgressContext.jsx';
 
 export default function Session() {
@@ -47,16 +48,18 @@ export default function Session() {
 
       <header className="rounded-2xl border border-slate-200 bg-white p-6 transition-colors duration-200 dark:border-slate-800 dark:bg-slate-900">
         <div className="flex items-start justify-between gap-3">
-          <div>
-            <p className="text-xs font-medium text-rose-600 dark:text-rose-400">
-              {meta.title}
-            </p>
+          <div className="min-w-0 flex-1">
+            {meta.title && (
+              <p className="text-xs font-medium text-rose-600 dark:text-rose-400">
+                <RichText as="span" text={meta.title} />
+              </p>
+            )}
             <h1 className="mt-2 text-2xl font-bold text-slate-900 dark:text-slate-100">
-              {session.title}
+              <RichText as="span" text={session.title} />
             </h1>
           </div>
           {sessionDone && (
-            <span className="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-medium text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300">
+            <span className="inline-flex shrink-0 items-center gap-1.5 rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-medium text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300">
               <CheckCircle2 className="h-3.5 w-3.5" />
               تکمیل شده
             </span>
@@ -64,9 +67,9 @@ export default function Session() {
         </div>
 
         {session.description && (
-          <p className="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-400">
-            {session.description}
-          </p>
+          <div className="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-400">
+            <RichText text={session.description} />
+          </div>
         )}
 
         <div className="mt-5">
@@ -105,14 +108,14 @@ export default function Session() {
                   >
                     {index + 1}
                   </div>
-                  <div>
+                  <div className="min-w-0">
                     <h3 className="text-sm font-semibold text-slate-900 dark:text-slate-100">
-                      {section.title}
+                      <RichText as="span" text={section.title} />
                     </h3>
                     {section.description && (
-                      <p className="mt-1 text-xs leading-6 text-slate-500 dark:text-slate-400">
-                        {section.description}
-                      </p>
+                      <div className="mt-1 text-xs leading-6 text-slate-500 dark:text-slate-400">
+                        <RichText text={section.description} />
+                      </div>
                     )}
                     <p className="mt-1 inline-flex items-center gap-1 text-xs">
                       {done ? (

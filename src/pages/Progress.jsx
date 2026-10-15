@@ -153,7 +153,7 @@ export default function Progress() {
                     {index + 1}
                   </span>
                   <h3 className="min-w-0 truncate text-sm font-semibold text-slate-900 dark:text-slate-100">
-                    جلسه {index + 1} — {realTitle}
+                  {realTitle}
                   </h3>
                   {fullyDone && (
                     <span className="inline-flex shrink-0 items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-medium text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300">

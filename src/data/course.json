@@ -31,6 +31,31 @@
       "id": "session-06",
       "title": "هیپوتالاموس-هیپوفیز",
       "file": "session-06.json"
+    },
+    {
+      "id": "session-07",
+      "title": "پرکاری تیروئید",
+      "file": "session-07.json"
+    },
+    {
+      "id": "session-08",
+      "title": "کم‌کاری تیروئید",
+      "file": "session-08.json"
+    },
+    {
+      "id": "session-09",
+      "title": "تیروئیدیت",
+      "file": "session-09.json"
+    },
+    {
+      "id": "session-10",
+      "title": "هیپوگلیسمی",
+      "file": "session-10.json"
+    },
+    {
+      "id": "session-11",
+      "title": "لیپید",
+      "file": "session-11.json"
     }
     
   ]

@@ -4,6 +4,7 @@ import { BookOpen, ChevronLeft, CheckCircle2 } from 'lucide-react';
 import { getSessions, getSessionData } from '../data/loaders.js';
 import EmptyState from '../components/common/EmptyState.jsx';
 import ProgressBar from '../components/common/ProgressBar.jsx';
+import RichText from '../components/common/RichText.jsx';
 import { useProgress } from '../context/ProgressContext.jsx';
 import { useReview } from '../context/ReviewContext.jsx';
 
@@ -69,7 +70,7 @@ export default function Sessions() {
             >
               <div className="flex items-center justify-between">
                 <span className="inline-flex items-center rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300">
-                  {session.shortTitle}
+                  <RichText as="span" text={session.shortTitle} />
                 </span>
                 {fullyDone ? (
                   <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-medium text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300">
@@ -77,18 +78,18 @@ export default function Sessions() {
                     تکمیل شده
                   </span>
                 ) : (
-                  <BookOpen className="h-4 w-4 text-slate-400 dark:text-slate-500" />
+                  <BookOpen className="h-4 w-4 text-slate-400" />
                 )}
               </div>
 
               <h2 className="mt-3 text-base font-semibold leading-7 text-slate-900 dark:text-slate-100">
-                {session.title}
+                <RichText as="span" text={session.title} />
               </h2>
 
               {session.description && (
-                <p className="mt-1 line-clamp-2 text-xs leading-6 text-slate-500 dark:text-slate-400">
-                  {session.description}
-                </p>
+                <div className="mt-1 line-clamp-2 text-xs leading-6 text-slate-500 dark:text-slate-400">
+                  <RichText text={session.description} />
+                </div>
               )}
 
               <div className="mt-4">

@@ -1,0 +1,1339 @@
+{
+  "exam": {
+    "id": "mehr-1401",
+    "label": "کورس غدد پزشکی مهر ۱۴۰۱ رشت",
+    "sourceFile": "SOURCE_FILE_PLACEHOLDER",
+    "questionCount": 70,
+    "questions": [
+      {
+        "id": "mehr-1401-q-01",
+        "type": "mcq",
+        "question": "بیمار خانم ۳۳ ساله ایست که با ریزش موی سر و اختلال پریود ، کاهش ضربان قلب مراجعه کرده است، در آزمایشات انجام شده، TSH افزایش یافته، FreeT4 کاهش یافته میباشد. تشخیص کدام است؟",
+        "options": [
+          "هیپوتیروئیدی اولیه",
+          "هیپوتیروئیدی ثانویه",
+          "هیپوتیروئیدی subclinical",
+          "کمای myxedeama"
+        ],
+        "correctAnswer": 0,
+        "explanation": "افزایش TSH همراه با کاهش FreeT4 نشاندهنده هیپوتیروئیدی اولیه است، زیرا اختلال در خود غده تیروئید باعث کاهش تولید هورمون و در نتیجه افزایش جبرانی TSH میشود. در هیپوتیروئیدی ثانویه، TSH پایین یا نرمال است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-02",
+        "type": "mcq",
+        "question": "در کدامیک از موارد زیر جذب ید ۲۴ ساعته کاهش یافته میباشد؟",
+        "options": [
+          "گریوز",
+          "گواتر مولتی ندولر",
+          "مصرف لووتیروکسین",
+          "ادنوم توکسیک"
+        ],
+        "correctAnswer": 2,
+        "explanation": "مصرف لووتیروکسین با مهار TSH و کاهش تحریک غده تیروئید، جذب ید را کاهش میدهد. در گریوز، ادنوم توکسیک و گواتر مولتی ندولر، جذب ید افزایش مییابد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-03",
+        "type": "mcq",
+        "question": "بیمار خانم ۳۴ ساله ایست که با طپش قلب ، لرزش دست و درد ناحیه گردن مراجعه کرده است، در آزمایشات انجام شده، TSH افزایش یافته، FT4 کاهش یافته میباشد، همچنین ESR افزایش یافته است، تشخیص چیست؟",
+        "options": [
+          "گواتر ندولر",
+          "ادنوم توکسیک",
+          "تیروئیدیت تحت حاد",
+          "گریوز"
+        ],
+        "correctAnswer": 2,
+        "explanation": "درد ناحیه گردن همراه با افزایش ESR و اختلال گذرای تیروئید (افزایش TSH و کاهش FT4 در فاز اولیه) مشخصه تیروئیدیت تحت حاد (دردناک) است. در گریوز و ادنوم توکسیک، TSH معمولاً سرکوب میشود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-04",
+        "type": "mcq",
+        "question": "کدام یک از موارد زیر باعث هیپوتیروئیدی ثانویه می‌شود",
+        "options": [
+          "مصرف ید رادیواکتیو",
+          "جراحی تیروئید",
+          "مصرف آمیدوارون",
+          "جراحی هیپوفیز"
+        ],
+        "correctAnswer": 3,
+        "explanation": "هیپوتیروئیدی ثانویه به علت اختلال در هیپوفیز یا هیپوتالاموس رخ می‌دهد. جراحی هیپوفیز می‌تواند تولید TSH را کاهش دهد. سایر گزینه‌ها علل اولیه هستند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-05",
+        "type": "mcq",
+        "question": "بیمار آقای ۳۴ ساله ایست، که با کاهش وزن و تاکیاردی مراجعه کرده است، در معاینه، آگرفتالمومباثی ندارد، تیروئید اندکی بزرگتر از حد نرمال و بدون تندرنس می‌باشد، سطح TSH افزایش یافته، FT4 کاهش یافته می‌باشد. اقدام بعدی چیست؟",
+        "options": [
+          "اسکن تیروئید",
+          "جذب ید ۲۴ ساعته",
+          "سونوگرافی تیروئید",
+          "شروع متی مازول"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در هیپوتیروئیدی اولیه با گواتر ساده، اقدام تشخیصی بعدی اندازه‌گیری جذب ید ۲۴ ساعته است تا علل مختلف مانند کمبود ید یا تیروئیدیت‌ها افتراق داده شوند. اسکن و سونوگرافی در مراحل بعدی قرار دارند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-06",
+        "type": "mcq",
+        "question": "بیمار خانم ۵۷ ساله ایست با سابقه گریوز ، که تحت درمان با متی مازول روزانه ۲ عدد بوده، اخیرا تحت جراحی بدلیل سنگ کیسه صفرا قرار گرفته، بیمار با تاکیاردی، تب، کاهش سطح هوشیاری و ایکتر مراجعه کرده است، تشخیص چیست؟",
+        "options": [
+          "کمای Myxedema",
+          "تیروئیدیت",
+          "گریوز",
+          "Thyroid storm"
+        ],
+        "correctAnswer": 3,
+        "explanation": "بیمار با سابقه گریوز، پس از استرس جراحی دچار تب، تاکیاردی، کاهش هوشیاری و ایکتر شده است. این مجموعه نشان‌دهنده طوفان تیروئیدی (Thyroid storm) است که یک اورژانس تهدیدکننده حیات می‌باشد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-07",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر هیپوتیروئیدی گذرا می‌باشد",
+        "options": [
+          "جراحی تیروئید",
+          "سندروم شیهان",
+          "هیپوتیروئیدی مادرزادی",
+          "Silent thyroiditis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "تیروئیدیت سایلنت (بی‌علامت) معمولاً به صورت گذرا رخ می‌دهد و ممکن است با فاز هیپوتیروئیدی موقت همراه باشد. سایر گزینه‌ها معمولاً نیاز به درمان مادام‌العمر دارند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-08",
+        "type": "mcq",
+        "question": "بیمار خانم ۶۷ ساله ایست، که بدنبال سکته قلبی، با کاهش سطح هوشیاری مراجعه کرده است، بیمار ادماتوز بوده، درجه حرارت بدن کاهش یافته، برادیکاردی دارد، سابقه جراحی تیروئید در ۱۰ سال قبل ذکر می‌کند، تشخیص چیست؟",
+        "options": [
+          "تیروئیدیت",
+          "کمای Myxedema",
+          "سنترال هیپوتیروئیدی",
+          "Thyroid storm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "کمای میکسدم با کاهش سطح هوشیاری، هیپوترمی، برادیکاردی و ادم در بیمار با سابقه اختلال تیروئید مشخص می‌شود. این وضعیت یک اورژانس است و نیاز به درمان فوری با هورمون تیروئید دارد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-09",
+        "type": "mcq",
+        "question": "در مورد کنترل چاقی در ناحیه هیپوتالاموس کدام جمله صحیح است ؟",
+        "options": [
+          "مرکز نورون های orexigenic ، زن pro-opiomelanocortin (POMC) را بیان می کند",
+          "مرکز نورونهای appetite-inhibiting زن agouti-related protein (AgRP) را بیان می کند",
+          "مرکز نورونهای appetite-inhibiting زن leptin را تولید می کند."
+        ],
+        "correctAnswer": 0,
+        "explanation": "نورون‌های orexigenic در هسته弓状 هیپوتالاموس پپتیدهای اشتهاآور مانند AgRP و NPY را بیان می‌کنند، در حالی که نورون‌های POMC اشتها را مهار می‌کنند. گزینه الف بیانگر این است که نورون‌های orexigenic POMC را بیان می‌کنند که نادرست است، اما پاسخ فایل گزینه الف را صحیح دانسته است. توجه: به نظر می‌رسد پاسخ فایل با دانش روز مغایرت دارد، لیکن طبق دستور، پاسخ فایل بدون تغییر ثبت شده است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-10",
+        "type": "mcq",
+        "question": "کودک ۱۳ ساله ای به علت چاقی مراجعه نموده است . در شرح حال ، وی در زمان زایمان وزن نرمال داشته ولی هیپوتون بوده و نسبت به همسالان خود ،تاخیر در راه رفتن و صحبت کردن داشته است. در حال حاضر پرخوری بیش از حد و در عین حال کوتاهی قد دارد .در مورد این بیمار کدام جمله صحیح است ؟",
+        "options": [
+          "احتمالا سطح اکسی توسین و فاکتور Brain drive Neuro trophic در مغز وی پایین است .",
+          "با رسیدن به سن بلوغ مشکل چاقی وی بهتر می شود",
+          "قد وی پس از بلوغ عادی می شود",
+          "روند بلوغ در این بیماران نرمال است"
+        ],
+        "correctAnswer": 0,
+        "explanation": "تصویر بالینی نشان‌دهنده سندرم پرادر-ویلی است. در این بیماران اختلال در هیپوتالاموس و کاهش نورون‌های اکسی‌توسین و فاکتور نوروتروفیک مشتق از مغز (BDNF) دیده می‌شود. چاقی معمولاً با بلوغ بهبود نمی‌یابد و کوتاهی قد باقی می‌ماند.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-11",
+        "type": "mcq",
+        "question": "از بین داروهای زیر کدامیک از طریق اختلال در جذب چربی باعث کاهش وزن می شود ؟",
+        "options": [
+          "phentermine",
+          "لیراگلوتاید",
+          "orlistat",
+          "سماگلوتاید"
+        ],
+        "correctAnswer": 2,
+        "explanation": "اورلیستات با مهار لیپاز پانکراس و روده، جذب چربی غذایی را کاهش می‌دهد. فنترمین اشتها را کم می‌کند، لیراگلوتاید و سماگلوتاید آگونیست GLP-1 هستند و مکانیسم‌های متفاوتی دارند.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-12",
+        "type": "mcq",
+        "question": "کدامیک از کیس‌های زیر مبتلا به سندروم متابولیک می باشد؟",
+        "options": [
+          "خانم ۲۵ ساله ، دور کمر ۷۲ ، تری گلیسرید ۲۱۰ ، HDL ۳۵ mg/dl ، و فشارخون ۱۳۰/۹۰",
+          "آقای ۸۵ ساله ، فشارخون ۱۱۰/۸۰ ، تری گلیسرید ۱۸۰ mg/dl ، قند خون ناشتا ۹۶",
+          "خانم ۶۴ ساله ، وزن ۸۵ کیلو ، فشار خون ۱۳۰/۹۰ ، کلسترول ۳۰۰ mg/dl ، HDL ۶۰ mg/dl",
+          "آقای ۳۲ ساله ، BMI : ۳۰ ، FBS : 86 mg/dl ، فشار خون ۱۱۰/۶۰"
+        ],
+        "correctAnswer": 0,
+        "explanation": "سندرم متابولیک نیاز به حداقل سه معیار دارد: دور کمر بالا، تری‌گلیسرید ≥150، HDL پایین (<40 مرد، <50 زن)، فشار خون ≥130/85 و قند ناشتا ≥100. در گزینه الف، تری‌گلیسرید بالا، HDL پایین و فشار خون بالا وجود دارد (سه معیار).",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-13",
+        "type": "mcq",
+        "question": "منشا کدامیک از اجزای تناسلی زنانه زیر از مولرین داکت می باشد ؟",
+        "options": [
+          "قسمت تحتانی واژن",
+          "ovary",
+          "لابیای ماژور",
+          "یوتروس(رحم)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "مولرین داکت در جنین دختر به رحم، لوله‌های فالوپ و یک‌سوم فوقانی واژن تبدیل می‌شود. تخمدان از مزونفروز و لابیای ماژور از پوست خارجی منشأ می‌گیرند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-14",
+        "type": "mcq",
+        "question": "مرد ۲۷ ساله ای جهت بررسی علت نازایی ارجاع شده است . در ظاهر قد بلند، صورت فاقد موهای مردانه و اندام های بلند دارد. در معاینه ناحیه تناسلی، کاهش موهای ناحیه پوبیس، کوچک و بیضه های بسیار کوچک و سفت دارد. در تست‌های بعمل آمده آرواسپرمی ، دیابت و LH حداکثر نرمال و تستوسترون پایین دارد. کدامیک از هورمون‌های زیر در ایشان شیوع کمتری دارد ؟",
+        "options": [
+          "لقمونا",
+          "پستان",
+          "پروستات",
+          "ریه"
+        ],
+        "correctAnswer": 2,
+        "explanation": "تصویر بالینی نشان‌دهنده سندرم کلاینفلتر (کاریوتیپ 47,XXY) است. در این بیماران به دلیل هیپوگنادیسم، خطر سرطان پستان افزایش می‌یابد، اما پروستات معمولاً کوچک و بدون مشکل است.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-15",
+        "type": "mcq",
+        "question": "با دیدن کدام یافته زیر در بیمار مبتلا به سندروم ترنر ، باید به تخلیه گنادها اقدام نمود ؟",
+        "options": [
+          "ظاهر شدن علائم بالینی زیادی آندروژن",
+          "قاعدگی نامنظم",
+          "فشارخون بالا",
+          "مالفور ماسون‌های کلیوی"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در سندرم ترنر، وجود کروموزوم Y (یا ماده Y) خطر ایجاد گنادوبلاستوما را افزایش می‌دهد. بنابراین در صورت وجود علائم ویریلیزاسیون یا آندروژن بالا، تخلیه گنادها توصیه می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-16",
+        "type": "mcq",
+        "question": "ترانس لوکیشن کدامیک از زن های زیر می تواند باعث القاء بیضه حتی در جنس مونث شود ؟",
+        "options": [
+          "SRY",
+          "AMH",
+          "DAX1",
+          "موتانت LH رسپتور"
+        ],
+        "correctAnswer": 0,
+        "explanation": "ژن SRY روی کروموزوم Y عامل اصلی تمایز بیضه است. جابه‌جایی این ژن به کروموزوم X می‌تواند در فرد با کاریوتیپ XX باعث ایجاد بیضه و فنوتیپ مردانه شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-17",
+        "type": "mcq",
+        "question": "کدامیک از آزمایشات زیر برای تشخیص افتراقی بیماری‌های منجر به کوشینگ مناسب است؟",
+        "options": [
+          "تست سرکوب دگزامتازون high dose",
+          "MRI هیپوفیز",
+          "جمع آوری ادرار ۲۴ ساعته از نظر کورتیزول آزاد",
+          "Acth"
+        ],
+        "correctAnswer": 3,
+        "explanation": "اندازه‌گیری ACTH در تشخیص افتراقی کوشینگ (وابسته به ACTH مانند آدنوم هیپوفیز در مقابل مستقل از ACTH مانند آدنوم آدرنال) نقش کلیدی دارد. تست سرکوب دوز بالا و تصویربرداری مراحل بعدی هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-18",
+        "type": "mcq",
+        "question": "در بیمار با کورتیزول براق و کورتیزول ادراری افزایش یافته و دو نوبت اندازه گیری ، Acrh=4pg/ml کدامیک از اقدامات زیر در قدم بعدی ضروری است؟",
+        "options": [
+          "CT اسکن آدرنال",
+          "تست دگزامتازون low dose",
+          "نمونه گیری از سینوس پتروزال (IPSS)",
+          "تست دسموپرسین"
+        ],
+        "correctAnswer": 0,
+        "explanation": "ACTH بسیار پایین (4 pg/ml) همراه با کورتیزول بالا نشان‌دهنده کوشینگ وابسته به آدرنال (مستقل از ACTH) است. بنابراین قدم بعدی تصویربرداری از آدرنال با CT اسکن می‌باشد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-19",
+        "type": "mcq",
+        "question": "در بیمار با نارسایی حاد آدرنال که با شوک مراجعه کرده کدامیک از اقدامات زیر صحیح است؟",
+        "options": [
+          "درمان با نرمال سالین به تنهایی یا برطرف شدن شوک",
+          "شروع هیدروکورتیزون و نرمال سالین",
+          "شروع درمان با هیدروکورتیزون پس از جواب کورتیزول و Acth پایین",
+          "درمان همزمان گلوکوکورتیکوئید با مینرالوکورتیکوئید"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در بحران آدرنال، درمان فوری شامل تجویز هیدروکورتیزون و مایع‌درمانی با نرمال سالین است. نباید منتظر جواب آزمایشات ماند. مینرالوکورتیکوئید در مرحله حاد معمولاً ضروری نیست.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-20",
+        "type": "mcq",
+        "question": "در بیمار با توده اتفاقی آدرنال سمت چپ همه آزمایشات زیر ضروری است بجز:",
+        "options": [
+          "تست سرکوب دگزامتازون شبانه",
+          "چک (DHEAS) دی هیدرو اپی آندروسترون سولفات",
+          "چک ۱۷ هیدروکسی پروژسترون",
+          "چک متانفرین و نرمتانفرین ادرار"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در بررسی توده آدرنال، غربالگری برای فئوکروموسیتوما (متانفرین‌ها)، کوشینگ (دگزامتازون شبانه) و آلدوسترونوما (نسبت آلدوسترون به رنین) ضروری است. ۱۷-هیدروکسی پروژسترون برای تشخیص CAH است و در این زمینه معمولاً لازم نیست.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-21",
+        "type": "mcq",
+        "question": "در کدامیک از موارد CAH بیمار با فشار خون بالا مراجعه می‌کند و چرا؟",
+        "options": [
+          "کمبود ۱۱ بتا هیدروکسیلاز - به دلیل افزایش داکسی کورتیکوسترون",
+          "کمبود ۲۱ آلفا هیدروکسیلاز - به دلیل افزایش داکسی کورتیزول",
+          "کمبود ۲۱ آلفا هیدروکسیلاز - به دلیل افزایش ۱۷ هیدروکسی پروژسترون",
+          "هیچکدام"
+        ],
+        "correctAnswer": 0,
+        "explanation": "کمبود ۱۱-بتا هیدروکسیلاز باعث تجمع داکسی‌کورتیکوسترون (یک مینرالوکورتیکوئید قوی) می‌شود که منجر به فشار خون بالا و هیپوکالمی می‌گردد. کمبود ۲۱-هیدروکسیلاز معمولاً با از دست دادن نمک همراه است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-22",
+        "type": "mcq",
+        "question": "در بررسی علل هیپرتنشن مقاوم به درمان بررسی کدامیک از موارد زیر ضروری است؟",
+        "options": [
+          "سنجش رنین و آلدوسترون خون",
+          "سنجش متانفرین و نورمتانفرین ادرار",
+          "سنجش هورمون های تیروئید",
+          "همه موارد"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در هیپرتنشن مقاوم، بررسی علل ثانویه شامل هیپرآلدوسترونیسم اولیه (رنین و آلدوسترون)، فئوکروموسیتوما (متانفرین‌ها) و اختلالات تیروئید ضروری است. بنابراین همه موارد باید بررسی شوند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-23",
+        "type": "mcq",
+        "question": "در بیمار با هیپرتنشن مقاوم و آلدوسترون بالا و رنین ساپرس و نسبت Ald/PRA = 25 قدم بعدی کدام است؟",
+        "options": [
+          "اسکن آدرنال",
+          "تست salin loading",
+          "نمونه برداری از ورید آدرنال",
+          "تشخیص هیپرآلدوسترونیسم اولیه مطرح است و اقدام تشخیصی دیگری لازم نیست"
+        ],
+        "correctAnswer": 1,
+        "explanation": "نسبت آلدوسترون به رنین (ARR) بالا همراه با رنین سرکوب شده، شک به هیپرآلدوسترونیسم اولیه را مطرح می‌کند. برای تأیید تشخیص، تست سرکوب سالین (saline loading) انجام می‌شود. اسکن و نمونه‌گیری ورید مراحل بعدی هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-24",
+        "type": "mcq",
+        "question": "در کدامیک از موارد زیر سطح آلدوسترون و رنین هر دو پایین است ؟",
+        "options": [
+          "نارسایی اولیه آدرنال",
+          "سندرم لیدل",
+          "نارسایی ثانویه آدرنال",
+          "CAH ناشی از کمبود ۲۱ آلفا هیدروکسیلاز"
+        ],
+        "correctAnswer": 1,
+        "explanation": "سندرم لیدل (هایپرآلدوسترونیسم کاذب) با کاهش فعالیت کانال سدیمی کلیه، باعث احتباس سدیم و فشار خون بالا همراه با سرکوب رنین و آلدوسترون می‌شود. در نارسایی آدرنال، آلدوسترون بالا یا نرمال است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-25",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر APSII دیده می شود؟",
+        "options": [
+          "هیپوپاراتیروئیدی",
+          "سلیاک",
+          "کاندیدیازیس جلدی مخاطی",
+          "همه موارد"
+        ],
+        "correctAnswer": 3,
+        "explanation": "سندرم APS-II شامل نارسایی آدرنال، تیروئیدیت خودایمن و دیابت نوع ۱ است. بیماری سلیاک نیز به عنوان یک بیماری خودایمن همراه می‌تواند دیده شود. کاندیدیازیس و هیپوپاراتیروئیدی بیشتر در APS-I دیده می‌شوند. پاسخ فایل گزینه د را صحیح دانسته است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-26",
+        "type": "mcq",
+        "question": "نوارت کدامیک از اختلالات زیر بصورت اتوزومال غالب می‌باشد؟",
+        "options": [
+          "MENI",
+          "APSI",
+          "APS II",
+          "هیچکدام"
+        ],
+        "correctAnswer": 1,
+        "explanation": "سندرم MEN1 با توارث اتوزومال غالب منتقل می‌شود. APS-I اتوزومال مغلوب و APS-II نیز غالب است اما گزینه‌های دیگر در سوال مطرح شده‌اند. پاسخ فایل گزینه ب را صحیح دانسته است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-27",
+        "type": "mcq",
+        "question": "در بیمار با MEN2B همه موارد زیر رخ می دهد بجز:",
+        "options": [
+          "کنسر مدولاری تیروئید",
+          "فئوکروموسیتوما",
+          "هیپرپاراتیروئیدی",
+          "نوروم های مخاطی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "سندرم MEN2B با کارسینوم مدولاری تیروئید، فئوکروموسیتوما و نوروم‌های مخاطی مشخص می‌شود. هیپرپاراتیروئیدی در MEN2A دیده می‌شود و در MEN2B نادر است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-28",
+        "type": "mcq",
+        "question": "کدامیک از هورمون های زیر از طریق رسپتور تیروزین کیناز عمل می کند ؟",
+        "options": [
+          "انسولین",
+          "TSH",
+          "FSH",
+          "GH"
+        ],
+        "correctAnswer": 0,
+        "explanation": "گیرنده انسولین از نوع تیروزین کیناز است و با اتوفسفریلاسیون خود پیام‌رسانی می‌کند. TSH، FSH و GH از گیرنده‌های جفت‌شونده با G پروتئین یا سایتوکاینی استفاده می‌کنند.",
+        "topic": "introduction",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-29",
+        "type": "mcq",
+        "question": "کدامیک از هورمون های زیر از طریق رسپتور هسته ای عمل می کند ؟",
+        "options": [
+          "کورتیزول",
+          "پرولاکتین",
+          "PTH",
+          "هیچکدام"
+        ],
+        "correctAnswer": 0,
+        "explanation": "کورتیزول هورمون استروئیدی است و از طریق گیرنده‌های هسته‌ای عمل می‌کند. پرولاکتین از گیرنده سیتوکاینی و PTH از گیرنده جفت‌شونده با G پروتئین استفاده می‌کند.",
+        "topic": "introduction",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-30",
+        "type": "mcq",
+        "question": "کدامیک از هورمون های زیر در رشد نقش دارند ؟",
+        "options": [
+          "هورمون GH",
+          "هورمون های جنسی",
+          "هورمون تیروئید",
+          "همه موارد"
+        ],
+        "correctAnswer": 3,
+        "explanation": "رشد جسمی تحت تأثیر هورمون رشد (GH)، هورمون‌های تیروئید و هورمون‌های جنسی (در بلوغ) است. بنابراین همه موارد نقش دارند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-31",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر مطرح کننده اختلال آزمایشگاهی زیر است ؟ افزایش یافته Total T4 نرمال Free T4 کاهش یافته T3RUP نرمال TSH",
+        "options": [
+          "کاهش TBG",
+          "افزایش TBG",
+          "مقاومت به هورمون تیروئید",
+          "هیچکدام"
+        ],
+        "correctAnswer": 1,
+        "explanation": "افزایش Total T4 همراه با Free T4 نرمال و T3RU نرمال و TSH نرمال، الگوی افزایش TBG است. در مقاومت به هورمون تیروئید، TSH معمولاً بالا یا نرمال است اما Free T4 نیز بالا است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-32",
+        "type": "mcq",
+        "question": "همه موارد از معیارهای تشخیص MENI می باشد بجز :",
+        "options": [
+          "وجود آکرومگالی و هیپر پاراتیروئیدی در یک فرد",
+          "وجود پرولاکتینوما و سابقه فامیلی MENI",
+          "وجود تست ژنتیک مثبت MENI بدون علائم بالینی",
+          "وجود گاسترینوما"
+        ],
+        "correctAnswer": 3,
+        "explanation": "معیارهای MEN1 شامل وجود دو یا بیشتر از تومورهای پاراتیروئید، هیپوفیز و پانکراس است. گاسترینوما به تنهایی معیار تشخیص نیست مگر همراه با سایر تومورها.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-33",
+        "type": "mcq",
+        "question": "اولین سد دفاعی در برابر هیپوگلیسمی کدام است؟",
+        "options": [
+          "قطع ترشح انسولین",
+          "افزایش گلوکاگون",
+          "افزایش اپی نفرین",
+          "افزایش کورتیزول"
+        ],
+        "correctAnswer": 0,
+        "explanation": "اولین پاسخ بدن به افت قند خون، کاهش ترشح انسولین از سلول‌های بتا است. سپس گلوکاگون و اپی‌نفرین افزایش می‌یابند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-34",
+        "type": "mcq",
+        "question": "کدامیک از داروهای زیر ریسک هیپوگلیسمی را در بیمار افزایش می دهد؟",
+        "options": [
+          "متفورمین",
+          "آکاربوز",
+          "کاپتوپریل",
+          "پیوگلیتازون"
+        ],
+        "correctAnswer": 2,
+        "explanation": "کاپتوپریل و انالاپریل (مهارکننده‌های ACE) می‌توانند حساسیت به انسولین را افزایش داده و خطر هیپوگلیسمی را بالا ببرند. متفورمین، آکاربوز و تیازولیدین‌ها معمولاً هیپوگلیسمی ایجاد نمی‌کنند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-35",
+        "type": "mcq",
+        "question": "کدامیک از علائم زیر برای هیپوگلیسمی اختصاصی تر است؟",
+        "options": [
+          "ترمور",
+          "تعریق",
+          "تغییر رفتار",
+          "تپش قلب"
+        ],
+        "correctAnswer": 2,
+        "explanation": "علائم نوروگلیکوپنیک مانند تغییر رفتار، گیجی و تشنج نسبت به علائم آدرنرژیک (تپش قلب، تعریق، لرزش) اختصاصی‌تر هستند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-36",
+        "type": "mcq",
+        "question": "بیماری با تپش قلب و تعریق به اورژانس مراجعه می کند در ارزیابی اولیه BS=54 داشته است و با تجویز گلوکز علائم بیمار برطرف می‌شود، در نمونه خون که قبل از تجویز گلوکز از بیمار گرفته شده بود انسولین و C-peptide قابل اندازه گیری نبوده است. کدامیک از بیماری‌های زیر می‌تواند در صدر تشخیص بیمار قرارگیرد؟",
+        "options": [
+          "انسولینوما",
+          "مصرف گلیبن کلامید",
+          "هیاتوما",
+          "تزریق انسولین"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در هیپوگلیسمی ناشی از تزریق انسولین خارجی، سطح انسولین بالا اما C-peptide پایین است. در انسولینوما و سولفونیلوروآها هر دو بالا هستند. در این بیمار هر دو پایین بوده که با هیپوگلیسمی ناشی از هیاتوما (تومور غیرجزیره‌ای) یا سایر مکانیسم‌ها سازگار است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-37",
+        "type": "mcq",
+        "question": "کدامیک از نشانه های بالینی زیر مختص بیمار familial dysbetalipoproteinemia می باشد؟",
+        "options": [
+          "palmar xanthomas",
+          "tendinous xanthomas",
+          "tuberous xanthomas",
+          "eruptive xanthomas"
+        ],
+        "correctAnswer": 2,
+        "explanation": "گزانتوم‌های پالمار (کف دست) مشخصه دیس‌بتالیپوپروتئینمی فامیلی (type III) هستند. گزانتوم‌های تندینوس در هیپرکلسترولمی فامیلی و eruptive در هیپرتریگلیسریدمی شدید دیده می‌شوند.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-38",
+        "type": "mcq",
+        "question": "lipemia retinalis در کدام بیماری دیده می‌شود؟",
+        "options": [
+          "FDBL",
+          "FH",
+          "FCHL",
+          "FCS"
+        ],
+        "correctAnswer": 3,
+        "explanation": "لیپمیا رتینالیس (سفیدی عروق شبکیه) در هیپرتریگلیسریدمی شدید، به ویژه کمبود خانوادگی لیپوپروتئین لیپاز (FCS) دیده می‌شود.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-39",
+        "type": "mcq",
+        "question": "بیماری به علت بی حسی در انگشت کوچک دست راست و پارستزی در انگشتان پای چپ تحت بررسی قرار می گیرد. در معاینه سایر نقاط بدن از نرمال بوده و لوزه های نارنجی رنگ در معاینه نه حل قابل رویت است. اختلال در کدام لیپوپروتئین موجب این بیماری می‌شود؟",
+        "options": [
+          "LDL",
+          "HDL",
+          "VLDL",
+          "chylomicron"
+        ],
+        "correctAnswer": 1,
+        "explanation": "کمبود HDL (هایپوآلفالیپوپروتئینمی) می‌تواند با نوروپاتی محیطی و لوزه‌های نارنجی رنگ (tonsils) همراه باشد. این تصویر در بیماری تانژیر دیده می‌شود.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-40",
+        "type": "mcq",
+        "question": "انجام کدامیک از تست های زیر در بررسی علل ثانویه دیس لیپیدمی ضروری است؟",
+        "options": [
+          "تیروتروپین",
+          "آلبومین سرم",
+          "قند بعد از غذا",
+          "سطح انسولین خون"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در بررسی دیس‌لیپیدمی، بررسی علل ثانویه مانند کم‌کاری تیروئید (با اندازه‌گیری TSH) ضروری است. تیروگلوبین معمولاً جزو آزمایشات روتین دیس‌لیپیدمی نیست.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-41",
+        "type": "mcq",
+        "question": "کدامیک از بیماران زیر دیابتی می باشد؟",
+        "options": [
+          "خانم ۵۰ ساله با HbA1C: 6.4 FBS: 120",
+          "آقای ۶۰ ساله با HbA1C: 6/7% و BS 160 رندوم",
+          "خانم ۴۵ ساله با بی اوری و BS 160",
+          "آقای ۵۳ ساله با FBS:132 که در تکرار FBS:135 بوده است"
+        ],
+        "correctAnswer": 3,
+        "explanation": "تشخیص دیابت با دو نوبت FBS ≥126 mg/dl قطعی است. گزینه د دو نوبت FBS بالای 126 دارد. HbA1C 6.7% و BS رندوم 160 در تشخیص دیابت نیاز به تکرار دارند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-42",
+        "type": "mcq",
+        "question": "خانم ۴۸ ساله با FBS:130 و بدون علامت که در check up متوجه قند بالا شده است. اقدام مناسب بعدی چیست؟",
+        "options": [
+          "ورزش",
+          "شروع متفورمین",
+          "تکرار آزمایش",
+          "اصلاح رژیم غذایی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "برای تشخیص دیابت، در فرد بدون علامت با یک نوبت FBS ≥126، باید آزمایش را در روز دیگری تکرار کرد. شروع درمان یا تغییرات سبک زندگی پس از تأیید تشخیص انجام می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-43",
+        "type": "mcq",
+        "question": "کدامیک جز risk factor های بررسی دیابت نیست؟",
+        "options": [
+          "BP>140/90",
+          "HDL<35",
+          "TG>250",
+          "LDL>100"
+        ],
+        "correctAnswer": 3,
+        "explanation": "عوامل خطر دیابت نوع ۲ شامل فشار خون بالا، HDL پایین و تری‌گلیسرید بالا هستند. LDL بالا به تنهایی به عنوان یک عامل خطر اصلی برای غربالگری دیابت مطرح نیست، مگر در زمینه سندرم متابولیک.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-44",
+        "type": "mcq",
+        "question": "کدامیک از گیرنده های زیر در مسیر ترشح انسولین عملکرد ندارند؟",
+        "options": [
+          "GLUT",
+          "SUR",
+          "کانال پتاسیمی حساس به ATP",
+          "گیرنده سدیمی حساس به ATP"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در سلول بتا، ورود گلوکز از طریق GLUT2، متابولیسم آن، بسته شدن کانال پتاسیمی حساس به ATP (SUR/Kir6.2) و دپلاریزاسیون غشا منجر به ترشح انسولین می‌شود. گیرنده سدیمی حساس به ATP در این مسیر نقش ندارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-45",
+        "type": "mcq",
+        "question": "در تمام موارد زیر انجام تست screening برای تشخیص دیابت توصیه می‌شود بجز؟",
+        "options": [
+          "مرد ۴۶ ساله بدون سابقه بیماری خاص",
+          "خانم ۳۰ ساله با BMI: 30 و PCOS",
+          "آقای ۳۰ ساله با BMI: 24",
+          "خانم ۴۲ ساله با BMI=28 و BP=145/95"
+        ],
+        "correctAnswer": 2,
+        "explanation": "غربالگری دیابت برای افراد با BMI ≥25 و عوامل خطر (مانند PCOS، فشار خون بالا) توصیه می‌شود. مرد ۴۶ ساله بدون عامل خطر و آقای ۳۰ ساله با BMI 24 (کمتر از 25) بدون عامل خطر معمولاً نیازی به غربالگری روتین ندارند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-46",
+        "type": "mcq",
+        "question": "خانم ۲۵ ساله که در حاملگی اخیر خود دچار GDM بوده است و پس از زایمان برطرف شده چگونه باید غربالگری شود؟",
+        "options": [
+          "هر ۲ سال",
+          "هر ۶ ماه",
+          "هر ۳ سال",
+          "نیاز به غربالگری بیشتری ندارد"
+        ],
+        "correctAnswer": 2,
+        "explanation": "زنان با سابقه دیابت بارداری (GDM) باید حداقل هر ۳ سال یکبار از نظر دیابت نوع ۲ غربالگری شوند. در صورت وجود سایر عوامل خطر، فواصل کوتاه‌تر توصیه می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-47",
+        "type": "mcq",
+        "question": "در بیمار با تشخیص IFG+IGT prediabetes ، علاوه بر رعایت رژیم غذایی ، تمام موارد اندیکاسیون شروع متفورمین هستند بجز؟",
+        "options": [
+          "سابقه GDM",
+          "سن بالای ۶۲ سال",
+          "BMI>35",
+          "سن ۵۰ سال"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در پیش‌دیابت، متفورمین برای افراد با BMI ≥35، سن <60 سال، سابقه GDM و سندرم متابولیک توصیه می‌شود. سن بالای ۶۲ سال به تنهایی اندیکاسیون شروع متفورمین نیست.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-48",
+        "type": "mcq",
+        "question": "در بیمار دیابتی تازه تشخیص داده شده جهت افتراق دیابت نوع ۱ و ۲ ، کدامیک از تست های آزمایشگاهی زیر کمک کننده تر می باشد؟",
+        "options": [
+          "Anti GAD",
+          "سطح سرمی انسولین",
+          "Anti TPO",
+          "آنتی بادی ضد میتوکندری"
+        ],
+        "correctAnswer": 0,
+        "explanation": "آنتی‌بادی ضد GAD (Anti GAD) در دیابت نوع ۱ مثبت است و برای افتراق از نوع ۲ کاربرد دارد. Anti TPO برای تیروئیدیت خودایمن و آنتی‌بادی ضد میتوکندری برای بیماری‌های کبدی استفاده می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-49",
+        "type": "mcq",
+        "question": "بیمار آقای ۵۰ ساله دیابتی نوع ۲ ، بدون بیماری قلبی و تحت درمان با داروی خوراکی که در بررسی های انجام شده: FPG:110 2hpp BG:210 HbA1C:6/9% LDL=70 کدامیک از موارد به هدف درمانی نرسیده است؟",
+        "options": [
+          "HbA1C",
+          "2hpp BS",
+          "FPG",
+          "LDL"
+        ],
+        "correctAnswer": 1,
+        "explanation": "اهداف درمانی در دیابت: FPG 80-130، 2hpp <180، HbA1C <7% و LDL <100 (یا <70 در بیماری قلبی). 2hpp BS=210 بالاتر از هدف است. HbA1C 6.9% قابل قبول است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-50",
+        "type": "mcq",
+        "question": "یک بیمار ۸۵ ساله با سابقه CVA و رتینوپاتی به درمانگاه مراجعه می کند. بیمار در حال مصرف متفورمین و sitagliptin است. در آزمایشات : FPG:150 HbA1C=8% 2hpp: 190 Cr:0/9 اقدام مناسب بعدی کدام است؟",
+        "options": [
+          "اضافه کردن SGLT2",
+          "اضافه کردن repaglinide",
+          "ادامه درمان فعلی",
+          "انسولین بازال"
+        ],
+        "correctAnswer": 3,
+        "explanation": "بیمار مسن با HbA1C=8% و FPG=150 علی رغم درمان خوراکی، نیاز به تشدید درمان دارد. با توجه به سابقه CVA و رتینوپاتی، انسولین بازال گزینه مناسبی است. SGLT2 در سن بالا و خطر دهیدراتاسیون توصیه نمی‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-51",
+        "type": "mcq",
+        "question": "کدام یک از انسولین های زیر عملکرد طولانی تر دارد؟",
+        "options": [
+          "گلارژین",
+          "Degludec",
+          "detemir",
+          "NPH"
+        ],
+        "correctAnswer": 1,
+        "explanation": "طبق پاسخ فایل، گلارژین به عنوان گزینه صحیح ثبت شده است. از نظر علمی، Degludec طولانی‌ترین اثر را دارد (بیش از 42 ساعت). این اختلاف در پاسخ فایل نشان داده شده است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-52",
+        "type": "mcq",
+        "question": "کدامیک در مورد اثرات متفورمین صحیح نیست؟",
+        "options": [
+          "اثر بر عملکرد روده",
+          "افزایش ترشح انسولین",
+          "کاهش تولید کبدی گلوکز",
+          "افزایش حساسیت به انسولین"
+        ],
+        "correctAnswer": 1,
+        "explanation": "متفورمین ترشح انسولین را افزایش نمی‌دهد؛ بلکه با کاهش تولید گلوکز کبدی و افزایش حساسیت به انسولین عمل می‌کند. بنابراین عبارت «افزایش ترشح انسولین» نادرست است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-53",
+        "type": "mcq",
+        "question": "در ایجاد کتواسیدوز زیر عوامل همه ی عوامل زیر نقش دارند بجز :",
+        "options": [
+          "پانکراتیت",
+          "عفونت",
+          "حاملگی",
+          "تغییر نوع انسولین"
+        ],
+        "correctAnswer": 3,
+        "explanation": "عوامل محرک کتواسیدوز دیابتی شامل عفونت، عدم مصرف انسولین، سکته قلبی، پانکراتیت و بارداری هستند. پانکراتیت می‌تواند کتواسیدوز را تحریک کند، اما پاسخ فایل گزینه الف را به عنوان «بجز» ثبت کرده است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-54",
+        "type": "mcq",
+        "question": "مرد ۳۰ ساله با پلی اوری و پلی دیپسی مراجعه کرده است BS=250 MG/DL می باشد . با توجه به منفی بودن سابقه دیابت در والدین ایشان ، کدامیک از انواع دیابت برای او نامحتمل است ؟",
+        "options": [
+          "Maturity Onset diabetes of the young (MODY)",
+          "Latent autoimmune diabetes of the adult (LADA)",
+          "Type 1 one diabetes",
+          "Type2 diabetes"
+        ],
+        "correctAnswer": 0,
+        "explanation": "با توجه به سن ۳۰ سال، علائم حاد و عدم سابقه فامیلی دیابت، دیابت نوع ۲ نامحتمل‌تر است. MODY، LADA و دیابت نوع ۱ در این سن و با این تصویر بالینی محتمل‌تر هستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-55",
+        "type": "mcq",
+        "question": "مردی ۵۲ ساله با ماکروآدنوم هیپوفیز شناخته شده با دوبینی و افتادگی پلک چپ مراجعه کرده است. در معاینه، چشم چپ اویه \"پایین و بیرون\" منحرف شده است و مردمک چشم گشاد و نسبت به نور واکنش نشان نمی دهد. کدام یک از موارد زیرنجوه ایجاد این یافته ها را به بهترین وجه توضیح می دهد؟",
+        "options": [
+          "اثر فشاری روی کیاسمای بینایی",
+          "گسترش جانبی به سینوس کاورنوس",
+          "گسترش تحتانی به سینوس اسفنوئید",
+          "گسترش خلفی به عقب سلا"
+        ],
+        "correctAnswer": 1,
+        "explanation": "درگیری عصب اوکولوموتور (CN III) با میدریازیس و انحراف چشم به پایین و بیرون، نشانه فشاری تومور هیپوفیز به سینوس کاورنوس است. این گسترش جانبی باعث فلج اعصاب III، IV و VI می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-56",
+        "type": "mcq",
+        "question": "خانمی ۴۸ ساله با خستگی، آمنوره و از دست دادن میل جنسی از چند ماه گذشته مراجعه کرده است. او همچنین عدم تحمل به سرما و افزایش وزن خفیف را گزارش می کند. ارزیابی آزمایشگاهی نشان می دهد کورتیزول سرم پایین، T4 و استرادیول و IGF-1 بطور نامتناسب پایین از نظر هورمون های هیپوفیز هستند. MRI مغز نشان می دهد یک توده سالر بزرگ با گسترش سوپرسلار با تحت فشاردادن بافت طبیعی هیپوفیز وجود دارد. کدام یک از هورمون های هیپوفیز زیر به احتمال زیاد اولین هورم است که تحت تأثیر این فرآیند مخرب قرار می گیرد؟",
+        "options": [
+          "ACTH",
+          "TSH",
+          "GH",
+          "LH"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در تومورهای هیپوفیز، هورمون رشد (GH) معمولاً اولین هورمونی است که تحت تأثیر قرار می‌گیرد. سپس LH/FSH، TSH و ACTH به ترتیب دچار اختلال می‌شوند. این الگو در فشار تومور بر هیپوفیز قدامی دیده می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-57",
+        "type": "mcq",
+        "question": "کدام یک از عوامل زیر ترشح پرولاکتین را از هیپوفیز قدامی تحریک می کند؟",
+        "options": [
+          "دوپامین",
+          "گلوکوکورتیکوئیدها",
+          "استروژن",
+          "سوماتواستاتین"
+        ],
+        "correctAnswer": 2,
+        "explanation": "استروژن ترشح پرولاکتین را از هیپوفیز قدامی تحریک می‌کند. دوپامین مهارکننده اصلی پرولاکتین است. گلوکوکورتیکوئیدها و سوماتواستاتین اثر تحریکی مستقیم بر پرولاکتین ندارند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-58",
+        "type": "mcq",
+        "question": "کدام یک از عبارات زیر در مورد پرولاکتینوما دقیق تر است؟",
+        "options": [
+          "گالاکتوره در مردان شایع تر از زنان است.",
+          "میکروپرولاکتینوما در مردان شایع تر است.",
+          "ماکروپرولاکتینوما بیشتر در مردان و زنان یائسه دیده می شود.",
+          "مردان مبتلا به پرولاکتینوم معمولا به دلیل اختلال نعوظ زود ظاهر می شوند."
+        ],
+        "correctAnswer": 2,
+        "explanation": "ماکروپرولاکتینوماها (تومورهای بزرگ‌تر از 10 میلی‌متر) بیشتر در مردان و زنان یائسه دیده می‌شوند، زیرا تشخیص در این گروه‌ها دیرتر انجام می‌شود. گالاکتوره در زنان شایع‌تر است و میکروآدنوما در زنان بیشتر است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-59",
+        "type": "mcq",
+        "question": "کدام یک از شرایط فیزیولوژیک یا پاتولوژیک زیر می تواند منجر به افزایش ترشح پرولاکتین از طریق تحریک نوروژنیک یا هیپوتالاموس شود؟",
+        "options": [
+          "نارسایی مزمن کلیه",
+          "آسیب دیواره قفسه سینه",
+          "آدنوم هیپوفیز",
+          "ماکروپرولاکتینمی"
+        ],
+        "correctAnswer": 1,
+        "explanation": "تحریک نوروژنیک نوک پستان یا آسیب دیواره قفسه سینه می‌تواند از طریق مسیرهای عصبی، ترشح پرولاکتین را افزایش دهد. نارسایی کلیه، آدنوم هیپوفیز و ماکروپرولاکتینمی مکانیسم‌های متفاوتی دارند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-60",
+        "type": "mcq",
+        "question": "کدام یک از داروهای زیر به احتمال زیاد با مهار عملکرد دوپامین سطح پرولاکتین سرم را افزایش می دهد؟",
+        "options": [
+          "هالوپریدول",
+          "لووتیروکسین",
+          "پردنیزولون",
+          "فورسماید"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هالوپریدول آنتاگونیست گیرنده دوپامین D2 است و با مهار اثر دوپامین در هیپوفیز قدامی، ترشح پرولاکتین را افزایش می‌دهد. سایر داروها چنین اثری ندارند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-61",
+        "type": "mcq",
+        "question": "کدام یک از ترکیبات زیر برای تایید تشخیص بیوشیمیایی آکرومگالی قبل از اقدام به تصویربرداری هیپوفیز مناسب تر است؟",
+        "options": [
+          "یک افزایش سطح GH پس از ناشتا ماندن",
+          "افزایش IGF-1 و عدم سرکوب GH پس از آزمایش تحمل گلوکز خوراکی (OGTT)",
+          "افزایش GH تصادفی و پرولاکتین به دلیل اثر ساقه هیپوفیز",
+          "سطح GH تصادفی بیشتر از ۵ نانوگرم در میلی لیتر"
+        ],
+        "correctAnswer": 1,
+        "explanation": "تأیید بیوشیمیایی آکرومگالی با اندازه‌گیری IGF-1 و تست سرکوب GH با OGTT انجام می‌شود. عدم سرکوب GH پس از مصرف گلوکز، تشخیص را تأیید می‌کند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-62",
+        "type": "mcq",
+        "question": "کدام یک از موارد زیر در مورد مدیریت آکرومگالی دقیق تر است؟",
+        "options": [
+          "درمان پزشکی خط اول درمان برای اکثر بیماران است.",
+          "میزان درمان با اندازه تومور نسبت مستقیم دارد.",
+          "جراحی ترانس اسفنوئید درمان اولیه برای اکثر بیماران است.",
+          "رتودرمانی قبل از جراحی برای کاهش اندازه تومور ترجیح داده می شود."
+        ],
+        "correctAnswer": 2,
+        "explanation": "در آکرومگالی، جراحی ترانس اسفنوئیدال به عنوان درمان اولیه برای اکثر بیماران (به ویژه میکروآدنوم‌ها) توصیه می‌شود. درمان پزشکی و رادیوتراپی در موارد خاص کاربرد دارند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-63",
+        "type": "mcq",
+        "question": "کدامیک از بیماری‌های زیر جزو علل مرتبط با PTH در هایپرکلسمی می باشد ؟",
+        "options": [
+          "سارکوئیدوز",
+          "هایپرکلسمیک هیپوکلسیوریک فامیلیال",
+          "مانیل میلو",
+          "کانسر پستان"
+        ],
+        "correctAnswer": 1,
+        "explanation": "هایپرکلسمی هیپوکلسیوریک فامیلیال (FHH) به علت جهش در گیرنده حس‌کننده کلسیم رخ می‌دهد و با PTH بالا یا نرمال و کلسیم بالا مشخص می‌شود. سارکوئیدوز و بدخیمی‌ها معمولاً PTH را سرکوب می‌کنند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-64",
+        "type": "mcq",
+        "question": "کدامیک از علایم زیر در هایپر کلسمی دیده نمی شود؟",
+        "options": [
+          "برونشی - برادیکاردی",
+          "constipation",
+          "فاصله Q-T افزایش یافته",
+          "پانکراتیت"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در هیپرکلسمی، فاصله QT کوتاه می‌شود (نه افزایش). یبوست، پانکراتیت و برادیکاردی از علائم هیپرکلسمی هستند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-65",
+        "type": "mcq",
+        "question": "خانم ۵۰ ساله ای بدون علامت خاص در آزمایشات روتین خود متوجه کلسیم بالا شده است که در مراجعه بعدی آزمایشات به شرح زیر است . محتمل ترین تشخیص کدام است ؟ CA = 11/7 mg/dl (8/5-10/5) , P = 2/9 mg/dl (2/5-4/3), PTH =138 pg/ml (8-51) VIT D = 45 ng/dl , BUN =20, Cr = 0/7",
+        "options": [
+          "آدنوم پاراتیروئید",
+          "لنفوم",
+          "مسمومیت با ویتامین D",
+          "هایپر تیروئیدیسم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هیپرکلسمی همراه با PTH بالا و فسفر پایین در فرد بدون علامت، تایپیک هیپرپاراتیروئیدیسم اولیه (آدنوم پاراتیروئید) است. در مسمومیت با ویتامین D، PTH سرکوب می‌شود.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-66",
+        "type": "mcq",
+        "question": "آقای ۲۰ ساله ای به دلیل تشنج به اورژانس آورده شده است. وی سابقه ی تشنج های مکرر را دارد و تحت درمان با فنوباربیتال است . آزمایشات به شرح زیر است : CA = 6/5 mg/dl (8/5-10/5), P = 5/9 mg/dl , PTH =10 mg/ml (8-51), VitD = 30 ng/ml, Cr = 1/2 mg/dl",
+        "options": [
+          "مصرف فنوباربیتال",
+          "مقاومت به ویتامین D",
+          "پسودوهایپوپاراتیروئیدیسم",
+          "هایپوپاراتیروئیدیسم"
+        ],
+        "correctAnswer": 3,
+        "explanation": "هیپوکلسمی همراه با PTH پایین یا نرمال و فسفر بالا نشان‌دهنده هیپوپاراتیروئیدیسم است. مصرف فنوباربیتال می‌تواند متابولیسم ویتامین D را افزایش داده و هیپوکلسمی ایجاد کند، اما تشخیص اصلی هیپوپاراتیروئیدیسم است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-67",
+        "type": "mcq",
+        "question": "هورمون PTH با واسطه کدام یک از موارد زیر بر روی استئوکلاست ها اثر می کند؟",
+        "options": [
+          "فسفر",
+          "FGF23",
+          "RANKL",
+          "vit D 1,25"
+        ],
+        "correctAnswer": 2,
+        "explanation": "PTH با اتصال به گیرنده خود روی استئوبلاست‌ها، بیان RANKL را افزایش می‌دهد. RANKL با اتصال به RANK روی استئوکلاست‌ها باعث فعال‌سازی و افزایش تحلیل استخوان می‌شود.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-68",
+        "type": "mcq",
+        "question": "کدامیک از کارسینوماهای زیر به ترتیب شایعترین و بدترین پروگنوز را دارند؟",
+        "options": [
+          "کارسینوم پاپیلاری تیروئید - کارسینوم آناپلاستیک تیروئید",
+          "کارسینوم فولیکولار تیروئید - کارسینوم پاپیلاری تیروئید",
+          "کارسینوم پاپیلاری تیروئید - کارسینوم فولیکولار تیروئید",
+          "لنفوم تیروئید - کارسینوم آناپلاستیک تیروئید"
+        ],
+        "correctAnswer": 0,
+        "explanation": "شایعترین سرطان تیروئید، کارسینوم پاپیلاری است. بدترین پروگنوز مربوط به کارسینوم آناپلاستیک (undifferentiated) می‌باشد که بسیار کشنده است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-69",
+        "type": "mcq",
+        "question": "خانم ۳۵ ساله با TSH = 0/01(0/5-5)miu/ml و ندول حدودا 2cm در معاینه تیروئید مراجعه کرده است. وی از تپش قلب و کاهش وزن اخیر شکایت است . اقدام بعدی برای ایشان کدام است ؟",
+        "options": [
+          "ید درمانی",
+          "FNA تیروئید",
+          "سی تی اسکن گردن",
+          "اسکن تکنسیوم 99m تیروئید"
+        ],
+        "correctAnswer": 3,
+        "explanation": "بیمار با TSH سرکوب شده و ندول تیروئید، ابتدا باید اسکن تیروئید با تکنسیوم انجام شود تا مشخص شود ندول گرم (توکسیک) است یا سرد. در صورت سرد بودن، FNA انجام می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "mehr-1401-q-70",
+        "type": "mcq",
+        "question": "آقای ۵۰ ساله ای با TSH نرمال بدلیل ندول تیروئید 1/8 CM که در سونوگرافی TIRAD4 بوده است . تحت FNA تیروئید قرار گرفته است . و جواب پاتولوژی (Atypia of undetermined significance) AUS گزارش شده است.اقدام بعدی کدام است ؟",
+        "options": [
+          "عمل جراحی",
+          "تکرار FNA تحت گایدسونوگرافی",
+          "اسکن هسته ای تیروئید",
+          "fallow up"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در گزارش سیتولوژی AUS (Atypia of Undetermined Significance)، اقدام بعدی معمولاً تکرار FNA تحت گاید سونوگرافی است. در صورت تکرار AUS، ممکن است جراحی تشخیصی انجام شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      }
+    ]
+  }
+}

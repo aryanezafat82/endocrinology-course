@@ -1,0 +1,16 @@
+{
+  "title": "موضوعات",
+  "topics": [
+    { "id": "introduction", "label": "مقدمات" },
+    { "id": "aps-men", "label": "APS & MEN" },
+    { "id": "adrenal", "label": "آدرنال" },
+    { "id": "gonad", "label": "گناد" },
+    { "id": "obesity-metabolic", "label": "چاقی و سندروم متابولیک" },
+    { "id": "diabetes", "label": "دیابت" },
+    { "id": "thyroid", "label": "تیروئید" },
+    { "id": "parathyroid", "label": "پاراتیروئید" },
+    { "id": "hypoglycemia", "label": "هیپوگلیسمی" },
+    { "id": "lipid", "label": "لیپید" },
+    { "id": "pituitary-hypothalamus", "label": "هیپوفیز، هیپوتالاموس" }
+  ]
+}

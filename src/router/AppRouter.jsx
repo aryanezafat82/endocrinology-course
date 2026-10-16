@@ -8,7 +8,7 @@ import HardPoints from '../pages/HardPoints.jsx';
 import Progress from '../pages/Progress.jsx';
 import Review from '../pages/Review.jsx';
 import SampleQuestions from '../pages/SampleQuestions.jsx';
-import SampleSession from '../pages/SampleSession.jsx';
+import SampleTopic from '../pages/SampleTopic.jsx';
 import SampleExam from '../pages/SampleExam.jsx';
 import NotFound from '../pages/NotFound.jsx';
 
@@ -31,8 +31,8 @@ export default function AppRouter() {
           {/* نمونه سوالات */}
           <Route path="/sample-questions" element={<SampleQuestions />} />
           <Route
-            path="/sample-questions/session/:sessionId"
-            element={<SampleSession />}
+            path="/sample-questions/topic/:topicId"
+            element={<SampleTopic />}
           />
           <Route
             path="/sample-questions/exam/:examId"

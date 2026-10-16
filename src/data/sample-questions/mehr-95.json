@@ -1,0 +1,1150 @@
+{
+  "exam": {
+    "id": "mehr-95",
+    "label": "EXAM_LABEL_PLACEHOLDER",
+    "sourceFile": "SOURCE_FILE_PLACEHOLDER",
+    "questionCount": 60,
+    "questions": [
+      {
+        "id": "mehr-95-q-01",
+        "type": "mcq",
+        "question": "در شرایط هیپوگلسیمی کدام ارگان قادر به اکسیده کردن Free Fatty Acid نمی باشد و در شرایط هیپوگلسیمی مزمن از کدام ماده برای سوخت و ساز استفاده می کند؟",
+        "options": [
+          "کبد ^ آمینواسیدها",
+          "کلیه ^ آمینواسید",
+          "مغز ^ کتواسیدها",
+          "عضله ^ کتواسیدها"
+        ],
+        "correctAnswer": 2,
+        "explanation": "مغز برای اکسیداسیون اسیدهای چرب آزاد محدودیت دارد و در هیپوگلیسمی مزمن از کتون بادی ها به عنوان سوخت جایگزین استفاده می کند. بنابراین گزینه مغز ^ کتواسیدها صحیح است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-02",
+        "type": "mcq",
+        "question": "در هیپوگلسیمی حاد تغییرات هورمون های به ترتیب آزاد شدن چگونه است؟",
+        "options": [
+          "گلوکاگون بالا، آدرنالین بالا، انسولین پایین، GH و کورتیزول بالا",
+          "انسولین پایین، GH و کورتیزول بالا، آدرنالین بالا، گلوکاگون بالا",
+          "آدرنالین بالا، گلوکاگون بالا، انسولین پایین، GH و کورتیزول پایین",
+          "انسولین پایین، گلوکاگون بالا، آدرنالین بالا، GH و کورتیزول بالا"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در پاسخ به هیپوگلیسمی حاد ابتدا انسولین کاهش می یابد، سپس گلوکاگون و آدرنالین افزایش می یابند و در ادامه GH و کورتیزول بالا می روند. گزینه ۴ این ترتیب را نشان می دهد.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-03",
+        "type": "mcq",
+        "question": "در مورد ارتباط انسولین و گلوکز کدام عبارت صحیح می باشد؟",
+        "options": [
+          "باعث مهار uptake گلوکز در بافت ها می شود",
+          "باعث تحریک گلیکوژنولیز می شود",
+          "باعث تحریک گلوکوفئوژنز می شود",
+          "باعث تحریک مصرف گلوکز توسط عضله و بافت چربی می شود"
+        ],
+        "correctAnswer": 3,
+        "explanation": "انسولین برداشت گلوکز را در عضله و بافت چربی افزایش می دهد و همچنین گلیکوژنز را تحریک می کند. گزینه ۴ صحیح است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-04",
+        "type": "mcq",
+        "question": "مرد 75 ساله بعلت کاهش وزن و حملات اختلال هوشیاری از 6 ماه پیش مراجعه نموده است. همچنین از درد اپیگاستر از چند ماه پیش شاکی است. در آزمایشات بعمل آمده هیپوگلسیمی تائید شد. همچنین در زمان هیپوگلسیمی انسولین پایین و C-peptide پایین بوده است. کدام عبارت صحیح می باشد؟",
+        "options": [
+          "IGFII احتمالا بالاست",
+          "IGF1 احتمالا بالاست",
+          "GH بالاست",
+          "حتما سطح سولفونیل اوره چک شود"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هیپوگلیسمی با انسولین و C-peptide پایین در بیمار با کاهش وزن و درد اپیگاستر به تومور غیرجزیره ای مطرح است که معمولاً IGF-II بالاتر از حد طبیعی دارد و هیپوگلیسمی ایجاد می کند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-05",
+        "type": "mcq",
+        "question": "اختلال ژن در کدام Transcription factor باعث بیشترین اختلال هورمونی می شود؟",
+        "options": [
+          "PIT-1",
+          "PROP-I",
+          "SF-I",
+          "DAX-I"
+        ],
+        "correctAnswer": 1,
+        "explanation": "جهش PROP1 باعث کمبود چندگانه هورمون های هیپوفیز از جمله GH، PRL، TSH و گنادوتروپین ها می شود و طیف وسیع تری از نقص هورمونی نسبت به PIT-1 ایجاد می کند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-06",
+        "type": "mcq",
+        "question": "کدام فاکتور زیر باعث توقف ترشح هورمون GH می شود؟",
+        "options": [
+          "GHVE lin",
+          "GHRH",
+          "Somatostatin",
+          "استروژن"
+        ],
+        "correctAnswer": 2,
+        "explanation": "سوماتواستاتین مهم ترین مهارکننده ترشح هورمون رشد از هیپوفیز قدامی است. GHRH و گرلین محرک ترشح GH هستند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-07",
+        "type": "mcq",
+        "question": "کودک 10 ساله ای بعلت کوتاهی قد مراجعه نموده است. در معاینه -3SD کاهش رشد قد دارد. در گرافی مچ دست، سن استخوانی 7 سال گزارش شده است. در بررسی آزمایشگاهی GH بالاست و IGFBP3 و IGFI پایین گزارش شده است. در درمان این بیمار کدام دارو را پیشنهاد می کنید؟",
+        "options": [
+          "تجویز IGFI",
+          "هورمون رشد",
+          "جایگزینی هورمون جنسی",
+          "سوماتواستاتین صناعی"
+        ],
+        "correctAnswer": 0,
+        "explanation": "این تصویر مقاومت به هورمون رشد است که در آن GH بالا ولی IGF-1 و IGFBP-3 پایین اند. درمان، تجویز IGF-1 نوترکیب است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-08",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر باعث سرکوب ترشح ADH می گردد؟",
+        "options": [
+          "استفراغ",
+          "سیگار کشیدن",
+          "استرس",
+          "گلوکوکورتیکوئید"
+        ],
+        "correctAnswer": 3,
+        "explanation": "گلوکوکورتیکوئیدها ترشح ADH را مهار می کنند. استفراغ، استرس و سیگار معمولاً محرک ترشح ADH هستند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-09",
+        "type": "mcq",
+        "question": "مرد 32 ساله ای با سابقه پلی اوری و پلی دپسی جهت بررسی تحت تست محرومیت از آب قرار گرفت. اسمولالیته ادرار قبل از شروع تست 200 mosmol/kg و اسمولالیته خون 285 بوده است. 3 ساعت پس از تست محرومیت اسمولاریته ادرار به 400 رسید و پس از آن همین حدود باقی ماند. با تجویز DDAVP حداکثر به 650 رسید. کدام تشخیص برای بیمار بیشتر مطرح می باشد؟",
+        "options": [
+          "دیابت بیمزه مرکزی کامل",
+          "دیابت نفرونتیک کامل",
+          "دیابت شیرین درمان نشده",
+          "پلی دپسی (پرنوش) اولیه"
+        ],
+        "correctAnswer": 0,
+        "explanation": "افزایش اسمولالیته ادرار پس از DDAVP نشان می دهد کلیه به ADH پاسخ می دهد و مشکل در ترشح ADH مرکزی است. بنابراین دیابت بیمزه مرکزی مطرح می شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-10",
+        "type": "mcq",
+        "question": "مرد 31 ساله ای بعلت اختلال عملکرد جنسی مراجعه نموده است. در بررسی اولیه هورمون های جنسی کاهش یافته و سطح پرولاکتین 80 microgr/L می باشد (نرمال 20-10). اولین قدم تشخیص کدام است؟",
+        "options": [
+          "شرح حال دارویی",
+          "MRI از هیپوفیز",
+          "آزمایش تیروئید",
+          "بررسی هورمون رشد"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هیپرپرولاکتینمی می تواند ناشی از داروها باشد. قبل از تصویربرداری هیپوفیز، شرح حال دارویی برای یافتن داروهای افزایش دهنده پرولاکتین اولین قدم است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-11",
+        "type": "mcq",
+        "question": "مرد 48 ساله ای بعلت علائم مشکوک به آکرومگالی مراجعه کرده است. اقدام تشخیصی مناسب کدام است؟",
+        "options": [
+          "اندازه گیری GH",
+          "اندازه گیری GH پس از تجویز گلوکز",
+          "اندازه گیری IGFI",
+          "ارزیابی قند و چربی و فسفر"
+        ],
+        "correctAnswer": 2,
+        "explanation": "برای غربالگری آکرومگالی، اندازه گیری IGF-1 مناسب ترین آزمون اولیه است. تست سرکوب GH با گلوکز برای تأیید تشخیص به کار می رود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-12",
+        "type": "mcq",
+        "question": "در بیماری که پلی اوری و پلی دپسی همراه با اسمولالیته پایین ادرار دارد، اگر COPEPTIN وی از ابتدا بالا باشد کدام بیماری زیر مطرح می شود؟",
+        "options": [
+          "دیابت بیمزه مرکزی",
+          "پرنوش اولیه",
+          "دیابت شیرین",
+          "دیابت بیمزه نفروژنیک"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در دیابت بیمزه نفروژنیک، ADH ترشح می شود ولی کلیه به آن پاسخ نمی دهد؛ بنابراین کوپپتین بالا و اسمولالیته ادرار پایین است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-13",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر جزء اعمال خارج سلولی کلسیم می باشد؟",
+        "options": [
+          "شرکت در انعقاد خون",
+          "فعال سازی نورونها",
+          "ترشح هورمون",
+          "انقباض ماهیچه ای"
+        ],
+        "correctAnswer": 0,
+        "explanation": "کلسیم خارج سلولی در انعقاد خون نقش دارد. فعال سازی نورون ها، ترشح هورمون و انقباض ماهیچه ای بیشتر به کلسیم داخل سلولی و پیام رسانی مرتبط اند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-14",
+        "type": "mcq",
+        "question": "کدام مسیر انتقال کلسیم اشباع پذیر نمی باشد (NON SATURABLE)؟",
+        "options": [
+          "مسیر پاراسلولار در روده",
+          "از طریق کانال های TRPV5 , TRPV6 در روده",
+          "محل اثر PTH در روده",
+          "محل اثر ویتامین D فعال در روده"
+        ],
+        "correctAnswer": 0,
+        "explanation": "انتقال پاراسلولار کلسیم در روده وابسته به گرادیان و غیراشباع پذیر است. مسیرهای ترانس سلولار مانند TRPV5/TRPV6 اشباع پذیرند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-15",
+        "type": "mcq",
+        "question": "مرد 44 ساله ای بعلت شکستگی پاتولوژیک استخوان مراجعه نموده است. در بررسی بعمل آمده PTH:58 (10-60)pg/dl، P=3.5 (3-5) mg/dl، Ca:10.8 (8-10.5) mg/dl می باشد. در اسکن پاراتیروئید آدنوم در پاراتیروئید تائید شده. قدم بعدی مناسب کدام است؟",
+        "options": [
+          "سالانه بیمار مونیتور شود",
+          "جراحی آدنوم پاراتیروئید",
+          "درمان ضد پوکی استخوان شروع شود",
+          "تکرار تست 6 ماه دیگر"
+        ],
+        "correctAnswer": 1,
+        "explanation": "هیپرکلسمی همراه با PTH بالا و آدنوم پاراتیروئید در بیماری با شکستگی پاتولوژیک، اندیکاسیون جراحی دارد. بنابراین برداشتن آدنوم مناسب است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-16",
+        "type": "mcq",
+        "question": "دختر 14 ساله ای با قد کوتاه صورت گرد، بعلت کلسیم پایین جهت بررسی ارجاع شده است. در تست همراه خود PTH:115 (10-60)pg/dl، P=6.5 (3-5.5) mg/dl، Ca:7.5 (8.5-10.5) mg/dl دارد. نرمال است. محتمل ترین تشخیص عبارتست از:",
+        "options": [
+          "هیپوپارا",
+          "پسودوهیپوپارا",
+          "هیپومنیزیومی",
+          "کمبود ویتامین D"
+        ],
+        "correctAnswer": 1,
+        "explanation": "کلسیم پایین، فسفر بالا و PTH بالا نشانه مقاومت به PTH است. قد کوتاه و صورت گرد نیز با پسودوهیپوپاراتیروئیدیسم سازگار است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-17",
+        "type": "mcq",
+        "question": "خانم 68 ساله ساکن خانه سالمندان، بعلت شکستگی مکرر استخوان ارجاع شده است. در بررسی آزمایشگاهی PTH:90 (10-60)pg/dl، P=2.5 (3-5) mg/dl، Ca:7 (8.5-10.5) mg/dl دارد. محتملترین تشخیص؟",
+        "options": [
+          "مالیکنانسی",
+          "هیپرپاراتیروئیدی",
+          "پسودوهیپوپارا",
+          "کمبود تشدید ویتامین D"
+        ],
+        "correctAnswer": 3,
+        "explanation": "کلسیم پایین، فسفر پایین و PTH بالا در سالمند با شکستگی مکرر، کمبود ویتامین D را مطرح می کند. کمبود ویتامین D باعث کاهش جذب کلسیم و فسفر و افزایش PTH می شود.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-18",
+        "type": "mcq",
+        "question": "در مورد عملکرد کورتیزول بر متابولیسم قند و چربی کدام عبارت صحیح است؟",
+        "options": [
+          "مقاومت به انسولین کاهش می یابد",
+          "سطح تری گلیسیرید و کلسترول خون کاهش می یابد",
+          "افزایش adipogenesis (چربی سازی)",
+          "تحریک برداشت گلوکز توسط بافت های محیطی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "کورتیزول مقاومت به انسولین را افزایش می دهد، لیپولیز و بازتوزیع چربی را تغییر می دهد و در برخی بافت ها چربی سازی را افزایش می دهد. بنابراین افزایش adipogenesis صحیح است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-19",
+        "type": "mcq",
+        "question": "مرد 46 ساله ای جهت بررسی از نظر سندروم کوشینگ ارجاع شده است. در این بیمار جمع آوری ادرار 24 ساعته در 2 نوبت بالاتر از نرمال است. کورتیزول 11 شب بزاق هم بالاتر از نرمال است. قدم بعدی در بررسی بیمار کدام است؟",
+        "options": [
+          "اندازه گیری ACTH",
+          "MRI از مغز",
+          "CT اسکن فوق کلیه ها",
+          "انجام High dose Dexamethasone تست"
+        ],
+        "correctAnswer": 0,
+        "explanation": "پس از تأیید سندرم کوشینگ، اندازه گیری ACTH برای افتراق کوشینگ وابسته به ACTH از مستقل از ACTH قدم بعدی است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-20",
+        "type": "mcq",
+        "question": "در تشخیص نارسایی آدرنال، در 48 ساعت اول پس از عمل جراحی هیپوفیز کدام تست را پیشنهاد می کنید؟",
+        "options": [
+          "تست تحمل انسولین (ITT)",
+          "کوزینتروپین 250 میکروگرم",
+          "تست دگزامتازون شبانه",
+          "اندازه گیری کورتیزول شبانه بزاق"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در روزهای اول پس از جراحی هیپوفیز، آزمون تحریک با کوزینتروپین 250 میکروگرم برای ارزیابی نارسایی آدرنال مناسب است. ITT در این شرایط خطرناک است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-21",
+        "type": "mcq",
+        "question": "در کدام بیمار زیر بررسی از نظر هیپرآلدوسترونیسم را پیشنهاد می کنید؟",
+        "options": [
+          "خانم 35 ساله با فشارخون 190/130 تحت درمان با قرص ضد بارداری",
+          "مرد 22 ساله با فشارخون 130/90",
+          "مرد 65 ساله تحت درمان با آملودپین و BP 139/95",
+          "توده 6 میلی متری در آدرنال چپ در مرد 38 ساله با فشارخون"
+        ],
+        "correctAnswer": 3,
+        "explanation": "وجود توده آدرنال همراه با فشارخون از اندیکاسیون های غربالگری هیپرآلدوسترونیسم است. سایر موارد ذکر شده به تنهایی اندیکاسیون قوی محسوب نمی شوند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-22",
+        "type": "mcq",
+        "question": "در بیمار مبتلا به نارسایی آدرنال کدام یافته زیر به نفع نارسایی آدرنال اولیه است؟",
+        "options": [
+          "هیپرپیگمانتاسیون در محل اکستنسورهای اندام ها",
+          "هیپوکالمی",
+          "کاهش TSH",
+          "هیپرناترمی"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در نارسایی آدرنال اولیه، افزایش ACTH باعث هیپرپیگمانتاسیون می شود. هیپوناترمی و هیپرکالمی نیز شایع اند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-23",
+        "type": "mcq",
+        "question": "دختر 17 ساله ای بعلت عدم شروع منارک مراجعه نموده است. در معاینه ثانویه جنسی در حد قبل از بلوغ باقی مانده. همچنین فشارخون بیمار 17.10 گزارش شده است. کدام بیماری با شکایت بیمار سازگار تر است؟",
+        "options": [
+          "کمبود آنزیم 21-هیدروکسیلاز",
+          "کمبود آنزیم 11-هیدروکسیلاز",
+          "کمبود آنزیم 3BHSD",
+          "کمبود آنزیم 17-آلفا هیدروکسیلاز"
+        ],
+        "correctAnswer": 3,
+        "explanation": "کمبود 17-آلفا هیدروکسیلاز باعث اختلال در تولید هورمون های جنسی و کورتیزول و افزایش مینرالوکورتیکوئیدها و فشارخون می شود. عدم بلوغ جنسی همراه با فشارخون با این تشخیص سازگار است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-24",
+        "type": "mcq",
+        "question": "در کدامیک از بیماران زیر عمل جراحی آدرنال را پیشنهاد می کنید؟",
+        "options": [
+          "بیمار با توده 6 سانتی در آدرنال که دانسیته بالایی دارد",
+          "توده 8 میلی متری در بیماری که فشارخون بالا دارد",
+          "بیمار با توده 15 میلی متری که عملکرد هورمونی ندارد",
+          "بیمار با توده 2 سانت که دانسیته پایین دارد و فاقد عملکرد است"
+        ],
+        "correctAnswer": 0,
+        "explanation": "توده آدرنال بزرگ تر از 4 سانتی متر یا با دانسیته بالا شک به بدخیمی دارد و اندیکاسیون جراحی است. گزینه ۱ این ویژگی ها را دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-25",
+        "type": "mcq",
+        "question": "بیماری با سابقه فشارخون بالا که کنترل شده بوده، کاندید عمل هیسترکتومی شده بود، در همان زمان بیهوشی فشارخون بیمار به عدد 200/110 رسید. در بررسی این بیمار انجام کدام تست الویت دارد؟",
+        "options": [
+          "اندازه گیری آلدوسترون و رنین پلاسما",
+          "اندازه گیری کورتیزول ادرار 24 ساعته",
+          "ارزیابی کاتکولامین های آزاد سرمی",
+          "اندازه گیری تست های تیروئیدی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "فشارخون شدید و بحرانی در حین بیهوشی در بیماری با فشارخون کنترل شده، شک به فئوکروموسیتوم را مطرح می کند. اندازه گیری کاتکولامین ها یا متانفرین ها اولویت دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-26",
+        "type": "mcq",
+        "question": "رسپتور کدامیک از هورمون های زیر از نوع تیروزین کیناز می باشد؟",
+        "options": [
+          "PTH",
+          "GH",
+          "TSH",
+          "Insulin"
+        ],
+        "correctAnswer": 3,
+        "explanation": "گیرنده انسولین از نوع تیروزین کیناز است. گیرنده GH و پرولاکتین از خانواده سیتوکین و گیرنده TSH و PTH از نوع G-protein coupled هستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-27",
+        "type": "mcq",
+        "question": "رسپتور کدامیک از هورمون های زیر در هسته سلول وجود دارد؟",
+        "options": [
+          "تیروکسین",
+          "هورمون رشد",
+          "پاراتورمون",
+          "پرولاکتین"
+        ],
+        "correctAnswer": 0,
+        "explanation": "گیرنده هورمون تیروئید از نوع گیرنده هسته ای است. سایر گزینه ها گیرنده غشایی دارند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-28",
+        "type": "mcq",
+        "question": "نیمه عمر T3 در خون چقدر است؟",
+        "options": [
+          "یک روز",
+          "سه روز",
+          "5 روز",
+          "7 روز"
+        ],
+        "correctAnswer": 0,
+        "explanation": "نیمه عمر T3 در حدود یک روز است، در حالی که نیمه عمر T4 حدود ۷ روز می باشد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-29",
+        "type": "mcq",
+        "question": "کدامیک از داروهای زیر می تواند موجب هیپوتیروئیدی شود؟",
+        "options": [
+          "رسپریدون",
+          "آمی تریپتیلین",
+          "لیتیم",
+          "ترازودون"
+        ],
+        "correctAnswer": 2,
+        "explanation": "لیتیم از داروهای شناخته شده ای است که می تواند هیپوتیروئیدی ایجاد کند. سایر گزینه ها معمولاً چنین اثر تیروئیدی بارزی ندارند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-30",
+        "type": "mcq",
+        "question": "کدامیک از اختلالات آزمایشگاهی زیر در هیپوتیروئیدی دیده می شود؟",
+        "options": [
+          "هیپوناترمی",
+          "هیپوکلسمی",
+          "هیپوکالمی",
+          "هیپوفسفاتمی"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هیپوتیروئیدی می تواند به دلیل کاهش دفع آب آزاد و افزایش ADH باعث هیپوناترمی شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-31",
+        "type": "mcq",
+        "question": "شایعترین اتیولوژی هیپرتیروئیدی کدام است؟",
+        "options": [
+          "Toxic MNG",
+          "graves",
+          "Toxic Adenoma",
+          "Subacute thyroiditis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "بیماری گریوز شایعترین علت هیپرتیروئیدی است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-32",
+        "type": "mcq",
+        "question": "کدامیک از علائم زیر در بیمار مبتلا به هیپرتیروئیدی دیده می شود؟",
+        "options": [
+          "ژنیکوماستی",
+          "یبوست",
+          "منوراژی",
+          "پوست خشک"
+        ],
+        "correctAnswer": 0,
+        "explanation": "هیپرتیروئیدی می تواند در مردان ژنیکوماستی ایجاد کند. یبوست، منوراژی و پوست خشک بیشتر با هیپوتیروئیدی دیده می شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-33",
+        "type": "mcq",
+        "question": "بیماری با علائم پرکاری تیروئید مراجعه می نماید در آزمایشات TSH ساپرس و T4 نرمال دارد. قدم بعدی کدام است؟",
+        "options": [
+          "چک TFT سه ماه دیگر",
+          "اسکن تیروئید",
+          "اندازه گیری TRAb",
+          "اندازه گیری T3"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در TSH پایین با T4 نرمال، باید T3 اندازه گیری شود تا T3 toxicosis تشخیص داده شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-34",
+        "type": "mcq",
+        "question": "برای تشخیص گواتر رترواسترنال از کدام sign استفاده می شود؟",
+        "options": [
+          "puddle sign",
+          "Pemberton sign",
+          "Patrick test",
+          "Haffman test"
+        ],
+        "correctAnswer": 1,
+        "explanation": "علامت Pemberton با بالا بردن بازوها و بروز پرخونی صورت و تنگی نفس در گواتر رترواسترنال مثبت می شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-35",
+        "type": "mcq",
+        "question": "وجود کدامیک از موارد زیر در شرح حال احتمال بدخیم بودن ندول تیروئید را بیشتر می کند؟",
+        "options": [
+          "سن 15 سال",
+          "جنس زن",
+          "سایز ندول 3cm",
+          "احساس وجود توده در گردن"
+        ],
+        "correctAnswer": 0,
+        "explanation": "سن پایین تر از 20 سال از عوامل خطر بدخیمی ندول تیروئید است. جنس زن، سایز 3 سانتی و احساس توده به تنهایی عوامل خطر قوی محسوب نمی شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-36",
+        "type": "mcq",
+        "question": "اولین قدم در برخورد تشخیصی با ندول تیروئید کدام است؟",
+        "options": [
+          "TSH",
+          "سونوگرافی",
+          "اسکن",
+          "FNA"
+        ],
+        "correctAnswer": 0,
+        "explanation": "اولین قدم در ارزیابی ندول تیروئید اندازه گیری TSH است. سپس بر اساس TSH و یافته های سونوگرافی تصمیم به FNA گرفته می شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-37",
+        "type": "mcq",
+        "question": "بر اساس طبقه بندی فردریکسون لیپید کدامیک از بیماریهای زیر با ریسک بالای آترواسکلروز همراه می باشد؟",
+        "options": [
+          "تیپ یک",
+          "تیپ سه",
+          "تیپ چهار",
+          "تیپ پنج"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در طبقه بندی فردریکسون، تیپ III (dysbetalipoproteinemia) با ریسک بالای آترواسکلروز همراه است. تیپ I و V بیشتر با پانکراتیت مرتبط اند.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-38",
+        "type": "mcq",
+        "question": "بر اساس طبقه بندی فردریکسون لیپید احتمال پانکراتیت در کدام گروه از همه بیشتر است؟",
+        "options": [
+          "تیپ دو",
+          "تیپ سه",
+          "تیپ چهار",
+          "تیپ پنج"
+        ],
+        "correctAnswer": 3,
+        "explanation": "تیپ V فردریکسون با افزایش شدید کیلومیکرون ها و VLDL همراه است و بالاترین خطر پانکراتیت را دارد.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-39",
+        "type": "mcq",
+        "question": "آقای 30 ساله ای به علت ژنیکوماستی مراجعه می کند در معاینه توده سفت و غیر متحرک در سینه راست لمس می شود. اقدام بعدی کدام است؟",
+        "options": [
+          "سونوگرافی",
+          "ماموگرافی",
+          "چک تستوسترون",
+          "جراحی"
+        ],
+        "correctAnswer": 1,
+        "explanation": "توده سفت و غیرمتحرک پستان در مرد شک به بدخیمی را مطرح می کند. اقدام بعدی ماموگرافی و سپس بیوپسی است.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-40",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر از اثرات تستوسترون در آقایان می باشد؟",
+        "options": [
+          "اثر فیدبکی در هیپوفیز",
+          "ریزش مو",
+          "بزرگی پروستات",
+          "ساخت استخوان"
+        ],
+        "correctAnswer": 3,
+        "explanation": "تستوسترون در ساخت استخوان و حفظ توده استخوانی نقش دارد. اثر فیدبکی، ریزش مو و بزرگی پروستات نیز تا حدی مرتبط اند ولی گزینه ساخت استخوان اثر آنابولیک شاخص تستوسترون است.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-41",
+        "type": "mcq",
+        "question": "کدامیک از بیماریهای زیر موجب افزایش SHBG می شود؟",
+        "options": [
+          "هیپوتیروئیدی",
+          "هپاتیت B",
+          "سندروم نفروتیک",
+          "دیابت"
+        ],
+        "correctAnswer": 1,
+        "explanation": "بیماری های کبدی مانند هپاتیت B می توانند SHBG را افزایش دهند. هیپوتیروئیدی، سندروم نفروتیک و دیابت معمولاً SHBG را کاهش می دهند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-42",
+        "type": "mcq",
+        "question": "اولین نشانه بلوغ در پسرها کدام است؟",
+        "options": [
+          "رویش موی صورت",
+          "جهش رشد",
+          "بم شدن صدا",
+          "بزرگی تستیس"
+        ],
+        "correctAnswer": 3,
+        "explanation": "اولین نشانه بلوغ در پسرها بزرگ شدن تستیس ها است که معمولاً با افزایش حجم بیضه آغاز می شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-43",
+        "type": "mcq",
+        "question": "خانم 18 ساله ای به علت آمنوره اولیه مراجعه می کند اولین اقدام تشخیصی کدام است؟",
+        "options": [
+          "چک HCG",
+          "چک FSH-LH",
+          "سونوگرافی رحم",
+          "تست پروژسترون"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در آمنوره اولیه نیز ابتدا باید بارداری با اندازه گیری HCG رد شود، سپس ارزیابی هورمونی و تصویربرداری انجام شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-44",
+        "type": "mcq",
+        "question": "کدامیک از نشانه های زیر مربوط به ویریلیزاسیون می باشد؟",
+        "options": [
+          "آکنه",
+          "پوست چرب",
+          "هیرسوتیسم",
+          "بم شدن صدا"
+        ],
+        "correctAnswer": 3,
+        "explanation": "ویریلیزاسیون شامل علائم شدیدتر آندروژنی مانند بم شدن صدا، بزرگ شدن کلیتور و ریزش موی آندروژنیک است. آکنه، پوست چرب و هیرسوتیسم می توانند ناشی از آندروژن باشند ولی به تنهایی ویریلیزاسیون محسوب نمی شوند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-45",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر باعث ایجاد دیابت نمی گردد؟",
+        "options": [
+          "سندرم کلاین فیلتر",
+          "سندرم پوتزجاگر",
+          "سندرم پرادرولی",
+          "سندرم دان"
+        ],
+        "correctAnswer": 1,
+        "explanation": "سندرم پوتز-جگرز معمولاً با دیابت مرتبط نیست، در حالی که سندرم های کلاین فیلتر، پرادر-ویلی و دان با افزایش خطر دیابت همراه اند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-46",
+        "type": "mcq",
+        "question": "در مورد دیابت بارداری کدام جمله نادرست می باشد؟",
+        "options": [
+          "تا 10% در حاملگی ها رخ می دهد",
+          "تا 60% احتمال بروز دیابت در آینده دارند",
+          "عامل آن افزایش مقاومت به انسولین در اواخر بارداری است",
+          "کنترل آن تنها با استفاده از انسولین امکان پذیر است"
+        ],
+        "correctAnswer": 3,
+        "explanation": "دیابت بارداری در بسیاری از موارد با رژیم غذایی و ورزش کنترل می شود و فقط در صورت عدم کنترل، انسولین لازم می شود. بنابراین جمله «تنها با انسولین» نادرست است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-47",
+        "type": "mcq",
+        "question": "در مورد LADA جمله نادرست کدام است؟",
+        "options": [
+          "بعد از 30 سالگی بروز می کند",
+          "زمینه بارز خود ایمنی در آن مشهود است",
+          "سطح C-peptide در آن بالا است",
+          "در 10% دیابتی های بزرگسال رخ دهد"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در LADA زمینه خودایمنی وجود دارد و ذخیره انسولین به تدریج کاهش می یابد؛ بنابراین C-peptide معمولاً پایین یا در حال کاهش است، نه بالا.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-48",
+        "type": "mcq",
+        "question": "در مورد MODY جمله نادرست کدام است؟",
+        "options": [
+          "در 90% موارد با دیابت نوع 1 و 2 اشتباه گرفته می شود",
+          "در میانسالی شروع می گردد",
+          "کتواسیدوز در آن دیده نمی شود",
+          "اتوآنتی بادی در آنها وجود ندارد"
+        ],
+        "correctAnswer": 1,
+        "explanation": "MODY معمولاً در سنین جوانی یا اوایل بزرگسالی شروع می شود، نه میانسالی. سایر موارد مطرح شده در مورد MODY صحیح اند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-49",
+        "type": "mcq",
+        "question": "در مورد اپیدمیولوژی دیابت کدام جمله نادرست است؟",
+        "options": [
+          "شیوع چاقی و بی حرکتی مبنای افزایش شیوع دیابت در جهان است",
+          "تا سال 2045 بیشترین افزایش شیوع در آفریقا و خاورمیانه و کمترین در اروپا و اقیانوسیه دیده خواهد شد",
+          "در حال حاضر شیوع متوسط دیابت در جهان 6% است",
+          "تقریبا 25 درصد از موارد IGT ایزوله دچار دیابت می شوند"
+        ],
+        "correctAnswer": 2,
+        "explanation": "شیوع متوسط دیابت در جهان در برآوردهای جدید بالاتر از ۶ درصد و در حدود ۸ تا ۹ درصد است. بنابراین جمله ۶ درصد نادرست است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-50",
+        "type": "mcq",
+        "question": "در کدامیک از موارد زیر بیمار دیابت بارز دارد؟",
+        "options": [
+          "قند ناشتا 143، قند 2 ساعت 125",
+          "قند ناشتا 127، قند 2 ساعت 201",
+          "قند ناشتا 112، قند 2 ساعت 200",
+          "قند ناشتا 135، قند 2 ساعت 185"
+        ],
+        "correctAnswer": 1,
+        "explanation": "قند ناشتا 127 و قند دو ساعت 201 هر دو در محدوده تشخیص دیابت هستند. در گزینه ۳ نیز قند دو ساعت 200 است ولی گزینه ۲ بارزتر و بدون ابهام تر است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-51",
+        "type": "mcq",
+        "question": "کدام بیمار دارای اضافه وزن را از نظر دیابت نوع دو مورد بررسی غربالگری قرار نمی دهید؟",
+        "options": [
+          "سابقه مصرف دارو فشارخون",
+          "TG>250 یا HDL<35",
+          "LDL>190",
+          "دچار بی حرکتی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "LDL بالای 190 معیار غربالگری دیابت نیست و بیشتر به نفع هیپرکلسترولمی خانوادگی است. فشارخون، TG بالا، HDL پایین و بی حرکتی از عوامل خطر دیابت هستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-52",
+        "type": "mcq",
+        "question": "در مورد ترشح انسولین کدام گزینه زیر درست نمی باشد؟",
+        "options": [
+          "گلوکز و نیز اسیدهای زمینه و کتونها می توانند باعث تحریک ترشح انسولین شوند",
+          "ATP تولید شده در سلول بتا باعث باز شدن کانال پتاسیمی می شود",
+          "ترشح انسولین ضربانی است و دوره های 10 دقیقه ای روی دوره های 80 تا 150 دقیقه ای سوارند",
+          "GLP-1 و GIP و نیز سولفونیل اوره ها دارای گیرنده روی سلول بتا هستند"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ATP در سلول بتا باعث بسته شدن کانال پتاسیمی حساس به ATP می شود، نه باز شدن آن. بسته شدن کانال، دپلاریزاسیون و ورود کلسیم و ترشح انسولین را موجب می شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-53",
+        "type": "mcq",
+        "question": "تجویز متفورمین برای پیشگیری از دیابت در کدامیک از موارد اندیکاسیون ندارد؟",
+        "options": [
+          "سابقه GDM",
+          "<60 سالگی",
+          "دارای اضافه وزن",
+          "BMI ≥35 kg/m2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "متفورمین برای پیشگیری از دیابت در پیش دیابت همراه با سن کمتر از 60 سال، BMI ≥35 یا سابقه GDM مطرح می شود. صرفاً داشتن اضافه وزن بدون این شرایط اندیکاسیون اختصاصی ندارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-54",
+        "type": "mcq",
+        "question": "کدامیک تاثیر کمتری بر روی بروز رتینوپاتی دیابتی دارد؟",
+        "options": [
+          "فشارخون بالا",
+          "استعداد ژنتیک",
+          "طول مدت بیماری",
+          "میزان کنترل قند خون"
+        ],
+        "correctAnswer": 1,
+        "explanation": "طول مدت دیابت، کنترل قند خون و فشارخون از عوامل اصلی بروز و پیشرفت رتینوپاتی دیابتی هستند. استعداد ژنتیک نقش کمتری در مقایسه با این عوامل قابل مداخله دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-55",
+        "type": "mcq",
+        "question": "کدامیک از شاخص وجود PDR می باشد؟",
+        "options": [
+          "نئوواسکولاریزاسیون",
+          "ادم ماکولار",
+          "اگزودای سخت",
+          "خونریزی داخل رتین"
+        ],
+        "correctAnswer": 0,
+        "explanation": "رتینوپاتی دیابتی پرولیفراتیو (PDR) با نئوواسکولاریزاسیون مشخص می شود. ادم ماکولار، اگزودای سخت و خونریزی داخل رتین در مراحل غیرپرولیفراتیو هم دیده می شوند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-56",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر ارتباطی با بروز نفروپاتی دیابتی ندارد؟",
+        "options": [
+          "چاقی",
+          "سیگار کشیدن",
+          "هیپرکلسترولمی",
+          "طول مدت دیابت"
+        ],
+        "correctAnswer": 2,
+        "explanation": "طول مدت دیابت، سیگار و چاقی از عوامل مرتبط با نفروپاتی دیابتی هستند. هیپرکلسترولمی بیشتر با بیماری های ماکروواسکولار مرتبط است و نقش مستقیم کمتری در نفروپاتی دیابتی دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-57",
+        "type": "mcq",
+        "question": "در مورد اهداف کنترل قند خون، بطور عموم، در دیابتی ها کدامیک نادرست است؟",
+        "options": [
+          "ناشتا 80-130 mg/dl",
+          "بعد از غذا 80-180 mg/dl",
+          "BP<160/90",
+          "HbA1C<8 درصد در افراد مسن"
+        ],
+        "correctAnswer": 2,
+        "explanation": "هدف فشارخون در دیابت معمولاً کمتر از 140/90 و در بسیاری از بیماران کمتر از 130/80 است. هدف BP<160/90 نادرست و بیش از حد بالا است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-58",
+        "type": "mcq",
+        "question": "در مورد انسولین های سریع الاثر جمله درست کدام است؟",
+        "options": [
+          "نیم ساعت قبل از غذا باید تزریق شوند",
+          "همانند انسولین رگولار هیپوگلیسمی بعد از غذا می توانند بدهند",
+          "اثرشان ظرف یک ربع شروع شده و تا 1/5 ساعت طول می کشد",
+          "تا 45 درصد انسولین روزانه از آنها باید تامین شود"
+        ],
+        "correctAnswer": 1,
+        "explanation": "انسولین های سریع الاثر را می توان نزدیک به غذا یا حتی پس از غذا تجویز کرد و مانند انسولین رگولار می توانند با هیپوگلیسمی پس از غذا مرتبط باشند. زمان شروع سریع تر است ولی مدت اثر تنها ۱.۵ ساعت نیست.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-59",
+        "type": "mcq",
+        "question": "کدامیک از داروهای زیر ضد دیابت خوراکی زیر تاثیر کمتری بر پایین آوردن قند خون دارند؟",
+        "options": [
+          "متفورمین",
+          "سولفونیل اوره ها",
+          "TZD ها",
+          "مهارکننده های آلفا گلوکوزیداز"
+        ],
+        "correctAnswer": 3,
+        "explanation": "مهارکننده های آلفا گلوکوزیداز با کاهش جذب کربوهیدرات، اثر نسبتاً کمتری بر کاهش قند خون در مقایسه با متفورمین، سولفونیل اوره ها و TZDها دارند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "mehr-95-q-60",
+        "type": "mcq",
+        "question": "کدامیک از داروهای ضد دیابتی زیر باعث افزایش وزن نمی شود؟",
+        "options": [
+          "سولفونیل اوره ها",
+          "مهارکننده های DPP-4",
+          "TZD ها",
+          "انسولین"
+        ],
+        "correctAnswer": 1,
+        "explanation": "مهارکننده های DPP-4 معمولاً اثر خنثی بر وزن دارند. سولفونیل اوره ها، TZDها و انسولین می توانند باعث افزایش وزن شوند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      }
+    ]
+  }
+}

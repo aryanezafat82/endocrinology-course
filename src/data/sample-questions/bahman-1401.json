@@ -1,0 +1,270 @@
+{
+  "exam": {
+    "id": "bahman-1401",
+    "label": "کورس غدد پزشکی بهمن ۱۴۰۱ رشت",
+    "sourceFile": "SOURCE_FILE_PLACEHOLDER",
+    "questionCount": 20,
+    "questions": [
+      {
+        "id": "bahman-1401-q-01",
+        "type": "short_answer",
+        "question": "کدام گیرنده از نوع داخل سلولی است؟",
+        "answerText": "تستسترون",
+        "explanation": "تستسترون هورمون استروئیدی است و از غشا عبور می‌کند؛ گیرنده آن داخل سلول و در سیتوزول یا هسته قرار دارد و پس از اتصال به‌عنوان فاکتور رونویسی عمل می‌کند. هورمون‌های پپتیدی معمولاً گیرنده غشایی دارند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-02",
+        "type": "short_answer",
+        "question": "کدام مورد از اعمال متفورمین نیست؟",
+        "answerText": "افزایش ترشح انسولین",
+        "explanation": "متفورمین ترشح انسولین را افزایش نمی‌دهد؛ اثر اصلی آن کاهش گلوکونئوژنز کبدی، افزایش حساسیت به انسولین و کاهش جذب روده‌ای گلوکز است. داروهای سولفونیل‌اوره و آگونیست‌های GLP-1 ترشح انسولین را تحریک می‌کنند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-03",
+        "type": "short_answer",
+        "question": "کدام هورمون گیرنده تیروزین کینازی دارد؟",
+        "answerText": "انسولین",
+        "explanation": "گیرنده انسولین از خانواده گیرنده‌های تیروزین کینازی است. اتصال انسولین باعث اتوفسفریلاسیون گیرنده و فعال شدن مسیرهای IRS/PI3K و MAPK می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-04",
+        "type": "short_answer",
+        "question": "کدام مورد در نارسایی اولیه آدرنال نادرست است؟",
+        "answerText": "رنگ‌پریدگی Alabaster pallor",
+        "explanation": "در نارسایی اولیه آدرنال به علت افزایش ACTH و پپتیدهای مشتق از POMC هایپرپیگمانتاسیون رخ می‌دهد؛ رنگ‌پریدگی آلباستر مربوط به نارسایی ثانویه آدرنال است. بنابراین این مورد در نارسایی اولیه آدرنال نادرست است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-05",
+        "type": "short_answer",
+        "question": "ویژگی مشترک APS-1 و APS-2 چیست؟",
+        "answerText": "نارسایی آدرنال",
+        "explanation": "APS-1 و APS-2 هر دو می‌توانند با نارسایی آدرنال همراه باشند. APS-1 معمولاً شامل کاندیدیازیس، هیپوپاراتیروئیدیسم و نارسایی آدرنال است؛ APS-2 با نارسایی آدرنال، بیماری تیروئید خودایمن و دیابت نوع ۱ مشخص می‌شود.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-06",
+        "type": "short_answer",
+        "question": "کدام مورد از اعمال گلوکوکورتیکوئیدها نیست؟",
+        "answerText": "افزایش دفع سدیم",
+        "explanation": "گلوکوکورتیکوئیدها افزایش دفع سدیم ایجاد نمی‌کنند؛ در مقادیر بالا می‌توانند با اثر بر گیرنده مینرالوکورتیکوئید سبب احتباس سدیم شوند. اثر اصلی آن‌ها در متابولیسم، ضدالتهاب و افزایش گلوکز است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-07",
+        "type": "short_answer",
+        "question": "کدام گزینه نادرست است؟",
+        "answerText": "نبودن پپتیدهای حاصل از POMC باعث هایپرپیگمانتاسیون می‌شود.",
+        "explanation": "پپتیدهای POMC شامل ACTH و MSH در افزایش پیگمانتاسیون نقش دارند. نبود آن‌ها باعث هایپرپیگمانتاسیون نمی‌شود؛ در نارسایی اولیه آدرنال افزایش این پپتیدها و در نارسایی ثانویه کاهش آن‌ها دیده می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-08",
+        "type": "short_answer",
+        "question": "کدام داروی ضد چاقی آگونیست GLP-1 است؟",
+        "answerText": "لیراگلوتاید",
+        "explanation": "لیراگلوتاید آگونیست گیرنده GLP-1 است و با افزایش سیری، کاهش تخلیه معده و ترشح انسولین وابسته به گلوکز باعث کاهش وزن می‌شود.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-09",
+        "type": "short_answer",
+        "question": "مردی با شکایت کاهش میل جنسی و کاهش موهای صورت و LH، FSH و تستوسترون پایین؛ یک فرزند ۴ ساله دارد، اقدام بعدی چیست؟",
+        "answerText": "MRI هیپوفیز",
+        "explanation": "کاهش LH، FSH و تستوسترون نشانه هیپوگنادیسم مرکزی است. وجود فرزند، احتمال نقص مادرزادی را کمتر می‌کند اما نمی‌تواند تومور هیپوفیز یا ضایعه هیپوتالاموسی را رد کند؛ بنابراین تصویربرداری MRI هیپوفیز اقدام بعدی است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-10",
+        "type": "short_answer",
+        "question": "کدام سرطان تیروئید منشأ فولیکولی ندارد؟",
+        "answerText": "مدولاری",
+        "explanation": "کارسینوم مدولاری تیروئید از سلول‌های C پارافولیکولار منشأ می‌گیرد، نه از سلول‌های فولیکولی. پاپیلاری، فولیکولار و آناپلاستیک منشأ اپیتلیال فولیکولی دارند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-11",
+        "type": "short_answer",
+        "question": "بدترین پروگنوز در سرطان‌های تیروئید؟",
+        "answerText": "آناپلاستیک",
+        "explanation": "کارسینوم آناپلاستیک تیروئید تمایزیافته نیست، رشد سریع و تهاجمی دارد و بدترین پروگنوز را میان سرطان‌های تیروئید دارد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-12",
+        "type": "short_answer",
+        "question": "اولین اقدام تشخیصی در شک به هایپرآلدوسترونیسم اولیه چیست؟",
+        "answerText": "نسبت آلدوسترون به رنین (ARR)",
+        "explanation": "غربالگری اولیه با اندازه‌گیری آلدوسترون پلاسما و رنین و محاسبه ARR است. پتاسیم و آلدوسترون به‌تنهایی برای تشخیص کافی نیستند؛ تأیید با تست سرکوب نمکی و سپس تصویربرداری آدرنال انجام می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-13",
+        "type": "short_answer",
+        "question": "کدام تومور در MEN2 دیده می‌شود؟",
+        "answerText": "فئوکروموسیتوما",
+        "explanation": "MEN2A و MEN2B با کارسینوم مدولاری تیروئید و فئوکروموسیتوما همراه‌اند؛ هایپرپاراتیروئیدیسم در MEN2A دیده می‌شود. بنابراین فئوکروموسیتوما تومور مرتبط با MEN2 است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-14",
+        "type": "short_answer",
+        "question": "بیمار با تریاد کلاسیک فئوکروموسیتوما(تعریق، سردرد و تپش قلب)؛ بهترین اقدام بعدی چیست؟",
+        "answerText": "اندازه گیری متانفرین‌ ادرار ۲۴ ساعته",
+        "explanation": "پس از شک بالینی، تشخیص بیوشیمیایی با متانفرین‌های پلاسما آزاد یا متانفرین‌های ادرار ۲۴ ساعته است. تصویربرداری بعد از تأیید بیوشیمیایی انجام می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-15",
+        "type": "short_answer",
+        "question": "کدام مورد از فواید نیمه‌عمر کوتاه هورمون‌هاست؟",
+        "answerText": "ایجاد Sharp Peak",
+        "explanation": "نیمه‌عمر کوتاه باعث می‌شود هورمون سریع پاک شود و تغییرات سریع و پالسی امکان‌پذیر باشد. این ویژگی ایجاد پیک‌های تیز و تنظیم دقیق بازخوردی را ممکن می‌کند.",
+        "topic": "introduction",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-16",
+        "type": "short_answer",
+        "question": "کدام مورد در هایپوکلسمی دیده نمی‌شود؟",
+        "answerText": "افزایش دفع کلسیم",
+        "explanation": "در هیپوکلسمی، PTH افزایش می‌یابد و بازجذب کلیوی کلسیم را زیاد می‌کند، بنابراین دفع ادراری کلسیم کاهش می‌یابد، نه افزایش. افزایش دفع کلسیم در هیپرکلسمی محتمل‌تر است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-17",
+        "type": "short_answer",
+        "question": "کدام هورمون ذخیره نمی‌شود و بعد از تولید مستقیما وارد خون می‌شود؟",
+        "answerText": "استروژن",
+        "explanation": "هورمون‌های استروئیدی مانند استروژن در وزیکول‌های ترشحی ذخیره نمی‌شوند؛ چون لیپوفیل هستند به‌صورت on demand ساخته شده و از غشا به خون منتشر می‌شوند. هورمون‌های پپتیدی اغلب ذخیره می‌شوند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-18",
+        "type": "short_answer",
+        "question": "کدام مورد باعث افزایش حساسیت به انسولین می‌شود؟",
+        "answerText": "آدیپونکتین",
+        "explanation": "آدیپونکتین یک آدیپوکین است که حساسیت به انسولین را افزایش می‌دهد و اثرهای ضدالتهابی دارد. سطح آن در چاقی کاهش می‌یابد و با مقاومت به انسولین مرتبط است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-19",
+        "type": "short_answer",
+        "question": "کدام عارضه در چاقی کمتر دیده می‌شود؟",
+        "answerText": "آرتریت روماتوئید",
+        "explanation": "در چاقی استئوآرتریت، دیابت نوع ۲، بیماری قلبی و آپنه خواب شایع‌تر است؛ آرتریت روماتوئید یک بیماری التهابی خودایمن است و به‌عنوان عارضه معمول چاقی در نظر گرفته نمی‌شود.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-1401-q-20",
+        "type": "short_answer",
+        "question": "کدام مورد در APS-2 دیده نمی‌شود؟",
+        "answerText": "هایپوپاراتیروئید",
+        "explanation": "هایپوپاراتیروئیدیسم ویژگی شایع APS-1 است. در APS-2 معمولاً نارسایی آدرنال، بیماری تیروئید خودایمن و دیابت نوع ۱ دیده می‌شود و هایپوپاراتیروئید جزء آن نیست.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      }
+    ]
+  }
+}

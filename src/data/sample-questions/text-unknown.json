@@ -1,0 +1,1739 @@
+{
+  "exam": {
+    "id": "text-unknown",
+    "label": "EXAM_LABEL_PLACEHOLDER",
+    "sourceFile": "SOURCE_FILE_PLACEHOLDER",
+    "questionCount": 133,
+    "questions": [
+      {
+        "id": "text-unknown-q-01",
+        "type": "short_answer",
+        "question": "در یک سوال مسئله‌ای با آلبومین داده‌شده، عدد واقعی کلسیم را می‌خواستند. پاسخ چیست؟",
+        "answerText": "کلسیم اصلاح‌شده",
+        "explanation": "برای محاسبه کلسیم اصلاح‌شده از آلبومین استفاده می‌شود، زیرا بخشی از کلسیم به آلبومین متصل است و در hypoalbuminemia کلسیم توتال پایین‌تر از کلسیم فیزیولوژیک فعال دیده می‌شود.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-02",
+        "type": "short_answer",
+        "question": "نیمه عمر T4 چقدر است؟",
+        "answerText": "۷ روز",
+        "explanation": "T4 اصلی‌ترین هورمون ترشح‌شده تیروئید است و نیمه عمر آن حدود ۷ روز است؛ همین نیمه عمر طولانی باعث می‌شود اندازه‌گیری T4 در خون پایدارتر باشد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-03",
+        "type": "short_answer",
+        "question": "پیش ساز هورمون تیروئیدی چیست؟",
+        "answerText": "تیروزین (در تیروگلوبین)",
+        "explanation": "تیروگلوبین حاوی بقایای تیروزین است که در فرآیند یددار شدن و جفت شدن، پیش‌ساز تشکیل T3 و T4 می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-04",
+        "type": "short_answer",
+        "question": "باکتری عامل اوتیت اکسترنال در دیابت چیست؟",
+        "answerText": "سودوموناس",
+        "explanation": "اوتیت اکسترنال بدخیم یا نکروزان در بیماران دیابتی اغلب توسط سودوموناس آئروژینوزا ایجاد می‌شود و یک عفونت مهاجم گوش خارجی است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-05",
+        "type": "short_answer",
+        "question": "مقدار نیاز به ید در بارداری چقدر است؟",
+        "answerText": "۲۵۰",
+        "explanation": "نیاز به ید در بارداری افزایش می‌یابد و توصیه می‌شود حدود ۲۵۰ میکروگرم ید روزانه تأمین شود تا نیاز مادر و جنین پوشش داده شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-06",
+        "type": "short_answer",
+        "question": "شایع‌ترین علت کم‌کاری تیروئید در ایران چیست؟",
+        "answerText": "هاشیموتو",
+        "explanation": "تیروئیدیت هاشیموتو شایع‌ترین علت کم‌کاری تیروئید در مناطق با کمبود ید اصلاح‌شده و در ایران است و با آنتی‌بادی‌های ضد تیروئید همراه است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-07",
+        "type": "short_answer",
+        "question": "سنتز هورمون تیروئیدی چه زمانی آغاز می‌شود؟",
+        "answerText": "از هفته ۱۱ جنینی",
+        "explanation": "غده تیروئید جنینی حدود هفته ۱۱ بارداری شروع به سنتز هورمون تیروئیدی می‌کند؛ پیش از آن تأمین هورمون تیروئید جنین وابسته به مادر است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-08",
+        "type": "short_answer",
+        "question": "کدام‌یک از علائم زیر اختصاصی گریوز است؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی برای این سوال ثبت نشده است. در گریوز، افتالموپاتی و درماتوپاتی پیش‌تیبیال از تظاهرات نسبتاً اختصاصی محسوب می‌شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-09",
+        "type": "short_answer",
+        "question": "کدام‌یک از علائم اختصاصی کوشینگ است؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. استریاهای پهن بنفش، کبودی آسان و ضعف پروگزیمال عضلانی از علائم نسبتاً اختصاصی سندرم کوشینگ هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-10",
+        "type": "short_answer",
+        "question": "شایع‌ترین نوروپاتی در دیابت چیست؟",
+        "answerText": "DSMN",
+        "explanation": "DSMN یا دیستال سیمتریک پلی‌نوروپاتی شایع‌ترین شکل نوروپاتی دیابتی است و معمولاً با علائم حسی-حرکتی در اندام‌های تحتانی تظاهر می‌کند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-11",
+        "type": "short_answer",
+        "question": "دلیل تعریق و اختلالات مشابه در دیابت چیست؟",
+        "answerText": "نوروپاتی اتونوم",
+        "explanation": "درگیری اعصاب اتونوم در دیابت می‌تواند تعریق غیرطبیعی، اختلالات گوارشی، قلبی-عروقی و ادراری ایجاد کند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-12",
+        "type": "short_answer",
+        "question": "در کدام‌یک از شرایط زیر آلدوسترون ترشح نمی‌شود؟",
+        "answerText": "هیپوکالمی",
+        "explanation": "هیپوکالمی معمولاً محرک ترشح آلدوسترون نیست؛ در واقع آلدوسترون باعث دفع پتاسیم و ایجاد هیپوکالمی می‌شود. هایپرکالمی، کاهش حجم و آنژیوتانسین II محرک‌های اصلی آلدوسترون هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-13",
+        "type": "short_answer",
+        "question": "کدام‌یک از علائم در نارسایی آدرنال نیست؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. نارسایی آدرنال با ضعف، کاهش وزن، هیپوتنشن، هیپرپیگمانتاسیون و اختلالات الکترولیتی همراه است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-14",
+        "type": "short_answer",
+        "question": "ترتیب وقایع در هنگام هایپوگلیسیمی چیست؟",
+        "answerText": "ابتدا کاهش انسولین و سپس افزایش گلوکاگون و اپی‌نفرین",
+        "explanation": "اولین پاسخ دفاعی به افت گلوکز، مهار ترشح انسولین است؛ سپس گلوکاگون و اپی‌نفرین برای افزایش تولید گلوکز و مقابله با هیپوگلیسمی ترشح می‌شوند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-15",
+        "type": "short_answer",
+        "question": "عملکرد انسولین در متابولیسم گلوکز چیست؟",
+        "answerText": "مهار گلیکوژنولیز",
+        "explanation": "انسولین با مهار گلیکوژنولیز و گلوکونئوژنز و افزایش ورود گلوکز به سلول، قند خون را کاهش می‌دهد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-16",
+        "type": "short_answer",
+        "question": "کدام مورد در کوشینگ دیده نمی‌شود؟",
+        "answerText": "اسیدوز متابولیک",
+        "explanation": "اسیدوز متابولیک بخشی از تظاهرات معمول سندرم کوشینگ نیست؛ کوشینگ بیشتر با هیپرگلیسمی، هیپرلیپیدمی، هیپوکالمی و آلکالوز متابولیک همراه است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-17",
+        "type": "short_answer",
+        "question": "در کیس آکرومگالی که کفشش کوچک شده، چه تستی می‌سنجیم؟",
+        "answerText": "تست IGF-1",
+        "explanation": "IGF-1 پایدارترین و حساس‌ترین تست غربالگری در آکرومگالی است؛ تغییر اندازه کفش و آکرال بزرگی از تظاهرات بالینی این بیماری هستند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-18",
+        "type": "short_answer",
+        "question": "در کیس با T4 نرمال و TSH پایین چه چیزی را چک می‌کنیم؟",
+        "answerText": "T3",
+        "explanation": "در مواردی که TSH پایین ولی T4 نرمال است، احتمال T3 توکسیکوز وجود دارد و باید T3 اندازه‌گیری شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-19",
+        "type": "short_answer",
+        "question": "در هاشیموتو کدام مورد از همه بیشتر است؟",
+        "answerText": "Anti TPO",
+        "explanation": "آنتی‌بادی ضد پراکسیداز تیروئید (Anti-TPO) شایع‌ترین و حساس‌ترین آنتی‌بادی در تیروئیدیت هاشیموتو است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-20",
+        "type": "short_answer",
+        "question": "سوالات دکتر عباسی در بخش دیابت درباره چه موضوعی بود؟",
+        "answerText": "گیرنده‌ها",
+        "explanation": "این مورد یک یادداشت درباره بانک سوال است و به سوالات مربوط به گیرنده‌ها در بخش دیابت اشاره دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-21",
+        "type": "short_answer",
+        "question": "در کیس تیروئید با T4 نرمال و TSH بالا، تشخیص چیست؟",
+        "answerText": "هیپوتیروئیدی ساب کلینیکال",
+        "explanation": "افزایش TSH همراه با T4 آزاد نرمال، تعریف هیپوتیروئیدی ساب‌کلینیکال است و در بسیاری از موارد نیاز به پیگیری و تصمیم‌گیری درمانی دارد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-22",
+        "type": "short_answer",
+        "question": "در شک به HTN مقاوم، استفاده از کدام تست آزمایشگاهی ضرورتی ندارد؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. در فشار خون مقاوم، ارزیابی علل ثانویه اندوکرینی مانند آلدوسترونیسم، فئوکروموسیتوم و کوشینگ مطرح است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-23",
+        "type": "short_answer",
+        "question": "کدام گزینه درباره درصد مواد مغذی رژیم غذایی صحیح است؟",
+        "answerText": "",
+        "explanation": "در منبع فقط اشاره شده که گزینه‌ها مربوط به درصد مواد مغذی رژیم غذایی بوده و پاسخ صریحی ثبت نشده است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-24",
+        "type": "short_answer",
+        "question": "آسان‌ترین روش جهت تخمین غیرمستقیم حجم چربی داخل شکمی چیست؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. در بسیاری از منابع، اندازه‌گیری دور کمر به‌عنوان روش ساده و غیرمستقیم برای تخمین چربی احشایی ذکر می‌شود.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-25",
+        "type": "short_answer",
+        "question": "در مورد گلیکولیز و گلوکونئوژنز کدام گزینه صحیح است؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. گلیکولیز مسیر تجزیه گلوکز و گلوکونئوژنز مسیر تولید گلوکز از پیش‌سازهای غیرکربوهیدراتی است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-26",
+        "type": "short_answer",
+        "question": "در کدام‌یک افزایش LDL وجود دارد؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. افزایش LDL در اختلالات لیپیدی اولیه و ثانویه متعدد دیده می‌شود.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-27",
+        "type": "short_answer",
+        "question": "کیس سندرم ترنر چه ویژگی‌های تشخیصی داشت؟",
+        "answerText": "",
+        "explanation": "در منبع فقط اشاره شده کیسی با ویژگی‌های تشخیصی سندرم ترنر مطرح بوده است. سندرم ترنر با کاریوتایپ ۴۵,X و فنوتیپ زنانه، کوتاهی قد و نارسایی تخمدان مشخص می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-28",
+        "type": "short_answer",
+        "question": "در خانم زیر ۳۰ سال با علائم هایپرپرولاکتینمی چه اقدامی انجام می‌دهیم؟",
+        "answerText": "شرح‌حال و رد موارد دیگر و MRI",
+        "explanation": "در هایپرپرولاکتینمی ابتدا باید علل دارویی، بارداری، کم‌کاری تیروئید و سایر علل ثانویه رد شوند و در صورت لزوم تصویربرداری هیپوفیز انجام شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-29",
+        "type": "short_answer",
+        "question": "شایع‌ترین علت کم‌کاری تیروئید چیست؟",
+        "answerText": "هاشیموتو",
+        "explanation": "تیروئیدیت هاشیموتو شایع‌ترین علت کم‌کاری تیروئید است و با تخریب خودایمنی غده تیروئید و آنتی‌بادی‌های ضد تیروئید همراه است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-30",
+        "type": "short_answer",
+        "question": "باکتری عامل اوتیت خارجی بدخیم چیست؟",
+        "answerText": "سودوموناس",
+        "explanation": "اوتیت خارجی بدخیم یک عفونت شدید و مهاجم است که اغلب در بیماران دیابتی رخ می‌دهد و سودوموناس آئروژینوزا عامل شایع آن است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-31",
+        "type": "short_answer",
+        "question": "میزان صحیح‌شده کلسیم چقدر است؟",
+        "answerText": "۸.۸",
+        "explanation": "کلسیم اصلاح‌شده بر اساس آلبومین محاسبه می‌شود. در این نمونه پاسخ ثبت‌شده ۸.۸ است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-32",
+        "type": "short_answer",
+        "question": "کدام گزینه غلط است؟",
+        "answerText": "میزان چربی ۲۰ تا ۲۵ درصد",
+        "explanation": "در منبع این گزینه به‌عنوان مورد غلط علامت‌گذاری شده است. رژیم‌های چاقی معمولاً چربی را به میزان متفاوت و اغلب پایین‌تر توصیه می‌کنند.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-33",
+        "type": "short_answer",
+        "question": "آسان‌ترین راه به‌دست آوردن چربی احشایی چیست؟",
+        "answerText": "دور کمر",
+        "explanation": "دور کمر شاخص ساده و کاربردی برای تخمین چربی احشایی و خطر متابولیک است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-34",
+        "type": "short_answer",
+        "question": "اختصاصی‌ترین علامت کوشینگ چیست؟",
+        "answerText": "استریا و کبودی راحت",
+        "explanation": "استریاهای پهن بنفش و کبودی آسان از تظاهرات نسبتاً اختصاصی سندرم کوشینگ هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-35",
+        "type": "short_answer",
+        "question": "اختصاصی‌ترین تست افتراق سندرم کوشینگ چیست؟",
+        "answerText": "تست لیدل (سرکوب دگزامتازون)",
+        "explanation": "تست سرکوب دگزامتازون با دوز بالا یا تست لیدل برای افتراق علل ACTH-dependent و تشخیص سندرم کوشینگ کاربرد دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-36",
+        "type": "short_answer",
+        "question": "میزان توصیه هیدروکورتیزون در استرس بزرگ در نارسایی آدرنال چقدر است؟",
+        "answerText": "۱۵۰-۳۰۰",
+        "explanation": "در نارسایی آدرنال و در استرس شدید، دوز هیدروکورتیزون افزایش می‌یابد و در منبع مقدار ۱۵۰ تا ۳۰۰ ثبت شده است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-37",
+        "type": "short_answer",
+        "question": "میزان ید در زنان باردار چقدر است؟",
+        "answerText": "۲۵۰",
+        "explanation": "نیاز به ید در بارداری به ۲۵۰ میکروگرم در روز افزایش می‌یابد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-38",
+        "type": "short_answer",
+        "question": "در کدام مسیر دیابتیک غیرآنزیماتیک است؟",
+        "answerText": "AGEs",
+        "explanation": "تشکیل محصولات نهایی گلیکاسیون پیشرفته یا AGEs یک فرآیند غیرآنزیماتیک در هایپرگلیسمی مزمن است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-39",
+        "type": "short_answer",
+        "question": "در کیس داده‌شده، پاسخ چه بود؟",
+        "answerText": "ترانس گلوتامیناز",
+        "explanation": "ترانس گلوتامیناز به آنتی‌بادی ترانس گلوتامیناز بافتی اشاره دارد که در بیماری سلیاک و در برخی بیماران دیابتی کاربرد تشخیصی دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-40",
+        "type": "short_answer",
+        "question": "در کیس با انسولین و قند خون هر دو پایین، اقدام و تشخیص چیست؟",
+        "answerText": "اندوسکوپی فوقانی؛ کارسینوم کبد",
+        "explanation": "در هیپوگلیسمی با انسولین پایین، باید علل غیر از انسولینوما مانند تومورهای خارج پانکراس و نارسایی کبدی در نظر گرفته شوند. در منبع اندوسکوپی فوقانی و کارسینوم کبد ثبت شده است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-41",
+        "type": "short_answer",
+        "question": "کدام دارو باعث افزایش نیاز به لووتیروکسین می‌شود؟",
+        "answerText": "سرترالین",
+        "explanation": "برخی داروها با تغییر جذب یا متابولیسم هورمون تیروئید می‌توانند نیاز به لووتیروکسین را افزایش دهند. در منبع سرترالین ذکر شده است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-42",
+        "type": "short_answer",
+        "question": "در مورد گناد با اندام تناسلی نزول‌پیداکرده ولی کوچک و سفت، چه اقدامی انجام می‌دهیم؟",
+        "answerText": "کاریوتایپینگ",
+        "explanation": "در ابهام تناسلی یا ناهنجاری‌های گنادی، بررسی کروموزومی با کاریوتایپینگ برای تعیین تشخیص نقش دارد.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-43",
+        "type": "short_answer",
+        "question": "از جدول انواع دیابت که ۴ نوع داشت، چند سوال می‌آید؟",
+        "answerText": "چند تا سوال",
+        "explanation": "این مورد یک یادداشت درباره منبع سوال است و اطلاعات تشخیصی مستقیمی ندارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-44",
+        "type": "short_answer",
+        "question": "مشکل گوارشی از کدام علل دیابت است؟",
+        "answerText": "نوروپاتی اتونوم",
+        "explanation": "نوروپاتی اتونوم دیابتی می‌تواند گاستروپارزی، یبوست، اسهال و سایر علائم گوارشی ایجاد کند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-45",
+        "type": "short_answer",
+        "question": "کدام هورمون بر کلیه اثر ندارد؟",
+        "answerText": "گلوکاگون",
+        "explanation": "گلوکاگون عمدتاً بر کبد و متابولیسم گلوکز اثر می‌گذارد و اثر مستقیم کلیوی مهمی در تنظیم گلوکز ندارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-46",
+        "type": "short_answer",
+        "question": "ترتیب آزادسازی هورمون‌ها پس از هیپوگلیسمی چیست؟",
+        "answerText": "انسولین- گلوکاگون- اپی‌نفرین",
+        "explanation": "در پاسخ به هیپوگلیسمی ابتدا ترشح انسولین کاهش می‌یابد، سپس گلوکاگون و در ادامه اپی‌نفرین افزایش می‌یابند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-47",
+        "type": "short_answer",
+        "question": "کدام هورمون مشابهت زنجیره‌ای ندارد؟",
+        "answerText": "PTH",
+        "explanation": "PTH از نظر ساختاری با هورمون‌های خانواده FSH/LH/TSH/hCG تفاوت دارد؛ این هورمون‌ها زیرواحد آلفا و بتا مشترک دارند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-48",
+        "type": "short_answer",
+        "question": "کدام هورمون داخل سلول نمی‌رود؟",
+        "answerText": "ACTH (پپتیدی)",
+        "explanation": "ACTH یک هورمون پپتیدی است و مانند هورمون‌های پپتیدی دیگر از گیرنده‌های غشایی استفاده می‌کند و وارد سلول نمی‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-49",
+        "type": "short_answer",
+        "question": "در خانم با آمنوره، استفراغ، گالاکتوره و TSH=۱۸، تشخیص چیست؟",
+        "answerText": "هیپرپرولاکتینمی",
+        "explanation": "افزایش پرولاکتین می‌تواند آمنوره، گالاکتوره و اختلالات همراه ایجاد کند؛ TSH بالا نیز می‌تواند از علل افزایش پرولاکتین باشد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-50",
+        "type": "short_answer",
+        "question": "در TSH سرکوب‌شده و T4 نرمال، کدام تشخیص درست است؟",
+        "answerText": "T3 تیروتوکسیکوز",
+        "explanation": "در T3 توکسیکوز، T4 ممکن است نرمال باشد ولی TSH سرکوب شود؛ بنابراین اندازه‌گیری T3 لازم است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-51",
+        "type": "short_answer",
+        "question": "از دیابت بی‌مزه چند سوال بود؟",
+        "answerText": "دو تا",
+        "explanation": "این مورد یک یادداشت درباره تعداد سوالات دیابت بی‌مزه در منبع است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-52",
+        "type": "short_answer",
+        "question": "آزمایش‌های کورتیزول کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان آزمایش‌های کورتیزول ذکر شده و پاسخ صریحی ارائه نشده است. معمولاً کورتیزول سرم، کورتیزول ادرار ۲۴ ساعته و تست‌های سرکوب/تحریک بررسی می‌شوند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-53",
+        "type": "short_answer",
+        "question": "علل فشار ثانویه اندوکراینی کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان علل فشار ثانویه اندوکراینی ذکر شده و پاسخ صریحی ارائه نشده است. علل شامل فئوکروموسیتوم، آلدوسترونیسم، کوشینگ و آکرومگالی است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-54",
+        "type": "short_answer",
+        "question": "APS چیست؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان APS ذکر شده و پاسخ صریحی ارائه نشده است. APS به سندرم پلی‌گلندولار خودایمن اشاره دارد.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-55",
+        "type": "short_answer",
+        "question": "فرق نارسایی اولیه و ثانویه آدرنال چیست؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان این مبحث ذکر شده و پاسخ صریحی ارائه نشده است. در نارسایی اولیه، مشکل در خود آدرنال است و ACTH بالا و هیپرپیگمانتاسیون دیده می‌شود؛ در نوع ثانویه، مشکل در هیپوفیز یا هیپوتالاموس است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-56",
+        "type": "short_answer",
+        "question": "مکانیسم‌های افزایش آلدوسترون کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان این مبحث ذکر شده و پاسخ صریحی ارائه نشده است. افزایش آلدوسترون می‌تواند از طریق سیستم رنین-آنژیوتانسین، هایپرکالمی یا تومور آدرنال باشد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-57",
+        "type": "short_answer",
+        "question": "تظاهرات آلدسترونیسم کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان این مبحث ذکر شده و پاسخ صریحی ارائه نشده است. آلدسترونیسم با فشار خون بالا، هیپوکالمی، آلکالوز متابولیک و ضعف عضلانی تظاهر می‌کند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-58",
+        "type": "short_answer",
+        "question": "علائم اختصاصی کوشینگ کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان این مبحث ذکر شده و پاسخ صریحی ارائه نشده است. استریاهای پهن بنفش، کبودی آسان و ضعف پروگزیمال عضلانی از علائم نسبتاً اختصاصی هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-59",
+        "type": "short_answer",
+        "question": "اشکال کورتیزول در خون و علل افزایش CBG کدام‌اند؟",
+        "answerText": "",
+        "explanation": "در منبع فقط عنوان این مبحث ذکر شده و پاسخ صریحی ارائه نشده است. کورتیزول در خون به CBG متصل و به شکل آزاد وجود دارد؛ بارداری، استروژن و برخی شرایط باعث افزایش CBG می‌شوند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-60",
+        "type": "short_answer",
+        "question": "در تیروگلوبین پایین تشخیص چیست؟",
+        "answerText": "factitious thyrotoxicosis",
+        "explanation": "در تیروتوکسیکوز ساختگی، مصرف هورمون تیروئید خارجی باعث سرکوب TSH و کاهش تیروگلوبین می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-61",
+        "type": "short_answer",
+        "question": "اثر کورتیزول و گلوکاگون بر سوخت‌وساز و کتوژنز چیست؟",
+        "answerText": "هورمون رشد باعث ... و افزایش کتوژنز می‌شود",
+        "explanation": "کورتیزول و گلوکاگون با افزایش گلوکونئوژنز و لیپولیز در تنظیم سوخت‌وساز نقش دارند؛ هورمون رشد نیز می‌تواند کتوژنز را افزایش دهد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-62",
+        "type": "short_answer",
+        "question": "کدام فرد را برای دیابت اسکرین می‌کنیم؟",
+        "answerText": "فردی با BMI ۳۶ و فشار ۱۳/۹۰",
+        "explanation": "چاقی با BMI بالای ۳۰ و فشار خون بالا از عوامل خطر مهم دیابت نوع ۲ هستند و اندیکاسیون غربالگری دیابت را ایجاد می‌کنند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-63",
+        "type": "short_answer",
+        "question": "کدام داروها بر قلب اثر پروتکتیو دارند؟",
+        "answerText": "GLP1، SGLT2، متفورمین",
+        "explanation": "برخی داروهای ضد دیابت مانند مهارکننده‌های SGLT2 و آگونیست‌های GLP-1 اثرات قلبی-عروقی محافظتی نشان داده‌اند؛ متفورمین نیز در برخی مطالعات اثرات مفید دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-64",
+        "type": "short_answer",
+        "question": "کدام دارو برای بیمار کاردیووسکولار استفاده می‌شود؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. در بیماران قلبی-عروقی، مهارکننده‌های SGLT2 و آگونیست‌های GLP-1 از گزینه‌های مهم هستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-65",
+        "type": "short_answer",
+        "question": "کدام HLA در برابر دیابت حفاظت می‌کند؟",
+        "answerText": "HLA DR15",
+        "explanation": "برخی آلل‌های HLA نقش حفاظتی در برابر دیابت نوع ۱ دارند. در منبع HLA DR15 به‌عنوان ژن محافظتی ذکر شده است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-66",
+        "type": "short_answer",
+        "question": "درمان دارویی هیپوتیروئیدی ساب‌کیوت در کیس چیست؟",
+        "answerText": "آسپرین، NSAID (اگر شدید بود گلوکوکورتیکوئید)",
+        "explanation": "تیروئیدیت ساب‌کیوت معمولاً خودمحدودشونده است و درمان آن با NSAID و در موارد شدید گلوکوکورتیکوئید انجام می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-67",
+        "type": "short_answer",
+        "question": "کدام مورد جزو عوارض چاقی نیست؟",
+        "answerText": "آرتریت روماتوئید",
+        "explanation": "چاقی با بسیاری از بیماری‌ها همراه است، ولی آرتریت روماتوئید یک بیماری خودایمنی است و جزو عوارض کلاسیک چاقی محسوب نمی‌شود.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-68",
+        "type": "short_answer",
+        "question": "کدام مورد نارسایی هیپوفیز ایجاد نمی‌کند؟",
+        "answerText": "میکروآدنوم",
+        "explanation": "میکروآدنوم هیپوفیز معمولاً کم‌کاری هیپوفیز ایجاد نمی‌کند، در حالی که ماکروآدنوم و رادیاسیون می‌توانند باعث نارسایی هیپوفیز شوند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-69",
+        "type": "short_answer",
+        "question": "در فردی با ندول تیروئید ۲ سانتی‌متری، اولین اقدام چیست؟",
+        "answerText": "درمان با ید رادیواکتیو؟",
+        "explanation": "پاسخ ثبت‌شده در منبع با علامت تردید همراه است. در ندول تیروئید، اولین اقدام معمولاً ارزیابی با TSH و سپس سونوگرافی و در صورت نیاز FNA است، نه ید رادیواکتیو.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "text-unknown-q-70",
+        "type": "short_answer",
+        "question": "اولین اقدام برای هیپوتیروئیدی چیست؟",
+        "answerText": "احتمالاً همان سوال ۷",
+        "explanation": "در منبع پاسخ با تردید ذکر شده است. در هیپوتیروئیدی، درمان جایگزینی با لووتیروکسین اقدام اصلی است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "text-unknown-q-71",
+        "type": "short_answer",
+        "question": "کدام لیپید درصد تری‌گلیسریدش بیشتر است؟",
+        "answerText": "شیلومیکرون",
+        "explanation": "شیلومیکرون‌ها بیشترین درصد تری‌گلیسرید را در میان لیپوپروتئین‌ها دارند.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-72",
+        "type": "short_answer",
+        "question": "درمان دیس‌لیپیدمی چیست؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. درمان دیس‌لیپیدمی شامل تغییر سبک زندگی و دارودرمانی با استاتین‌ها و سایر عوامل کاهش‌دهنده لیپید بر اساس خطر قلبی-عروقی است.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-73",
+        "type": "short_answer",
+        "question": "در کیس با T4 کمی پایین‌تر از نرمال و TSH بالا ولی زیر ۱۰، تشخیص چیست؟",
+        "answerText": "هیپوتیروئیدی ساب کلینیکال",
+        "explanation": "افزایش TSH همراه با T4 آزاد پایین‌تر از حد نرمال ولی نه به‌شدت کم، می‌تواند در طیف هیپوتیروئیدی ساب‌کلینیکال قرار گیرد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-74",
+        "type": "short_answer",
+        "question": "با آلبومین ۲، کلسیم واقعی چقدر است؟",
+        "answerText": "۸/۸",
+        "explanation": "کلسیم اصلاح‌شده بر اساس آلبومین محاسبه می‌شود و در این نمونه پاسخ ثبت‌شده ۸.۸ است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-75",
+        "type": "short_answer",
+        "question": "فردی با مشکل راه رفتن و درد عضلانی، PTH بالا، فسفات پایین و کلسیم پایین حد نرمال، مشکلش چیست؟",
+        "answerText": "کمبود ویتامین D",
+        "explanation": "کمبود ویتامین D باعث کاهش جذب کلسیم، افزایش PTH و کاهش فسفات می‌شود و می‌تواند با درد عضلانی و اختلال راه رفتن همراه باشد.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-76",
+        "type": "short_answer",
+        "question": "بیماری با پرنوشی و پرادراری، FBS نرمال و Na کاهش‌یافته، تشخیص چیست؟",
+        "answerText": "افزایش ADH با داروی مرتبط",
+        "explanation": "کاهش سدیم همراه با پرنوشی و پرادراری می‌تواند در SIADH دیده شود؛ ADH بالا باعث احتباس آب و هیپوناترمی می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-77",
+        "type": "short_answer",
+        "question": "کدام دارو انسولین را افزایش نمی‌دهد؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. داروهای کاهنده قند خون از نظر مکانیسم اثر بر ترشح انسولین متفاوت‌اند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-78",
+        "type": "short_answer",
+        "question": "کدام گزینه نشانه بدخیمی بیشتر ندول است؟",
+        "answerText": "هیپواکوژنیسیته",
+        "explanation": "در سونوگرافی تیروئید، هیپواکوژنیسیته یکی از ویژگی‌های مشکوک به بدخیمی در ندول تیروئید است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-79",
+        "type": "short_answer",
+        "question": "شایع‌ترین علت هیپوگلایسمی چیست؟",
+        "answerText": "مصرف دارو",
+        "explanation": "در بیماران، مصرف داروهای کاهنده قند خون مانند انسولین و سولفونیل‌اوره شایع‌ترین علت هیپوگلیسمی است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-80",
+        "type": "short_answer",
+        "question": "اولین خط دفاعی بدن در هنگام هیپوگلایسمی چیست؟",
+        "answerText": "کاهش انسولین",
+        "explanation": "کاهش ترشح انسولین اولین پاسخ فیزیولوژیک به افت گلوکز است و از ادامه افت قند جلوگیری می‌کند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-81",
+        "type": "short_answer",
+        "question": "در فردی با TSH پایین و T4 طبیعی، اولین اقدام چیست؟",
+        "answerText": "بررسی T3",
+        "explanation": "در TSH پایین با T4 طبیعی، احتمال T3 توکسیکوز وجود دارد و اندازه‌گیری T3 اقدام تشخیصی مناسب است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-82",
+        "type": "short_answer",
+        "question": "دختر با فنوتیپ زن، آمنوره اولیه، فقدان موی اگزیلا و پوبیس، تکامل کامل پستان، FSH/LH پایین، تستوسترون طبیعی مردان و نبود رحم، مشکلش چیست؟",
+        "answerText": "AIS (complete)",
+        "explanation": "در سندرم مقاومت کامل به آندروژن، فنوتیپ زنانه، تکامل پستان، فقدان موی آندروژنی، آمنوره اولیه و نبود رحم دیده می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-83",
+        "type": "short_answer",
+        "question": "کدام گزینه درباره دیابت MODY درست است؟",
+        "answerText": "دیابت MODY فقط مبنای ژنتیکی دارد",
+        "explanation": "MODY نوعی دیابت مونوژنیک است که پایه ژنتیکی دارد و معمولاً ارث اتوزومال غالب دارد. در منبع این گزینه با تردید همراه شده است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "text-unknown-q-84",
+        "type": "short_answer",
+        "question": "در بیمار با مشکل قلبی، کدام داروی دیابت بهتر است؟",
+        "answerText": "SGLT2 مهارکننده",
+        "explanation": "مهارکننده‌های SGLT2 در بیماران دیابتی با بیماری قلبی-عروقی اثرات محافظتی نشان داده‌اند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-85",
+        "type": "short_answer",
+        "question": "بیماری کالمن چه نوع بیماری است؟",
+        "answerText": "development defect (هایپوگنادی ثانویه مادرزادی)",
+        "explanation": "سندرم کالمن به علت نقص تکاملی در مهاجرت نورون‌های تولیدکننده GnRH رخ می‌دهد و باعث هیپوگنادیسم ثانویه مادرزادی همراه با آنوسمی می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-86",
+        "type": "short_answer",
+        "question": "در کیسی با انسولین و C-peptide بالا، تشخیص چیست؟",
+        "answerText": "انسولینوما",
+        "explanation": "انسولینوما تومور تولیدکننده انسولین است و با هیپوگلیسمی، انسولین بالا، C-peptide بالا و پروانسولین بالا مشخص می‌شود.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-87",
+        "type": "short_answer",
+        "question": "کدام مورد از علائم هیپرتیروئیدی نیست؟",
+        "answerText": "",
+        "explanation": "در منبع پاسخ صریحی ثبت نشده است. علائم هیپرتیروئیدی شامل کاهش وزن، تپش قلب، تعریق، لرزش و اضطراب است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-88",
+        "type": "short_answer",
+        "question": "در فردی با BMI ۲۶ و سابقه مشکل قلبی، چه اقدامی انجام می‌دهیم؟",
+        "answerText": "فقط لایف‌استایل و ورزش",
+        "explanation": "در BMI ۲۶ که در محدوده اضافه وزن قرار دارد، در صورت نبود اندیکاسیون دارویی، اصلاح سبک زندگی و ورزش اقدام اصلی است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-89",
+        "type": "short_answer",
+        "question": "اولین تست تشخیصی آکرومگالی چیست؟",
+        "answerText": "IGF1",
+        "explanation": "IGF-1 تست غربالگری اولیه و حساس برای آکرومگالی است و در صورت بالا بودن، تست سرکوب گلوکز با GH انجام می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-90",
+        "type": "short_answer",
+        "question": "در پسر با ژنیکوماستی، FSH و LH بالا و مشکل بیضه، اقدام مناسب چیست؟",
+        "answerText": "تست کاریوتایپ",
+        "explanation": "در ژنیکوماستی همراه با اختلال گنادی و افزایش گنادوتروپین‌ها، بررسی کروموزومی برای رد ناهنجاری‌هایی مانند سندرم کلاین‌فلتر انجام می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-91",
+        "type": "short_answer",
+        "question": "کدام مورد باعث افزایش پرولاکتین نمی‌شود؟",
+        "answerText": "هایپرتیروئیدی",
+        "explanation": "هایپوتیروئیدی می‌تواند باعث افزایش پرولاکتین شود، ولی هایپرتیروئیدی معمولاً چنین اثری ندارد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-92",
+        "type": "short_answer",
+        "question": "در خانم با اختلال قاعدگی، FSH و LH بالا و پرولاکتین طبیعی، تست مناسب چیست؟",
+        "answerText": "خیلی بستگی دارد",
+        "explanation": "افزایش FSH و LH همراه با اختلال قاعدگی می‌تواند به نارسایی تخمدان اشاره کند؛ انتخاب تست بعدی به سن، علائم و یافته‌های بالینی بستگی دارد.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-93",
+        "type": "short_answer",
+        "question": "کدام مورد جزو معیارهای سندرم متابولیک نیست؟",
+        "answerText": "LDL بیشتر از ۱۹۰",
+        "explanation": "سندرم متابولیک بر اساس دور کمر، تری‌گلیسرید، HDL، فشار خون و قند خون ناشتا تعریف می‌شود؛ LDL بالا جزو معیارهای اصلی آن نیست.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-94",
+        "type": "short_answer",
+        "question": "در کیس با TSH بالا (زیر ۱۰) و T4 نرمال، تشخیص و اقدام چیست؟",
+        "answerText": "هیپوتیروئیدی ساب‌کلینیکال؛ بررسی مجدد ۳ ماه بعد",
+        "explanation": "در هیپوتیروئیدی ساب‌کلینیکال، TSH بالا و T4 آزاد نرمال است و در بسیاری از موارد توصیه می‌شود ۳ ماه بعد آزمایش‌ها تکرار شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-95",
+        "type": "short_answer",
+        "question": "در ندول تیروئید با TSH پایین و گواتر مولتی‌ندولر، اقدام چیست؟",
+        "answerText": "اسکن",
+        "explanation": "در گواتر مولتی‌ندولر همراه با TSH پایین، اسکن تیروئید برای ارزیابی ندول‌های گرم و خودکار کمک‌کننده است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-96",
+        "type": "short_answer",
+        "question": "برای تأیید پرکاری هیپوفیز یا آدرنال چه اقدامی انجام می‌شود؟",
+        "answerText": "تجویز هیدروکورتیزون",
+        "explanation": "پاسخ ثبت‌شده در منبع با تردید همراه است. در ارزیابی برخی اختلالات آدرنال، تجویز هیدروکورتیزون یا تست‌های تحریکی/سرکوبی کاربرد دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "text-unknown-q-97",
+        "type": "short_answer",
+        "question": "هایپرپاراتیروئیدی، انسولینوما و هایپرپرولاکتینمی در یک بیمار نشانه چیست؟",
+        "answerText": "MEN1",
+        "explanation": "همراهی تومورهای پاراتیروئید، پانکراس و هیپوفیز در سندرم MEN1 دیده می‌شود.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-98",
+        "type": "short_answer",
+        "question": "کدام داروهای آنتی‌دیابت باعث افزایش ترشح انسولین می‌شوند؟",
+        "answerText": "سولفونیل‌اوره و میتیگلیناید",
+        "explanation": "سولفونیل‌اوره‌ها و میتیگلیناید از داروهای ترشح‌کننده انسولین هستند و با بستن کانال پتاسیم سلول بتا، ترشح انسولین را افزایش می‌دهند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-99",
+        "type": "short_answer",
+        "question": "در کیس با Anti-TPO مثبت، ESR پایین و بارداری، تشخیص چیست؟",
+        "answerText": "تیروئیدیت سایلنت",
+        "explanation": "تیروئیدیت سایلنت یا بی‌درد در بارداری و پس از زایمان دیده می‌شود و با Anti-TPO مثبت و ESR پایین مشخص می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-100",
+        "type": "short_answer",
+        "question": "در خانم مبتلا به دیابت تیپ ۲ با متفورمین و گلیکلازید، تب و گلو درد، بدون رتینوپاتی، A1c 6.5، FBS 150 و U/A +1 protein، برای بررسی وضعیت کلیوی چه آزمایشی توصیه می‌شود؟",
+        "answerText": "اندازه‌گیری آلبومین و کراتینین در ادرار ۲۴ ساعته",
+        "explanation": "برای ارزیابی نفروپاتی دیابتی، اندازه‌گیری آلبومین ادرار و نسبت آلبومین به کراتینین یا جمع‌آوری ادرار ۲۴ ساعته توصیه می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-101",
+        "type": "short_answer",
+        "question": "در رژیم چاقی کدام مورد غلط است؟",
+        "answerText": "چربی ۲۰-۲۵ درصد",
+        "explanation": "در منبع این گزینه به‌عنوان مورد غلط علامت‌گذاری شده است. رژیم‌های چاقی معمولاً چربی را به میزان متفاوت و اغلب پایین‌تر توصیه می‌کنند.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-102",
+        "type": "short_answer",
+        "question": "دوز کورتون در استرس شدید چقدر است؟",
+        "answerText": "۱۵۰ تا ۳۰۰",
+        "explanation": "در استرس شدید و نارسایی آدرنال، دوز هیدروکورتیزون به ۱۵۰ تا ۳۰۰ میلی‌گرم در روز افزایش می‌یابد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-103",
+        "type": "short_answer",
+        "question": "در کدام بیماری سدیم جمع می‌شود؟",
+        "answerText": "دیابت بی‌مزه",
+        "explanation": "در دیابت بی‌مزه، دفع آب زیاد می‌شود و در صورت محدودیت دسترسی به آب، سدیم سرم می‌تواند افزایش یابد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-104",
+        "type": "short_answer",
+        "question": "خانمی با MTC و فئوکروموسیتوم چه چیزی را چک می‌کنیم؟",
+        "answerText": "Ca",
+        "explanation": "همراهی MTC و فئوکروموسیتوم در MEN2 دیده می‌شود؛ بررسی کلسیم و پاراتیروئید نیز در این سندرم اهمیت دارد.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-105",
+        "type": "short_answer",
+        "question": "ید مورد نیاز در حاملگی چقدر است؟",
+        "answerText": "۲۵۰",
+        "explanation": "نیاز به ید در بارداری به ۲۵۰ میکروگرم در روز افزایش می‌یابد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-106",
+        "type": "short_answer",
+        "question": "ترتیب عملکرد در هیپوگلیسمی چیست؟",
+        "answerText": "کاهش انسولین و...",
+        "explanation": "اولین پاسخ به هیپوگلیسمی کاهش انسولین است و پس از آن گلوکاگون، اپی‌نفرین و کورتیزول افزایش می‌یابند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-107",
+        "type": "short_answer",
+        "question": "کدام مورد کم‌کاری هیپوفیز نمی‌دهد؟",
+        "answerText": "میکروآدنوم",
+        "explanation": "میکروآدنوم هیپوفیز معمولاً کم‌کاری هیپوفیز ایجاد نمی‌کند؛ ماکروآدنوم و رادیاسیون می‌توانند باعث نارسایی هیپوفیز شوند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-108",
+        "type": "short_answer",
+        "question": "اگر TRH سرکوب و T4 نرمال باشد، چه چیزی را چک می‌کنیم؟",
+        "answerText": "T3",
+        "explanation": "در سرکوب TSH با T4 نرمال، احتمال T3 توکسیکوز وجود دارد و باید T3 اندازه‌گیری شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-109",
+        "type": "short_answer",
+        "question": "پیش ساز هورمون تیروئیدی چیست؟",
+        "answerText": "تیروزین (در تیروگلوبین)",
+        "explanation": "تیروگلوبین حاوی تیروزین است که پس از یددار شدن، پیش‌ساز T3 و T4 می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-110",
+        "type": "short_answer",
+        "question": "عارضه اختصاصی‌تر کوشینگ چیست؟",
+        "answerText": "راحت قرمزی صورت",
+        "explanation": "قرمزی صورت و راش‌های همراه از تظاهرات نسبتاً اختصاصی کوشینگ هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-111",
+        "type": "short_answer",
+        "question": "کدام فرد را برای دیابت اسکرین می‌کنیم؟",
+        "answerText": "فردی با BMI ۳۵",
+        "explanation": "BMI بالای ۳۰ یکی از معیارهای غربالگری دیابت نوع ۲ است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-112",
+        "type": "short_answer",
+        "question": "برای بیمار با هایپرآلدوسترونیسم اولین تست چیست؟",
+        "answerText": "سنجش پتاسیم",
+        "explanation": "هایپرآلدوسترونیسم معمولاً با هیپوکالمی همراه است؛ بنابراین سنجش پتاسیم از اولین ارزیابی‌هاست.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-113",
+        "type": "short_answer",
+        "question": "کدام مورد نشانه بدخیمی بیشتر ندول است؟",
+        "answerText": "هیپواکوژنیسیته",
+        "explanation": "هیپواکوژنیسیته در سونوگرافی از ویژگی‌های مشکوک به بدخیمی ندول تیروئید است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-114",
+        "type": "short_answer",
+        "question": "بیمار با ندول تیروئید مراجعه می‌کند؛ اولین کار چیست؟",
+        "answerText": "سنجش TSH",
+        "explanation": "در ارزیابی ندول تیروئید، اندازه‌گیری TSH اولین قدم آزمایشگاهی است و سپس بر اساس آن سونوگرافی و FNA تصمیم‌گیری می‌شود.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-115",
+        "type": "short_answer",
+        "question": "بیمار با پرادراری که پس از ADH غلظت ادرار بالا نمی‌رود، تشخیص چیست؟",
+        "answerText": "دیابت بی‌مزه نفروژنیک",
+        "explanation": "عدم پاسخ به ADH در دیابت بی‌مزه نفروژنیک دیده می‌شود، زیرا کلیه به ADH مقاوم است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-116",
+        "type": "short_answer",
+        "question": "کدام مورد در کوشینگ دیده نمی‌شود؟",
+        "answerText": "اسیدوز متابولیک",
+        "explanation": "اسیدوز متابولیک از تظاهرات معمول کوشینگ نیست؛ کوشینگ می‌تواند با آلکالوز متابولیک و هیپوکالمی همراه باشد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-117",
+        "type": "short_answer",
+        "question": "کدام هورمون پروتئینی است؟",
+        "answerText": "ACTH",
+        "explanation": "ACTH یک هورمون پپتیدی است که از هیپوفیز قدامی ترشح می‌شود و گیرنده آن غشایی است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-118",
+        "type": "short_answer",
+        "question": "کدام هورمون با بقیه تفاوت دارد؟",
+        "answerText": "PTH",
+        "explanation": "PTH از نظر ساختاری با FSH و LH تفاوت دارد؛ FSH و LH گنادوتروپین‌های گلیکوپروتئینی با زیرواحد مشترک هستند.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-119",
+        "type": "short_answer",
+        "question": "کدام هورمون درون‌سلولی است؟",
+        "answerText": "کورتیزول",
+        "explanation": "کورتیزول هورمونی استروئیدی است و از غشای سلول عبور می‌کند و به گیرنده داخل سلولی متصل می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-120",
+        "type": "short_answer",
+        "question": "در چه شرایطی باید دوز لووتیروکسین بیشتری داد؟",
+        "answerText": "موارد کاهش جذب از روده",
+        "explanation": "هر عاملی که جذب روده‌ای لووتیروکسین را کاهش دهد، مانند برخی داروها یا بیماری‌های گوارشی، می‌تواند نیاز به دوز بالاتر را ایجاد کند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-121",
+        "type": "short_answer",
+        "question": "علت اختلال در دیابت MODY و لپره‌چانیسم چیست؟",
+        "answerText": "اختلال ترشح و مقاومت گیرنده",
+        "explanation": "MODY اغلب به علت نقص ترشح انسولین است، در حالی که لپره‌چانیسم به علت جهش گیرنده انسولین و مقاومت شدید به انسولین رخ می‌دهد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-122",
+        "type": "short_answer",
+        "question": "سوالی مشابه سوال ۲۱ با نوع دیابت متفاوت مطرح شد. پاسخ چیست؟",
+        "answerText": "",
+        "explanation": "در منبع فقط اشاره شده سوالی مشابه سوال ۲۱ با نوع دیابت متفاوت وجود داشته است و پاسخ صریحی ثبت نشده است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "text-unknown-q-123",
+        "type": "short_answer",
+        "question": "در پسر با ژنیکوماستی و بیضه کوچک، چه اقدامی انجام می‌دهی؟",
+        "answerText": "احتمالا کاریوتایپ (اگر فیکس بود، مامو)",
+        "explanation": "در ژنیکوماستی همراه با بیضه کوچک، بررسی کروموزومی برای رد کلاین‌فلتر یا سایر اختلالات گنادی انجام می‌شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-124",
+        "type": "short_answer",
+        "question": "خانمی دو ماه تهوع دارد و منس نشده؛ چه اقدامی انجام می‌دهیم؟",
+        "answerText": "تست B-HCG",
+        "explanation": "در خانم با آمنوره و تهوع، ابتدا باید بارداری با تست B-HCG رد یا تأیید شود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-125",
+        "type": "short_answer",
+        "question": "فردی با بزرگ شدن پا و صورت زمخت، چه آزمایشی می‌دهیم؟",
+        "answerText": "IGF1",
+        "explanation": "بزرگ شدن آکرال و صورت زمخت از تظاهرات آکرومگالی است و IGF-1 تست غربالگری اولیه است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-126",
+        "type": "short_answer",
+        "question": "خانم با اختلال قاعدگی و گالاکتوره، کدام تست مناسب است؟",
+        "answerText": "TSH می‌تواند بالا باشد",
+        "explanation": "کم‌کاری تیروئید می‌تواند باعث افزایش پرولاکتین و گالاکتوره شود؛ بنابراین بررسی TSH در این بیماران اهمیت دارد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-127",
+        "type": "short_answer",
+        "question": "آیا هیپوتیروئیدی باعث افزایش پرولاکتین می‌شود؟",
+        "answerText": "بله",
+        "explanation": "هیپوتیروئیدی با افزایش TRH می‌تواند ترشح پرولاکتین را افزایش دهد و گالاکتوره ایجاد کند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-128",
+        "type": "short_answer",
+        "question": "کدام مورد آلدوسترون را زیاد نمی‌کند؟",
+        "answerText": "کاهش پتاسیم",
+        "explanation": "کاهش پتاسیم محرک آلدوسترون نیست؛ هایپرکالمی، کاهش حجم و آنژیوتانسین II محرک‌های اصلی هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-129",
+        "type": "short_answer",
+        "question": "کدام مورد در گریوز اختصاصی است؟",
+        "answerText": "افتالموپاتی",
+        "explanation": "افتالموپاتی گریوز از تظاهرات نسبتاً اختصاصی بیماری گریوز است و با تغییرات التهابی و ارتشاحی اوربیت همراه است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-130",
+        "type": "short_answer",
+        "question": "اختصاصی‌ترین تست برای سنجش کوشینگ چیست؟",
+        "answerText": "اگر بیماری BIPPS، اگر سندرم احتمالا لیدل",
+        "explanation": "در ارزیابی کوشینگ، تست‌های سرکوب دگزامتازون و اندازه‌گیری کورتیزول ادرار ۲۴ ساعته کاربرد دارند. در منبع BIPPS و لیدل ذکر شده است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-131",
+        "type": "short_answer",
+        "question": "بیمار با انسولین پایین، C-peptide و پروانسولین پایین ولی علائم هیپوگلیسمی، احتمالاً چه مشکلی دارد؟",
+        "answerText": "آدنوکارسینوم کبد",
+        "explanation": "در هیپوگلیسمی با انسولین پایین، علل غیر از انسولینوما مانند تومورهای خارج پانکراس و نارسایی کبدی مطرح می‌شوند. در منبع آدنوکارسینوم کبد ذکر شده است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-132",
+        "type": "short_answer",
+        "question": "علائم انسولینوما چیست؟",
+        "answerText": "افزایش انسولین، پروانسولین، C-peptide",
+        "explanation": "انسولینوما با هیپوگلیسمی، انسولین بالا، پروانسولین بالا و C-peptide بالا مشخص می‌شود.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "text-unknown-q-133",
+        "type": "short_answer",
+        "question": "در تنظیم گلوکز، کدام هورمون بر کلیه اثر ندارد؟",
+        "answerText": "گلوکاگون",
+        "explanation": "گلوکاگون عمدتاً بر کبد اثر می‌گذارد و در تنظیم گلوکز اثر مستقیم کلیوی مهمی ندارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      }
+    ]
+  }
+}

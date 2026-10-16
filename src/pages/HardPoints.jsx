@@ -13,7 +13,12 @@ import {
   EyeOff,
 } from 'lucide-react';
 import { getSessionData, getSessionMeta } from '../data/loaders.js';
-import { getExamData, getExamMeta } from '../data/sampleQuestionsLoader.js';
+import {
+  getExamData,
+  getExamMeta,
+  getTopicMeta,
+  getTopicOrder,
+} from '../data/sampleQuestionsLoader.js';
 import { useHardPoints } from '../context/HardPointsContext.jsx';
 import { useReview } from '../context/ReviewContext.jsx';
 import { useSamplePreferences } from '../context/SamplePreferencesContext.jsx';
@@ -94,25 +99,29 @@ export default function HardPoints() {
     return Array.from(map.values()).sort((a, b) => a.id.localeCompare(b.id));
   }, [cardList]);
 
-  /* ---------- Group questions by session ---------- */
+  /* ---------- Group questions by topic ---------- */
 
   const questionsGrouped = useMemo(() => {
     const map = new Map();
     for (const hq of questionList) {
       const { question } = resolveHardQuestion(hq);
-      const sessionId = question?.sessionId ?? 'unknown';
-      if (!map.has(sessionId)) {
-        const data = getSessionData(sessionId);
-        const meta = getSessionMeta(sessionId);
-        map.set(sessionId, {
-          id: sessionId,
-          title: data?.title ?? meta?.title ?? 'سوالات بدون دسته',
+      const topicId = question?.topic || 'unknown';
+
+      if (!map.has(topicId)) {
+        const meta = getTopicMeta(topicId);
+        map.set(topicId, {
+          id: topicId,
+          title:
+            meta?.label ??
+            (topicId === 'unknown' ? 'سوالات بدون دسته' : topicId),
           items: [],
         });
       }
-      map.get(sessionId).items.push({ ...hq, resolved: question });
+      map.get(topicId).items.push({ ...hq, resolved: question });
     }
-    return Array.from(map.values()).sort((a, b) => a.id.localeCompare(b.id));
+    return Array.from(map.values()).sort(
+      (a, b) => getTopicOrder(a.id) - getTopicOrder(b.id)
+    );
   }, [questionList]);
 
   const activeGroups = tab === TAB.CARDS ? cardsGrouped : questionsGrouped;

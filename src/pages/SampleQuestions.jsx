@@ -3,17 +3,17 @@ import { Link } from 'react-router-dom';
 import { BookOpen, Calendar, ChevronLeft, HelpCircle } from 'lucide-react';
 import {
   getExams,
-  getQuestionsCountBySession,
+  getTopics,
+  getQuestionsCountByTopic,
 } from '../data/sampleQuestionsLoader.js';
-import { getSessions, getSessionData } from '../data/loaders.js';
 import { useOnboarding } from '../context/OnboardingContext.jsx';
 import EmptyState from '../components/common/EmptyState.jsx';
 import SampleQuestionsGuide from '../components/onboarding/SampleQuestionsGuide.jsx';
 
 export default function SampleQuestions() {
   const exams = getExams();
-  const sessions = getSessions();
-  const counts = getQuestionsCountBySession();
+  const topics = getTopics();
+  const counts = getQuestionsCountByTopic();
   const unknownCount = counts.unknown ?? 0;
   const { hasSeen, markSeen } = useOnboarding();
 
@@ -54,27 +54,25 @@ export default function SampleQuestions() {
           نمونه سوالات
         </h1>
         <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
-          سوالات امتحانی ادوار گذشته، دسته‌بندی‌شده بر اساس جلسه و دوره
+          سوالات امتحانی ادوار گذشته، دسته‌بندی‌شده بر اساس موضوع و دوره
         </p>
       </header>
 
-      {/* By session */}
+      {/* By topic */}
       <section className="w-full">
         <h2 className="mb-4 flex items-center gap-2 text-lg font-semibold text-slate-900 dark:text-slate-100">
           <BookOpen className="h-5 w-5 text-slate-500" />
-          بر اساس جلسه
+          بر اساس موضوع
         </h2>
         <div className="grid w-full gap-3 sm:grid-cols-2">
-          {sessions.map((session, i) => {
-            const sessionData = getSessionData(session.id);
-            const realTitle = sessionData?.title ?? session.title;
-            const count = counts[session.id] ?? 0;
+          {topics.map((topic, i) => {
+            const count = counts[topic.id] ?? 0;
             const disabled = count === 0;
 
             return (
               <Link
-                key={session.id}
-                to={disabled ? '#' : `/sample-questions/session/${session.id}`}
+                key={topic.id}
+                to={disabled ? '#' : `/sample-questions/topic/${topic.id}`}
                 className={[
                   'group flex w-full min-w-0 items-center justify-between gap-3 rounded-xl border p-4 transition-all',
                   disabled
@@ -88,7 +86,7 @@ export default function SampleQuestions() {
                   </span>
                   <div className="min-w-0 flex-1">
                     <p className="truncate text-sm font-semibold text-slate-900 dark:text-slate-100">
-                      جلسه {i + 1} — {realTitle}
+                      {topic.label}
                     </p>
                     <p className="mt-0.5 text-xs text-slate-500 dark:text-slate-400">
                       {count > 0 ? `${count} سوال` : 'بدون سوال'}
@@ -112,7 +110,7 @@ export default function SampleQuestions() {
             سوالات بدون دسته
           </h2>
           <Link
-            to="/sample-questions/session/unknown"
+            to="/sample-questions/topic/unknown"
             className="group flex w-full min-w-0 items-center justify-between gap-3 rounded-xl border border-amber-200 bg-amber-50/60 p-4 transition-all hover:border-amber-300 hover:bg-amber-50 active:scale-[0.99] dark:border-amber-900/60 dark:bg-amber-950/30 dark:hover:border-amber-800 dark:hover:bg-amber-950/50"
           >
             <div className="flex w-full min-w-0 items-center gap-3">
@@ -124,7 +122,7 @@ export default function SampleQuestions() {
                   سوالات دسته‌بندی‌نشده
                 </p>
                 <p className="mt-0.5 text-xs text-amber-800/80 dark:text-amber-300/80">
-                  {unknownCount} سوال — به جلسه‌ای نسبت داده نشده‌اند
+                  {unknownCount} سوال — موضوعی برایشان تعیین نشده
                 </p>
               </div>
             </div>

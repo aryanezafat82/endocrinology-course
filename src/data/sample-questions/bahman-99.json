@@ -1,0 +1,604 @@
+{
+  "exam": {
+    "id": "bahman-99",
+    "label": "نمونه سوال کورس غدد_ورودی بهمن۹۹",
+    "sourceFile": "📌 نمونه سوال کورس غدد_ورودی بهمن۹۹.txt",
+    "questionCount": 43,
+    "questions": [
+      {
+        "id": "bahman-99-q-01",
+        "type": "short_answer",
+        "question": "وضعیت هورمون تستوسترون و LH در هیپوگنادیسم سنترال چگونه است؟",
+        "answerText": "تستوسترون پایین است؛ LH ممکن است نرمال یا پایین باشد (در هیپوگنادیسم اولیه افزایش می‌یابد).",
+        "explanation": "در هیپوگنادیسم سنترال، اختلال در هیپوتالاموس یا هیپوفیز باعث کاهش ترشح GnRH/LH می‌شود؛ بنابراین تستوسترون پایین و LH معمولاً پایین یا نرمال است. در هیپوگنادیسم اولیه، فیدبک منفی از بین می‌رود و LH بالا می‌رود.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-02",
+        "type": "short_answer",
+        "question": "کدام هورمون پروتئینی است؟",
+        "answerText": "ACTH",
+        "explanation": "ACTH یک هورمون پپتیدی/پروتئینی از هیپوفیز قدامی است. هورمون‌های استروئیدی مانند کورتیزول و آلدوسترون پروتئینی نیستند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-03",
+        "type": "short_answer",
+        "question": "کدام عبارت درباره چاقی غلط است؟",
+        "answerText": "گزینه‌ای که می‌گوید چربی رژیم باید ۲۰ تا ۳۰ باشد.",
+        "explanation": "طبق منبع، گزینه غلط عبارتی بود که محدودیت چربی رژیم را ۲۰ تا ۳۰ مطرح می‌کرد. توجه: در متون، چربی رژیم معمولاً ۲۰ تا ۳۰ درصد انرژی است، نه ۲۰ تا ۳۰ گرم؛ ابهام منبع حفظ شده است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-04",
+        "type": "short_answer",
+        "question": "خانمی به‌اشتباه قرص ریپاگلیناید همسرش را خورده است. وضعیت انسولین و C-peptide چگونه است؟",
+        "answerText": "انسولین بالا و C-peptide بالا.",
+        "explanation": "ریپاگلیناید یک سکرتاگوگ انسولین (مگلیتینید) است و ترشح انسولین endogenous را تحریک می‌کند؛ بنابراین هم انسولین و هم C-peptide افزایش می‌یابند. این با مصرف انسولین اگزوژن که C-peptide پایین است تفاوت دارد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-05",
+        "type": "short_answer",
+        "question": "در کدام حالت C-peptide پایین است؟",
+        "answerText": "انسولین اگزوژن.",
+        "explanation": "C-peptide در سنتز انسولین endogenous همراه با انسولین ترشح می‌شود. در تزریق انسولین اگزوژن، تولید endogenous سرکوب شده و C-peptide پایین می‌ماند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-06",
+        "type": "short_answer",
+        "question": "کیس مشابه سوال ۵: در کدام وضعیت C-peptide پایین است؟",
+        "answerText": "انسولین اگزوژن.",
+        "explanation": "همانند سوال قبلی، مصرف انسولین خارجی باعث سرکوب انسولین endogenous و کاهش C-peptide می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-07",
+        "type": "short_answer",
+        "question": "کدام دارو محافظ قلب است؟",
+        "answerText": "SGLT2",
+        "explanation": "مهارکننده‌های SGLT2 در بیماران دیابتی با بیماری قلبی-عروقی یا نارسایی قلبی اثر محافظتی قلبی و کلیوی دارند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-08",
+        "type": "short_answer",
+        "question": "گیرنده کدام هورمون داخل سلولی است؟",
+        "answerText": "کورتیزول",
+        "explanation": "کورتیزول هورمون استروئیدی است و به گیرنده داخل سلولی (سیتوزولی/هسته‌ای) متصل می‌شود. انسولین و هورمون رشد گیرنده غشایی دارند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-09",
+        "type": "short_answer",
+        "question": "فردی با کلسیم ۱۱/۵، فسفر ۳/۵ و کلسیم ادرار روزانه ۲۵۰ دارد؛ تشخیص چیست؟",
+        "answerText": "هیپرپاراتیروییدیسم (احتمالاً اولیه).",
+        "explanation": "کلسیم بالا همراه با فسفر نرمال و کلسیم ادرار ۲۴ ساعته ۲۵۰ (نه پایین) به نفع هیپرپاراتیروییدیسم اولیه است. در FHH، کلسیم ادرار معمولاً پایین است (<۱۰۰).",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-10",
+        "type": "short_answer",
+        "question": "مردی با سنگ کلیه ۴ ساله، سابقه مشابه در پدر و برادر، کلسیم قدری بالا، فسفر نرمال و PTH نرمال تا بالا مراجعه کرده است. اقدام بعدی چیست؟",
+        "answerText": "جمع‌آوری ادرار ۲۴ ساعته",
+        "explanation": "برای افتراق هیپرپاراتیروییدیسم اولیه از هیپرکلسیمی هیپوکلسیوریک خانوادگی (FHH)، اندازه‌گیری کلسیم ادرار ۲۴ ساعته و نسبت کلسیم/کراتینین ادرار کمک‌کننده است.",
+        "topic": "parathyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-11",
+        "type": "short_answer",
+        "question": "بیماری با قند ناشتا ۱۱۰ و قند دو ساعت بعد از غذا ۱۸۰ در چه مرحله‌ای است؟",
+        "answerText": "پره‌دیابت",
+        "explanation": "قند ناشتای ۱۰۰-۱۲۵ و قند ۲ ساعته ۱۴۰-۱۹۹ در محدوده پره‌دیابت است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-12",
+        "type": "short_answer",
+        "question": "خانمی با BMI 35، سابقه مشکل قلبی و پره‌دیابت؛ کدام گزینه درباره شروع متفورمین غلط است؟",
+        "answerText": "",
+        "explanation": "منبع فقط اشاره دارد که باید درباره متفورمین تصمیم گرفته شود و گزینه غلط مشخص نیست. در پره‌دیابت، متفورمین معمولاً در BMI≥35، سن<60، و زنان با سابقه دیابت بارداری توصیه می‌شود؛ وجود بیماری قلبی به‌تنهایی منع مطلق نیست.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-13",
+        "type": "short_answer",
+        "question": "کدام تومور هیپوفیز ترشحش بیشتر است؟",
+        "answerText": "پرولاکتین",
+        "explanation": "پرولاکتینوما شایع‌ترین تومور ترشح‌کننده هیپوفیز است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-14",
+        "type": "short_answer",
+        "question": "کدام تومور هیپوفیز کمتر آسیب می‌زند؟",
+        "answerText": "ACTH",
+        "explanation": "تومورهای ترشح‌کننده ACTH (بیماری کوشینگ) نسبت به برخی تومورهای تهاجمی مثل پرولاکتینوماهای بزرگ، عوارض فشاری کمتری ایجاد می‌کنند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-15",
+        "type": "short_answer",
+        "question": "تست اسکرین هورمون رشد چیست؟",
+        "answerText": "IGF-1",
+        "explanation": "IGF-1 به‌عنوان شاخص پایدار ترشح هورمون رشد برای اسکرین و پیگیری اختلالات هورمون رشد استفاده می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-16",
+        "type": "short_answer",
+        "question": "منظور از سوالی که درباره تومور ترشح‌کننده IGF2 بود چیست؟",
+        "answerText": "تومور غیرجزیره‌ای ترشح‌کننده IGF2",
+        "explanation": "IGF2 می‌تواند توسط تومورهای غیرجزیره‌ای (مانند تومور فیبروزی منفرد) ترشح شود و باعث هیپوگلیسمی شود. منبع پاسخ صریح ندارد.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-17",
+        "type": "mcq",
+        "question": "کدام گزینه درست است؟",
+        "options": [
+          "گرلین باعث تحریک سیری و...",
+          "GLP1 از روده کوچک ترشح می‌شود و کمبودش باعث چاقی می‌شود",
+          "گزینه‌ای راجع به ارتباط ادیپونکتین و دیابت"
+        ],
+        "correctAnswer": -1,
+        "explanation": "گرلین اشتها را تحریک می‌کند نه سیری. GLP-1 از سلول‌های L روده کوچک/کولون ترشح می‌شود، سیری را افزایش می‌دهد و در چاقی/دیابت نقش دارد. ادیپونکتین در دیابت و چاقی معمولاً کاهش می‌یابد. پاسخ صریح در منبع ثبت نشده است.",
+        "topic": "obesity-metabolic",
+        "flags": {
+          "hasIncompleteOptions": true,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-18",
+        "type": "short_answer",
+        "question": "خانمی با آمنوره و گالاکتوره، استروژن پایین و ACTH بالا؛ مشکل چیست؟",
+        "answerText": "پرولاکتینمی",
+        "explanation": "هایپرپرولاکتینمی باعث آمنوره-گالاکتوره و کاهش استروژن می‌شود. ACTH بالا در منبع ذکر شده اما توضیح آن ناقص است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-19",
+        "type": "short_answer",
+        "question": "کاهش فشار خون و ... نارسایی آدرنال اولیه",
+        "answerText": "نارسایی آدرنال اولیه",
+        "explanation": "نارسایی آدرنال اولیه (بیماری آدیسون) با کاهش کورتیزول و آلدوسترون، افت فشار خون، هیپرپیگمانتاسیون و ACTH بالا تظاهر می‌کند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-20",
+        "type": "mcq",
+        "question": "چگونه جهش‌ها باعث آتروفی تیروئید جنین می‌شوند؟",
+        "options": [
+          "جهش NIS",
+          "جهش پندین",
+          "جهش در گیرنده TSH",
+          "جهش در دئودیناز"
+        ],
+        "correctAnswer": -1,
+        "explanation": "جهش غیرفعال‌کننده گیرنده TSH می‌تواند باعث هیپوپلازی/آتروفی تیروئید و کم‌کاری مادرزادی تیروئید شود. جهش‌های NIS و پندین معمولاً dyshormonogenesis با گواتر می‌دهند. پاسخ صریح در منبع نیامده است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-21",
+        "type": "mcq",
+        "question": "کدام مورد اندیکاسیون مراقبت دیابت زودتر از ۴۵ سال نیست؟",
+        "options": [
+          "LDL بالای ۱۶۰",
+          "مشکل قلبی",
+          "فشار خون بالای ۱۴۰/۹۰",
+          "کلسترول بالای ۲۰۰"
+        ],
+        "correctAnswer": -1,
+        "explanation": "طبق معیارها، فشار خون بالا، بیماری قلبی-عروقی و برخی اختلالات لیپیدی (مانند HDL پایین و TG بالا) ریسک فاکتور برای اسکرین زودتر هستند. LDL بالای ۱۶۰ و کلسترول بالای ۲۰۰ به‌تنهایی از معیارهای کلاسیک نیستند. پاسخ صریح منبع نامشخص است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-22",
+        "type": "short_answer",
+        "question": "در APS2 چه ویژگی وجود دارد؟",
+        "answerText": "شیوع بیشتر در زنان",
+        "explanation": "سندرم پلی‌گلندولار خودایمنی نوع ۲ در زنان شایع‌تر است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-23",
+        "type": "short_answer",
+        "question": "کدام مورد در MEN 2A وجود ندارد؟",
+        "answerText": "هیپوفیز (و پانکراس)؛ پاراتیرویید در MEN2A دیده می‌شود.",
+        "explanation": "MEN2A شامل کارسینوم مدولاری تیروئید، فئوکروموسایتوما و هیپرپاراتیروئیدیسم است. درگیری هیپوفیز و پانکراس مشخصه MEN1 است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-24",
+        "type": "short_answer",
+        "question": "در APS2 کدام مورد وجود ندارد؟",
+        "answerText": "همه موارد ذکرشده (کم‌خونی پرنیشیوز، سلیاک و نارسایی آدرنال) جزء APS2 هستند؛ گزینه غلط در منبع مشخص نیست.",
+        "explanation": "APS2 شامل نارسایی آدرنال، تیروئید خودایمن، دیابت نوع ۱، کم‌خونی پرنیشیوز، سلیاک و ... است. منبع پاسخ صریح ندارد.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-25",
+        "type": "short_answer",
+        "question": "برای تشخیص هیپوگلیسمی، آیا قند زیر ۵۵ کافی است؟",
+        "answerText": "نه، فقط قند زیر ۵۵ کافی نیست.",
+        "explanation": "تشخیص هیپوگلیسمی نیازمند تریاد ویپل است: علائم سازگار، قند خون پایین، و بهبود علائم پس از اصلاح قند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-26",
+        "type": "short_answer",
+        "question": "تریاد ویپل شامل چه مواردی است؟",
+        "answerText": "علائم هیپوگلیسمی، قند خون پایین، و بهبود علائم پس از اصلاح قند.",
+        "explanation": "تریاد ویپل برای تشخیص هیپوگلیسمی استفاده می‌شود و صرفاً اندازه‌گیری قند پایین کافی نیست.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-27",
+        "type": "short_answer",
+        "question": "در کیسی با تری‌گلیسرید ۲۱۰۰ و کلسترول ۵۰۰، تشخیص و اقدام چیست؟",
+        "answerText": "هیپرتری‌گلیسریدمی شدید و خطر پانکراتیت؛ درمان با فیبرات، رژیم کم‌چرب، کنترل علل ثانویه.",
+        "explanation": "تری‌گلیسرید بالای ۱۰۰۰ خطر پانکراتیت را به‌طور قابل توجه افزایش می‌دهد. در این سطح، فیبرات و اصلاح رژیم و علل ثانویه (دیابت، الکل، دارو) اولویت دارد.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-28",
+        "type": "short_answer",
+        "question": "پاپول‌های زرد روی زانو نشانه چیست؟",
+        "answerText": "گزانتوما",
+        "explanation": "پاپول‌های زرد روی زانو می‌توانند گزانتوم تاندون یا توبروز باشند و در هیپرکلسترولمی خانوادگی دیده می‌شوند.",
+        "topic": "lipid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-29",
+        "type": "mcq",
+        "question": "گیرنده کدام هورمون G-protein coupled است؟",
+        "options": [
+          "انسولین",
+          "هورمون رشد",
+          "ACTH",
+          "PRL"
+        ],
+        "correctAnswer": -1,
+        "explanation": "گیرنده ACTH از نوع GPCR است. گیرنده انسولین تیروزین کینازی، گیرنده هورمون رشد و پرولاکتین از خانواده سیتوکین هستند. پاسخ صریح در منبع نیامده است.",
+        "topic": "introduction",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-30",
+        "type": "short_answer",
+        "question": "مردی با تستوسترون کم، LH بالا و قد ۱۸۵؛ مشکل چیست؟",
+        "answerText": "هیپوگنادیسم اولیه (احتمالاً سندروم کلاینفلتر)",
+        "explanation": "تستوسترون پایین همراه با LH بالا نشانه هیپوگنادیسم اولیه است. قد بلند می‌تواند به نفع سندروم کلاینفلتر باشد.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-31",
+        "type": "mcq",
+        "question": "بیشترین علت شایعی که مرد با پرولاکتینمی مراجعه می‌کند چیست؟",
+        "options": [
+          "ژنیکوماستی",
+          "گالاکتوره",
+          "استئوپروز",
+          "کاهش لیبیدو"
+        ],
+        "correctAnswer": -1,
+        "explanation": "در مردان، هایپرپرولاکتینمی معمولاً با اختلال عملکرد جنسی و کاهش لیبیدو تظاهر می‌کند. ژنیکوماستی و گالاکتوره ممکن است ولی شایع‌تر نیستند. پاسخ صریح در منبع نیامده است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-32",
+        "type": "short_answer",
+        "question": "پیرمرد ۸۵ ساله با مشکل قلبی و دیابت؛ هدف درمان چیست؟",
+        "answerText": "HbA1c زیر ۸٪",
+        "explanation": "در سالمندان با بیماری‌های همراه و خطر هیپوگلیسمی، هدف HbA1c کمتر سخت‌گیرانه (حدود زیر ۸٪) انتخاب می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-33",
+        "type": "short_answer",
+        "question": "کدام دارو پرولاکتین را تحریک می‌کند؟",
+        "answerText": "بروموکریپتین",
+        "explanation": "پاسخ ثبت‌شده در منبع بروموکریپتین است، اما از نظر علمی بروموکریپتین آگونیست دوپامین و مهارکننده پرولاکتین است. احتمالاً صورت سوال باید «مهار می‌کند» یا «تحریک نمی‌کند» بوده باشد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-34",
+        "type": "short_answer",
+        "question": "کدام مورد باعث افزایش ترشح پرولاکتین می‌شود؟",
+        "answerText": "استروژن",
+        "explanation": "استروژن ترشح پرولاکتین را افزایش می‌دهد. TRH نیز محرک پرولاکتین است، اما TSH خودش محرک پرولاکتین نیست.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-35",
+        "type": "short_answer",
+        "question": "در کورتیزول پایین و ACTH بالا، علل شامل چیست؟",
+        "answerText": "مصرف قرص، آدنوم آدرنال، تومور هیپوفیز",
+        "explanation": "کورتیزول پایین با ACTH بالا معمولاً به نارسایی آدرنال اولیه اشاره دارد. آدنوم آدرنال و تومور هیپوفیز معمولاً الگوهای متفاوتی می‌دهند؛ پاسخ منبع نیاز به بازبینی دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "uncertain"
+        }
+      },
+      {
+        "id": "bahman-99-q-36",
+        "type": "short_answer",
+        "question": "دختر چاق با هیرسوتیسم؛ تشخیص احتمالی چیست؟",
+        "answerText": "PCOS",
+        "explanation": "چاقی و هیرسوتیسم در دختران می‌تواند به نفع سندروم تخمدان پلی‌کیستیک باشد.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-37",
+        "type": "short_answer",
+        "question": "کیس با تپش قلب، تعریق و سردرد؛ تشخیص چیست؟",
+        "answerText": "فئوکروموسایتوما",
+        "explanation": "حمله‌های پاروکسیسمال تپش قلب، تعریق و سردرد از تظاهرات کلاسیک فئوکروموسایتوما هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-38",
+        "type": "short_answer",
+        "question": "خانمی با T4 و TSH بالا و سابقه خانوادگی؛ تشخیص احتمالی چیست؟",
+        "answerText": "مقاومت هورمون تیروئیدی",
+        "explanation": "افزایش همزمان T4 و TSH همراه با سابقه خانوادگی به نفع مقاومت به هورمون تیروئید است. تومور تیروئید و هیپوفیز در گزینه‌ها مطرح بوده‌اند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-39",
+        "type": "mcq",
+        "question": "بیماری با فشار خون ۱۴/۹، قند در محدوده دیابت، تری‌گلیسرید بالا و کلسترول ۱۵۰؛ کدام دارو در اولویت نیست؟",
+        "options": [
+          "کنترل قند",
+          "آملودیپین",
+          "استاتین",
+          "ACE"
+        ],
+        "correctAnswer": -1,
+        "explanation": "در دیابت با فشار خون، ACE inhibitor و کنترل قند و استاتین معمولاً اولویت دارند. آملودیپین می‌تواند بعداً اضافه شود. پاسخ صریح منبع نامشخص است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "bahman-99-q-40",
+        "type": "short_answer",
+        "question": "جذب ید بالا در چیست؟",
+        "answerText": "هیداتی‌فرم مول",
+        "explanation": "هیداتی‌فرم مول (کیست هیداتید) می‌تواند در تصویربرداری تیروئید به‌صورت ندول سرد باشد؛ اما عبارت «جذب ید بالا» در منبع نیاز به بازبینی دارد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-41",
+        "type": "short_answer",
+        "question": "علامت خاص گریوز چیست؟",
+        "answerText": "lid lag",
+        "explanation": "لیز (lid lag) و نگاه خیره از علائم چشمی گریوز هستند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-42",
+        "type": "short_answer",
+        "question": "علائم کم‌کاری تیروئید چیست؟",
+        "answerText": "خشکی پوست",
+        "explanation": "خشکی پوست، خستگی، یبوست، افزایش وزن و سرماخوردگی از علائم کم‌کاری تیروئید هستند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      },
+      {
+        "id": "bahman-99-q-43",
+        "type": "short_answer",
+        "question": "کدام ویژگی ندول تیروئید احتمال بدخیمی را بیشتر می‌کند؟",
+        "answerText": "چسبیده به سطح",
+        "explanation": "ندول چسبیده به سطح (فیکس) یا با رشد سریع و بدون درد، شک به بدخیمی را افزایش می‌دهد. درد معمولاً به نفع تیروئیدیت است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "correct"
+        }
+      }
+    ]
+  }
+}

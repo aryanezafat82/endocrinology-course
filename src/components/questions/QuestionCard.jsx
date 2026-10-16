@@ -11,6 +11,7 @@ import {
 } from 'lucide-react';
 import RichText from '../common/RichText.jsx';
 import NoteEditor from '../common/NoteEditor.jsx';
+import DuplicateBadge from './DuplicateBadge.jsx';
 import { useHardPoints } from '../../context/HardPointsContext.jsx';
 import { useReview } from '../../context/ReviewContext.jsx';
 import { useFontScale } from '../../context/FontScaleContext.jsx';
@@ -78,6 +79,7 @@ export default function QuestionCard({
               {question.sessionId.replace('session-', 'جلسه ')}
             </span>
           )}
+          <DuplicateBadge question={question} />
         </div>
 
         {showToggles && (

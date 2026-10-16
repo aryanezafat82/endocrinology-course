@@ -2,6 +2,77 @@
   "title": "نمونه سوالات",
   "description": "سوالات امتحانی ادوار گذشته",
   "exams": [
-  
+  {
+      "id": "bahman-1401",
+      "label": "بهمن ۱۴۰۱",
+      "file": "bahman-1401.json",
+      "questionCount": 20
+    },
+    {
+      "id": "mehr-1401",
+      "label": "مهر ۱۴۰۱",
+      "file": "mehr-1401.json",
+      "questionCount": 70
+    },
+    {
+      "id": "bahman-1400",
+      "label": "بهمن ۱۴۰۰",
+      "file": "bahman-1400.json",
+      "questionCount": 63
+    },
+    {
+      "id": "mehr-1400",
+      "label": "مهر ۱۴۰۰",
+      "file": "mehr-1400.json",
+      "questionCount": 64
+    },
+    {
+      "id": "bahman-99",
+      "label": "بهمن ۹۹",
+      "file": "bahman-99.json",
+      "questionCount": 43
+    },
+    {
+      "id": "text-unknown",
+      "label": "نامشخص - متنی",
+      "file": "text-unknown.json",
+      "questionCount": 133
+    },
+    {
+      "id": "bahman-97",
+      "label": "بهمن ۹۷",
+      "file": "bahman-97.json",
+      "questionCount": 58
+    },
+    {
+      "id": "bahman-96",
+      "label": "بهمن ۹۶",
+      "file": "bahman-96.json",
+      "questionCount": 44
+    },
+    {
+      "id": "mehr-96",
+      "label": "مهر ۹۶",
+      "file": "mehr-96.json",
+      "questionCount": 56
+    },
+    {
+      "id": "mehr-95",
+      "label": "مهر ۹۵",
+      "file": "mehr-95.json",
+      "questionCount": 60
+    },
+    {
+      "id": "img-unknown",
+      "label": "نامشخص - عکس - بخش اول",
+      "file": "img-unknown.json",
+      "questionCount": 47
+    },
+    {
+      "id": "img-unknown2",
+      "label": "نامشخص - عکس - بخش دوم",
+      "file": "img-unknown2.json",
+      "questionCount": 72
+    }
   ]
 }

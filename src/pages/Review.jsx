@@ -17,7 +17,12 @@ import { useReview } from '../context/ReviewContext.jsx';
 import { useHardPoints } from '../context/HardPointsContext.jsx';
 import { SectionSessionProvider } from '../context/SectionSessionContext.jsx';
 import { getSessionData, getSessionMeta } from '../data/loaders.js';
-import { getExamData, getExamMeta } from '../data/sampleQuestionsLoader.js';
+import {
+  getExamData,
+  getExamMeta,
+  getTopicMeta,
+  getTopicOrder,
+} from '../data/sampleQuestionsLoader.js';
 import EmptyState from '../components/common/EmptyState.jsx';
 import ReviewCard from '../components/review/ReviewCard.jsx';
 import ReviewProgress from '../components/review/ReviewProgress.jsx';
@@ -50,7 +55,7 @@ export default function Review() {
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ forgot: 0, partial: 0, easy: 0 });
   const [showGuide, setShowGuide] = useState(false);
-  const [activeSessionId, setActiveSessionId] = useState(null);
+  const [activeGroupId, setActiveGroupId] = useState(null);
   const [activeExamId, setActiveExamId] = useState(null);
 
   /* ---------------- Due items ---------------- */
@@ -92,49 +97,55 @@ export default function Review() {
     );
   }, [dueCards]);
 
-  const questionsBySession = useMemo(() => {
+  const questionsByTopic = useMemo(() => {
     const map = new Map();
     for (const item of dueQuestions) {
-      // Find the question from loaders to get sessionId
       const exam = getExamData(item.examId);
       const q = exam?.questions?.find((x) => x.id === item.questionId);
-      const sessionId = q?.sessionId ?? 'unknown';
+      const topicId = q?.topic || 'unknown';
 
-      if (!map.has(sessionId)) {
-        const sessionData = getSessionData(sessionId);
-        const sessionMeta = getSessionMeta(sessionId);
-        map.set(sessionId, {
-          id: sessionId,
+      if (!map.has(topicId)) {
+        const meta = getTopicMeta(topicId);
+        map.set(topicId, {
+          id: topicId,
           title:
-            sessionData?.title ??
-            sessionMeta?.title ??
-            'سوالات بدون دسته',
+            meta?.label ??
+            (topicId === 'unknown' ? 'سوالات بدون دسته' : topicId),
           items: [],
         });
       }
-      map.get(sessionId).items.push({ ...item, sessionId, question: q });
+      map.get(topicId).items.push({ ...item, topicId, question: q });
     }
-    return Array.from(map.values()).sort((a, b) =>
-      a.id.localeCompare(b.id)
+    return Array.from(map.values()).sort(
+      (a, b) => getTopicOrder(a.id) - getTopicOrder(b.id)
     );
   }, [dueQuestions]);
 
   const activeGroups =
-    tab === TAB.CARDS ? cardsBySession : questionsBySession;
+    tab === TAB.CARDS ? cardsBySession : questionsByTopic;
 
-  const activeSessionTitle = useMemo(() => {
-    if (activeSessionId) {
-      const data = getSessionData(activeSessionId);
-      const meta = getSessionMeta(activeSessionId);
-      return data?.title ?? meta?.title ?? activeSessionId;
+  const activeGroupTitle = useMemo(() => {
+    if (!activeGroupId) {
+      if (activeExamId) {
+        const data = getExamData(activeExamId);
+        const meta = getExamMeta(activeExamId);
+        return data?.label ?? meta?.label ?? activeExamId;
+      }
+      return null;
     }
-    if (activeExamId) {
-      const data = getExamData(activeExamId);
-      const meta = getExamMeta(activeExamId);
-      return data?.label ?? meta?.label ?? activeExamId;
+    // تب سوالات: activeGroupId یک topicId است
+    if (tab === TAB.QUESTIONS) {
+      const meta = getTopicMeta(activeGroupId);
+      return (
+        meta?.label ??
+        (activeGroupId === 'unknown' ? 'سوالات بدون دسته' : activeGroupId)
+      );
     }
-    return null;
-  }, [activeSessionId, activeExamId]);
+    // تب کارت‌ها: activeGroupId یک sessionId است
+    const data = getSessionData(activeGroupId);
+    const meta = getSessionMeta(activeGroupId);
+    return data?.title ?? meta?.title ?? activeGroupId;
+  }, [activeGroupId, activeExamId, tab]);
 
   /* ---------------- Counts ---------------- */
 
@@ -146,8 +157,12 @@ export default function Review() {
   const dueQuestionCount = dueQuestions.length;
   const dueCount = tab === TAB.CARDS ? dueCardCount : dueQuestionCount;
 
-  const overdueCount = getOverdueCount({ kind: tab === TAB.CARDS ? 'card' : 'question' });
-  const upcomingCount = getUpcomingCount({ kind: tab === TAB.CARDS ? 'card' : 'question' });
+  const overdueCount = getOverdueCount({
+    kind: tab === TAB.CARDS ? 'card' : 'question',
+  });
+  const upcomingCount = getUpcomingCount({
+    kind: tab === TAB.CARDS ? 'card' : 'question',
+  });
 
   /* ---------------- Queue resolution ---------------- */
 
@@ -188,7 +203,9 @@ export default function Review() {
   const currentEntry = resolvedQueue[index] ?? null;
 
   const nextDueDate = useMemo(() => {
-    const items = getAllItems({ kind: tab === TAB.CARDS ? 'card' : 'question' });
+    const items = getAllItems({
+      kind: tab === TAB.CARDS ? 'card' : 'question',
+    });
     if (items.length === 0) return null;
     let min = Infinity;
     for (const it of items) {
@@ -206,7 +223,7 @@ export default function Review() {
     setQueue([...dueItems]);
     setIndex(0);
     setResults({ forgot: 0, partial: 0, easy: 0 });
-    setActiveSessionId(null);
+    setActiveGroupId(null);
     setActiveExamId(null);
     setView(VIEW.SESSION);
   }
@@ -214,16 +231,16 @@ export default function Review() {
   function startGroup(groupId) {
     const items = dueItems.filter((it) => {
       if (it.kind === 'card') return it.sessionId === groupId;
-      // For questions, we need to match by computed sessionId
+      // تب سوالات: groupId یک topicId است
       const exam = getExamData(it.examId);
       const q = exam?.questions?.find((x) => x.id === it.questionId);
-      return (q?.sessionId ?? 'unknown') === groupId;
+      return (q?.topic || 'unknown') === groupId;
     });
     if (items.length === 0) return;
     setQueue([...items]);
     setIndex(0);
     setResults({ forgot: 0, partial: 0, easy: 0 });
-    setActiveSessionId(groupId);
+    setActiveGroupId(groupId);
     setActiveExamId(null);
     setView(VIEW.SESSION);
   }
@@ -249,7 +266,7 @@ export default function Review() {
     setView(VIEW.DASHBOARD);
     setQueue([]);
     setIndex(0);
-    setActiveSessionId(null);
+    setActiveGroupId(null);
     setActiveExamId(null);
   }
 
@@ -302,8 +319,8 @@ export default function Review() {
       );
     }
 
-    const sessionLabel = activeSessionTitle
-      ? `مرور ${activeSessionTitle}`
+    const sessionLabel = activeGroupTitle
+      ? `مرور ${activeGroupTitle}`
       : hardOnly
         ? tab === TAB.CARDS
           ? 'مرور کارت‌های سخت'
@@ -312,7 +329,6 @@ export default function Review() {
           ? 'مرور همه کارت‌ها'
           : 'مرور همه سوالات';
 
-    // Wrap in SectionSessionProvider only for cards (questions don't need it)
     const content = (
       <div className="space-y-6">
         <header className="flex items-center justify-between gap-3">
@@ -353,7 +369,7 @@ export default function Review() {
     if (tab === TAB.CARDS) {
       return (
         <SectionSessionProvider
-          key={`review-${activeSessionId ?? 'all'}-${resolvedQueue.length}`}
+          key={`review-${activeGroupId ?? 'all'}-${resolvedQueue.length}`}
         >
           {content}
         </SectionSessionProvider>

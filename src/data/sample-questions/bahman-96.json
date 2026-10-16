@@ -1,0 +1,846 @@
+{
+  "exam": {
+    "id": "EXAM_ID_PLACEHOLDER",
+    "label": "EXAM_LABEL_PLACEHOLDER",
+    "sourceFile": "SOURCE_FILE_PLACEHOLDER",
+    "questionCount": 44,
+    "questions": [
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-01",
+        "type": "mcq",
+        "question": "برداشت ید رادیواکتیو در کدامیک از موارد زیر کاهش نمی یابد؟",
+        "options": [
+          "بیماری گریوز",
+          "تیروئیدیت تحت حاد",
+          "مصرف لووتیروکسین",
+          "تیروئیدیت بدون درد"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در بیماری گریوز uptake ید رادیواکتیو افزایش می‌یابد؛ در تیروئیدیت‌ها و مصرف لووتیروکسین کاهش می‌یابد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": true,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-02",
+        "type": "mcq",
+        "question": "کدامیک از معیارهای دیابت نیاز به تکرار مجدد جهت تائید تشخیص ندارد؟",
+        "options": [
+          "قندخون ناشتا",
+          "تست تحمل گلوکز",
+          "HbA1C",
+          "قند راندوم"
+        ],
+        "correctAnswer": 3,
+        "explanation": "قند راندوم همراه با علائم کلاسیک هایپرگلیسمی نیاز به تکرار ندارد؛ سایر معیارها در بیمار بدون علائم باید تکرار شوند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-03",
+        "type": "mcq",
+        "question": "کدام عامل زیر اثر بازدارنده بر ترشح هورمون رشد دارد؟",
+        "options": [
+          "ورزش",
+          "هیوگلیسمی",
+          "خواب در ابتدای شب",
+          "سوماتواستاتین"
+        ],
+        "correctAnswer": 3,
+        "explanation": "سوماتواستاتین مهارکننده ترشح GH است؛ ورزش، هیپوگلیسمی و خواب ابتدای شب محرک ترشح GH هستند.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-04",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر باعث ساپرس ترشح TSH نمی شود؟",
+        "options": [
+          "کارگولین",
+          "دوپامین",
+          "کلوکوکورتیکوئیدها",
+          "سوماتورکستائین"
+        ],
+        "correctAnswer": 0,
+        "explanation": "دوپامین، گلوکوکورتیکوئیدها و سوماتواستاتین ترشح TSH را مهار می‌کنند؛ کارگولین چنین اثری ندارد.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-05",
+        "type": "mcq",
+        "question": "رسپتور کدامیک از هورمون های زیر در داخل سلول قرار دارد؟",
+        "options": [
+          "ACTH",
+          "TSH",
+          "Aldosterone",
+          "FSH"
+        ],
+        "correctAnswer": 2,
+        "explanation": "آلدوسترون هورمون استروئیدی است و گیرنده آن داخل سلول قرار دارد؛ ACTH، TSH و FSH گیرنده سطح سلولی دارند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-06",
+        "type": "mcq",
+        "question": "بهترین راه بررسی کافی بودن ید مصرفی در یک جمعیت کدام روش زیر است؟",
+        "options": [
+          "بررسی میزان ید در آب مصرفی",
+          "بررسی میزان ید ادرار افراد",
+          "بررسی میزان ید در خون افراد",
+          "بررسی میزان ید در غذای مصرفی"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ید ادرار شاخص مناسب برای بررسی کفایت ید در جمعیت است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-07",
+        "type": "mcq",
+        "question": "کدام مورد زیر باعث کاهش ترشح آلدوسترون می شود؟",
+        "options": [
+          "کاهش فشار شریان کلیوی",
+          "افزایش عملکرد بتا آدرنرژیک",
+          "کاهش سطح K خون",
+          "کاهش حجم خارج سلولی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "کاهش پتاسیم خون ترشح آلدوسترون را کاهش می‌دهد؛ کاهش فشار شریان کلیوی، افزایش عملکرد بتا آدرنرژیک و کاهش حجم خارج سلولی محرک هستند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-08",
+        "type": "mcq",
+        "question": "پسر 20 ساله ای با قد بلند و ژنیکومالی و کاهش موهای صورت مراجعه نموده است. در معاینه بیضه ها کوچک و طول پنیس کوچکتر از عادی است. اندامها از تنه بلند تر است. در این بیمار کدام تومورهای زیر شایع تر است؟",
+        "options": [
+          "آدنوم هیپوفیز",
+          "تومور پروستات",
+          "تومور پستان",
+          "تومور کولون"
+        ],
+        "correctAnswer": 2,
+        "explanation": "تصویر بالینی سندرم کلاین‌فلتر است؛ این بیماران خطر بالای تومور پستان دارند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-09",
+        "type": "mcq",
+        "question": "مرد 54 ساله ای با اختلال در عملکرد جنسی مراجعه نموده است. BMI:26، PR:65/min، BP:130/70. در آزمایشات: FBS:100 mg/dl، TSH:1 mIU/L، IGF1:55 ng/dl، FT4:0.7 ng/dl، Prolactin:220 ng/ml، LH=1 IU/L، Testosterone:75 ng/dl. در بررسی میدان بینایی Bitemporal Hemiampia دارد. بهترین اقدام بعدی کدام است؟",
+        "options": [
+          "MRI از هیپوفیز",
+          "شروع کابرگولین",
+          "اندازه گیری فرینین سرم",
+          "اندازه گیری مجدد پروالکتین با رقت 1/100"
+        ],
+        "correctAnswer": 1,
+        "explanation": "پرولاکتین بالا، کم‌کاری هیپوفیز و همی‌آنوپی بیتومپورال به نفع ماکروپرولاکتینوماست؛ درمان با آگونیست دوپامین مانند کابرگولین شروع می‌شود.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-10",
+        "type": "mcq",
+        "question": "در مورد بیماری گریوز و حاملگی و شیردهی کدام مورد زیر صحیح می باشد؟",
+        "options": [
+          "استفاده از داروی ضد تیروئید در طی شیردهی ممنوع است",
+          "در طی ماههای اول بارداری پروپیل تیویوراسیل بر متی مازول ارجحیت دارد",
+          "بعد از اتمام بارداری خطر بروز مجدد گریوز کم می شود",
+          "در طی سه ماهه آخر TSI ها افزایش می یابند"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در سه‌ماهه اول بارداری PTU بر متی‌مازول ارجحیت دارد؛ در شیردهی متی‌مازول با دوز کم مجاز است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-11",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر در تیروئیدیت تحت حاد نادرست است؟",
+        "options": [
+          "نسبت T4/T3 در آنها افزایش می یابد",
+          "ESR در آنها بالاست",
+          "آنتی بادی های ضد تیروئید نرمال هستند",
+          "همه آنها نهایتا بهبود می یابند و یوتیروئید می شوند"
+        ],
+        "correctAnswer": 0,
+        "explanation": "در تیروئیدیت تحت حاد نسبت T4/T3 افزایش نمی‌یابد؛ ESR بالا، آنتی‌بادی‌های ضد تیروئید نرمال و بهبود نهایی از ویژگی‌های آن است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-12",
+        "type": "mcq",
+        "question": "کدامیک از عوارض مزمن دیابت جزء عوارض ماکروواسکولار می باشد؟",
+        "options": [
+          "رئینوپاتی",
+          "نفروپاتی",
+          "نوروپاتی",
+          "بیماری عروق کرونر"
+        ],
+        "correctAnswer": 3,
+        "explanation": "بیماری عروق کرونر عارضه ماکروواسکولار است؛ رتینوپاتی، نفروپاتی و نوروپاتی میکروواسکولار هستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-13",
+        "type": "mcq",
+        "question": "کدامیک از داروهای زیر باعث جلوگیری از جذب روده ای لووتیروکسین نمی شود؟",
+        "options": [
+          "فولیک اسید",
+          "آلومنیوم ام جی اس",
+          "کلسیم",
+          "سوکرالفیت"
+        ],
+        "correctAnswer": 0,
+        "explanation": "فولیک اسید جذب لووتیروکسین را مختل نمی‌کند؛ آلومینیوم، کلسیم و سوکرالفیت باعث کاهش جذب می‌شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-14",
+        "type": "mcq",
+        "question": "در یک بیمار مبتلا به پرنوشی، در کدام مورد زیر بدنبال تست محرومیت از آب و افزایش سطح سدیم و اسموالاریته سرم، بدنبال تجویز DDAVP افزایش اسموالاریته ادرار و کاهش حجم ادرار رخ نمی دهد؟",
+        "options": [
+          "DI سانترال",
+          "DI نفروژنیک",
+          "پرنوشی اولیه سایکوژنیک",
+          "پرنوشی اولیه دیپسوژنیک"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در DI نفروژنیک کلیه به وازوپرسین پاسخ نمی‌دهد و اسموالاریته ادرار پس از DDAVP افزایش نمی‌یابد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-15",
+        "type": "mcq",
+        "question": "در دختری 21 ساله که احتمال می دهید دچار سندرم ترنر باشد، انتظار دارید آزمایشات هورمونی اش کدام یک از گزینه های زیر باشد؟",
+        "options": [
+          "Estradiol: High, LH: High, FSH: High",
+          "Estradiol: High, LH: Low, FSH: High",
+          "Estradiol: Low, LH: High, FSH: Low",
+          "Estradiol: Low, LH: High, FSH: High"
+        ],
+        "correctAnswer": 3,
+        "explanation": "در سندرم ترنر نارسایی تخمدان اولیه وجود دارد؛ استرادیول پایین، LH و FSH بالا.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-16",
+        "type": "mcq",
+        "question": "کدامیک از محدوده های قندخون ناشتا موید پیش دیابت می باشد؟",
+        "options": [
+          "70-100",
+          "80-130",
+          "100-125",
+          "140-199"
+        ],
+        "correctAnswer": 2,
+        "explanation": "پیش‌دیابت قند ناشتا 100-125 mg/dL است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-17",
+        "type": "mcq",
+        "question": "خانم 46 ساله ای با ضعف و خستگی و بی حالی مراجعه کرده است. در معاینه تیروئید نرمال است. در بررسی آزمایشگاهی: T4:2.9 mcg/dl، TSH=3 mIU/L. کدام تشخیص برای بیمار مطرح است؟",
+        "options": [
+          "هیپوتیروئیدی اولیه",
+          "هیپوتیروئیدی مرکزی",
+          "مصرف استروژن",
+          "تیروئیدیت تحت حاد"
+        ],
+        "correctAnswer": 1,
+        "explanation": "T4 پایین با TSH نرمال به نفع هیپوتیروئیدی مرکزی است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-18",
+        "type": "mcq",
+        "question": "خانم 25 ساله ای که در دوران بارداری دچار دیابت بارداری شده است بعد از زایمان مراجعه می کند. توصیه شما در مورد غربالگری دیابت در این فرد چه می باشد؟",
+        "options": [
+          "سالانه تا 5 سال",
+          "هر 3 سال تا آخر عمر",
+          "درصورت BS نرمال نیازی به پیگیری نیست",
+          "مراجعه درصورت بروز علائم"
+        ],
+        "correctAnswer": 1,
+        "explanation": "پس از دیابت بارداری، غربالگری حداقل هر 3 سال تا آخر عمر توصیه می‌شود.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-19",
+        "type": "mcq",
+        "question": "کدامیک از موارد زیر جزء ریسک فاکتورهای بروز دیابت می باشد؟",
+        "options": [
+          "سابقه ماکروزمی",
+          "فشارخون بیشتر از 130/80",
+          "HDL کمتر از 40",
+          "سابقه بیماری کاردیوواسکولار"
+        ],
+        "correctAnswer": 3,
+        "explanation": "سابقه بیماری کاردیوواسکولار از ریسک فاکتورهای دیابت است؛ آستانه‌های ذکرشده برای BP و HDL مطابق معیارهای استاندارد نیستند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-20",
+        "type": "mcq",
+        "question": "کدام گزینه در مورد پروالکتین صحیح می باشد؟",
+        "options": [
+          "در حاملگی کاهش می یابد",
+          "دوپامین باعث افزایش آن می شود",
+          "گیرنده آن در سطح سلول قرار گرفته است",
+          "در هیپوگلیسمی کاهش می یابد"
+        ],
+        "correctAnswer": 2,
+        "explanation": "گیرنده پرولاکتین از نوع گیرنده سطح سلولی است؛ پرولاکتین در حاملگی افزایش می‌یابد، دوپامین آن را کاهش می‌دهد و در هیپوگلیسمی افزایش می‌یابد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-21",
+        "type": "mcq",
+        "question": "در سندروم کوشینگ کدام عامل زیر بیشترین نقش را در احتباس آب و نمک دارد؟",
+        "options": [
+          "افزایش ترشح همزمان آلدوسترون",
+          "ناتوانی آنزیم HSD 11B2 کلیه در تخریب کورتیزول",
+          "کاهش میزان فیلتراسیون گلومرولی",
+          "افزایش سطح 11 دزکسی کورتیکواستروئید"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در سندرم کوشینگ، اشباع آنزیم 11β-HSD2 کلیه توسط کورتیزول باعث فعال شدن مینرالوکورتیکوئید و احتباس آب و نمک می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-22",
+        "type": "mcq",
+        "question": "جمله درست از بین موارد زیر کدام است؟",
+        "options": [
+          "سطح گلوکاگون و اپی نفرین زمانیکه غلظت گلوکز به زیر 68 میلی گرم در سی لیتر می رسد افزایش می یابد.",
+          "در هیپوگلیسمی حاد نقش کورتیزول و هورمون رشد بارزتر می گردد.",
+          "در ارزیابی هیپوگلیسمی بعد از غذا، از تست تحمل گلوکز می توان استفاده کرد.",
+          "برای ارزیابی هیپوگلیسمی، القای آن توسط تست ناشتا 72 ساعت ضروری است."
+        ],
+        "correctAnswer": 0,
+        "explanation": "گلوکاگون و اپی‌نفرین در گلوکز زیر 68 mg/dL افزایش می‌یابند؛ کورتیزول و GH در هیپوگلیسمی طولانی‌تر نقش دارند.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-23",
+        "type": "mcq",
+        "question": "خانم 26 ساله ای با شکایت پرنوشی و پر ادراری مراجعه نموده است. حجم ادرار 5 لیتر در 24 ساعت است و اسموالاریته ادرار 250 میلی اسمول در لیتر و اسموالاریته خون 306 میلی اسمول در لیتر می‌باشد. سدیم سرم 146 meq/dl است. بهترین اقدام تشخیصی بعدی کدام است؟",
+        "options": [
+          "تجویز سدیم هیرتولیک، سپس بررسی اسموالاریته ادرار",
+          "انجام MRI از هیپوفیز بررسی وجود bright spot",
+          "تجویز وازوپرسین و اندازه گیری مجدد اسموالاریته ادرار",
+          "مشاوره سایکولوژی"
+        ],
+        "correctAnswer": 2,
+        "explanation": "پرنوشی با اسموالاریته بالای سرم و ادرار رقیق به نفع DI است؛ تجویز وازوپرسین و اندازه‌گیری مجدد اسموالاریته ادرار گام تشخیصی بعدی است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-24",
+        "type": "mcq",
+        "question": "به ترتیب تست غربالی و تست اثباتی برای آکرومگالی کدامند؟",
+        "options": [
+          "اندازه گیری IGF-1، تست تحریکی با انسولین",
+          "اندازه گیری IGF-1، اندازه گیری GH بعد از مصرف گلوکز",
+          "اندازه گیری GH بعد از مصرف گلوکز، MRI هیپوفیز",
+          "اندازه گیری GH بعد از مصرف گلوکز، اندازه گیری IGF-1"
+        ],
+        "correctAnswer": 1,
+        "explanation": "تست غربالی آکرومگالی IGF-1 و تست اثباتی مهار GH پس از مصرف گلوکز است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-25",
+        "type": "mcq",
+        "question": "در سندروم کوشینگ کدام عامل زیر بیشترین نقش را در احتباس آب و نمک دارد؟",
+        "options": [
+          "افزایش ترشح همزمان آلدوسترون",
+          "ناتوانی آنزیم HSD 11B2 کلیه در تخریب کورتیزول",
+          "کاهش میزان فیلتراسیون گلومرولی",
+          "افزایش سطح 11 دزکسی کورتیکواستروئید"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در سندرم کوشینگ، اشباع آنزیم 11β-HSD2 کلیه توسط کورتیزول باعث فعال شدن مینرالوکورتیکوئید و احتباس آب و نمک می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-26",
+        "type": "mcq",
+        "question": "بر طبق مطالعه DCCT کنترل قندخون کدامیک از عوارض میکروواسکولار را بیشتر از همه کاهش می دهد؟",
+        "options": [
+          "نوروپاتی",
+          "نفروپاتی بالینی",
+          "رتینوپاتی",
+          "میکروآلبومینوری"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در مطالعه DCCT کنترل شدید قند بیشترین کاهش را در رتینوپاتی دیابتی نشان داد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-27",
+        "type": "mcq",
+        "question": "خانم 30 ساله بدلیل اضطراب و تپش قلب مراجعه و در معاینه بزرگی منتشر تیروئید با اندازه 1/5 برابر نرمال دارد. در این بیمار کدامیک از موارد زیر به نفع تشخیص بیماری گریوز نیست؟",
+        "options": [
+          "افتالموپاتی",
+          "ویتیلیگو",
+          "Anti TPO مثبت",
+          "حساسیت در لمس"
+        ],
+        "correctAnswer": 3,
+        "explanation": "حساسیت در لمس به نفع تیروئیدیت است نه گریوز؛ اگزوفتالمی، ویتیلیگو و Anti-TPO مثبت در گریوز دیده می‌شوند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-28",
+        "type": "mcq",
+        "question": "در کدامیک از انواع دیابت زیر نقص ژنتیکی در عملکرد انسولین وجود دارد؟",
+        "options": [
+          "دیابت نوع یک",
+          "دیابت جوانان",
+          "لیپودیستروفی",
+          "فیبروز سیستمیک"
+        ],
+        "correctAnswer": 2,
+        "explanation": "لیپودیستروفی می‌تواند با نقص ژنتیکی در عملکرد انسولین همراه باشد.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-29",
+        "type": "mcq",
+        "question": "کدامیک از علائم زیر در توفان تیروئیدی دیده نمی شود؟",
+        "options": [
+          "اسهال و استفراغ",
+          "هیپرتانسیون",
+          "بی قراری",
+          "زردی غیر قابل توجیه"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در توفان تیروئیدی معمولاً هایپوتانسیون دیده می‌شود نه هیپرتانسیون؛ اسهال، بی‌قراری و زردی ممکن است رخ دهند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-30",
+        "type": "mcq",
+        "question": "در MEN1 کدام دسته بیماریهای زیر با هم دیده میشود؟",
+        "options": [
+          "تومور هیپوفیز و پانکراس و پاراتیرویید",
+          "تومور آدرنال، هیپوفیز و کلیه",
+          "تومور تیروئید و پانکراس و پوست",
+          "نوروما، تومور آدرنال و پاراتیروئید"
+        ],
+        "correctAnswer": 0,
+        "explanation": "MEN1 شامل تومورهای هیپوفیز، پانکراس و پاراتیروئید است.",
+        "topic": "aps-men",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-31",
+        "type": "mcq",
+        "question": "کدامیک از تظاهرات زیر برای سندرم کوشینگ اختصاصی تر است؟",
+        "options": [
+          "بوفالوهامپ",
+          "کبودی خودبخودی",
+          "چاقی مرکزی",
+          "استئوپروز"
+        ],
+        "correctAnswer": 1,
+        "explanation": "کبودی خودبخودی از تظاهرات نسبتاً اختصاصی سندرم کوشینگ است؛ چاقی مرکزی و بوفالوهامپ اختصاصیت کمتری دارند.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-32",
+        "type": "mcq",
+        "question": "الگوی تغییرات سطح گلوکز، سطح انسولین، C-peptide در مورد انسولینوما کدامست؟",
+        "options": [
+          "پایین، بالا، بالا، نرمال",
+          "پائین، بالا، بالا، بالا",
+          "پائین، بالا، پائین، نرمال",
+          "پائین، پائین، بالا، نرمال"
+        ],
+        "correctAnswer": 1,
+        "explanation": "در انسولینوما گلوکز پایین، انسولین بالا، C-peptide بالا و پروانسولین بالا است.",
+        "topic": "hypoglycemia",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-33",
+        "type": "mcq",
+        "question": "کدامیک از هورمون های زیر در هنگام استرس افزایش می یابد؟",
+        "options": [
+          "ACTH",
+          "TSH",
+          "FSH",
+          "LH"
+        ],
+        "correctAnswer": 0,
+        "explanation": "استرس ترشح ACTH را افزایش می‌دهد.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-34",
+        "type": "mcq",
+        "question": "خانم 25 ساله ای با تپش قلب، لرزش دست و کاهش وزن 2/5 ماه پیش مراجعه کرده است. تیروئید حداکثر نرمال و پروتوز ندارد. PR=120/min. در آزمایشات: T4=17 mg/dl، T3=240 ng/dl، TSH=<0.01 mIU/L، Thyroglobulin=undetectable. کدام تشخیص برای بیمار مطرح است؟",
+        "options": [
+          "تیروتوکسیکوز گریوز",
+          "تیروتوکسیکوز ساختگی",
+          "تیروئیدیت تحت حاد",
+          "تیروئیدیت هاشیموتو"
+        ],
+        "correctAnswer": 1,
+        "explanation": "تیروگلوبولین غیرقابل اندازه‌گیری همراه با تیروتوکسیکوز به نفع مصرف خارجی هورمون تیروئید (تیروتوکسیکوز ساختگی) است.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-35",
+        "type": "mcq",
+        "question": "در هیپرآلدوسترونیسم اولیه کدام یک از اختلالات الکترولیتی زیر دیده می‌شود؟",
+        "options": [
+          "هیپوناترمی",
+          "هیپرفسفاتمی",
+          "هیپوکلسمی",
+          "هیپوکالمی"
+        ],
+        "correctAnswer": 3,
+        "explanation": "هیپرآلدوسترونیسم اولیه باعث هیپوکالمی می‌شود.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-36",
+        "type": "mcq",
+        "question": "در کدامیک از انواع دیابت زیر اختلال در ترشح انسولین از بتا سل وجود دارد؟",
+        "options": [
+          "دیابت نوع یک",
+          "دیابت نوع دو",
+          "دیابت بارداری",
+          "دیابت جوانان"
+        ],
+        "correctAnswer": 3,
+        "explanation": "دیابت جوانان (MODY) ناشی از نقص ژنتیکی در ترشح انسولین از سلول بتا است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-37",
+        "type": "mcq",
+        "question": "در کدام بیمار زیر لازم است از نظر افزایش ترشح مینرالوکورتیکوئید بررسی شود؟",
+        "options": [
+          "دختر 25 ساله با فشارخون 15/9 و K:3 meq/L",
+          "مرد 40 ساله تحت درمان با اتانول و فشارخون 16/9",
+          "یافته اتفاقی توده 5 میلی‌متر در آدرنال دو طرفه مرد 75 ساله",
+          "فشارخون 14/9 و سدیم پائین در مرد 24 ساله"
+        ],
+        "correctAnswer": 0,
+        "explanation": "خانم جوان با فشارخون و هیپوکالمی نیاز به بررسی هیپرآلدوسترونیسم اولیه دارد.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-38",
+        "type": "mcq",
+        "question": "در کنترل شدید و کامل قندخون کدامیک از عوارض دیابت موقتا بدتر می شوند؟",
+        "options": [
+          "رئینوپاتی و نوروپاتی",
+          "رئینوپاتی و نفروپاتی",
+          "نفروپاتی و نوروپاتی",
+          "رئینوپاتی، نوروپاتی و نفروپاتی"
+        ],
+        "correctAnswer": 0,
+        "explanation": "کنترل شدید و سریع قند می‌تواند به‌طور موقت رتینوپاتی و نوروپاتی را بدتر کند.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-39",
+        "type": "mcq",
+        "question": "دختر 16 ساله ای بعلت آمنوره اولیه مراجعه نموده است. رشد برست نرمال است. در معاینه ناحیه اینگوینال در دو طرف توده بدست می خورد و نمای ظاهری ناحیه تناسلی مبهم است. در بررسی کن رحم دیده نشد. در این بیمار کدام بیماری مطرح می باشد؟",
+        "options": [
+          "کمبود 17-هیدروکسیلاز",
+          "سندروم مقاومت به اندروژن",
+          "سندروم ترنر",
+          "کمبود 21-هیدروکسیلاز"
+        ],
+        "correctAnswer": 1,
+        "explanation": "سندرم مقاومت به آندروژن با فنوتیپ زنانه، عدم رحم و توده‌های بیضه‌ای در ناحیه اینگوینال تظاهر می‌کند.",
+        "topic": "gonad",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-40",
+        "type": "mcq",
+        "question": "بیمار آقای 25 ساله ای است که با کاهش وزن، افت فشارخون، تهوع و استفراغ مراجعه کرده است. در آزمایشات انجام شده آنمی و هیپرکالمی و آرتمی دارد. کدام تشخیص محتمل است؟",
+        "options": [
+          "فنوکروموسیتوما",
+          "هیپرتیروئیدی",
+          "ماکرو آدنومای هیپوفیز",
+          "نارسائی اولیه آدرنال"
+        ],
+        "correctAnswer": 3,
+        "explanation": "کاهش وزن، افت فشارخون، هیپرکالمی و آنمی به نفع نارسایی اولیه آدرنال است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-41",
+        "type": "mcq",
+        "question": "خانم 34 ساله ای با افزایش وزن، ضعف عضلانی، فشارخون و استریای ارغوانی در ناحیه شکم و بازو مراجعه کرده است. در آزمایش های انجام شده کورتیزول ادرار 24 ساعت در 2 نوبت سه برابر حداقل نرمال می باشد. اقدام بعدی چیست؟",
+        "options": [
+          "MRI از هیپوفیز",
+          "CT Scan آدرنال",
+          "اندازه گیری ACTH",
+          "نمونه گیری از Inferior Petrosal Sinus"
+        ],
+        "correctAnswer": 2,
+        "explanation": "پس از تأیید هیپرکورتیزولیسم، اندازه‌گیری ACTH برای افتراق وابسته به ACTH از غیروابسته گام بعدی است.",
+        "topic": "adrenal",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-42",
+        "type": "mcq",
+        "question": "کدام مورد زیر جزء تظاهرات نوروژیک بیماری هیپوتالاموس می باشد؟",
+        "options": [
+          "اختلال تکامل جنسی",
+          "کوتاهی قد",
+          "نارسایی آدرنال",
+          "اختلال خواب"
+        ],
+        "correctAnswer": 3,
+        "explanation": "اختلال خواب از تظاهرات نوروژنیک بیماری هیپوتالاموس است.",
+        "topic": "pituitary-hypothalamus",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-43",
+        "type": "mcq",
+        "question": "در اهداف کنترل قندخون، قند خون ناشتا باید در چه محدوده ای باشد؟",
+        "options": [
+          "زیر 100",
+          "80-130",
+          "140-199",
+          "زیر 180"
+        ],
+        "correctAnswer": 1,
+        "explanation": "هدف قند خون ناشتا در دیابت 80-130 mg/dL است.",
+        "topic": "diabetes",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      },
+      {
+        "id": "EXAM_ID_PLACEHOLDER-q-44",
+        "type": "mcq",
+        "question": "خانم 45 ساله ای با ضعف و خستگی و بی اشتهایی مراجعه کرده است. در معاینه پوست خشک و ورم پلک وجود دارد. تیروئید 1/5 برابر نرمال است و قوام آن سفت و حدودش نامنظم است. احتمال طبیعی بودن کدامیک از موارد زیر بیشتر است؟",
+        "options": [
+          "TSH",
+          "Free T4",
+          "Free T3",
+          "Anti TPO"
+        ],
+        "correctAnswer": 2,
+        "explanation": "در هیپوتیروئیدی اولیه TSH بالا و Free T4 پایین است؛ Free T3 ممکن است به دلیل تبدیل محیطی طبیعی بماند.",
+        "topic": "thyroid",
+        "flags": {
+          "hasIncompleteOptions": false,
+          "requiresImage": false,
+          "fileAnswerStatus": "unanswered"
+        }
+      }
+    ]
+  }
+}
